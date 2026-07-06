@@ -1,0 +1,62 @@
+[
+  {
+    "question": "'File Name: core/contracts/interfaces/IProxyManager.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4e2b4ec8-838b-4c99-9193-e5f9fec31bbf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IVerifier.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_67d1a716-9533-42e5-8da0-1ffa53f3aa81?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouse.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a23c5493-da66-4ad8-87c9-4b9bb4928640?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouseEventEmitter.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e3134e46-a57d-415d-b8e0-e76b49fdcd8c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouseLiq.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_21a44dba-dcea-4f7e-90f8-dd92d5e8e18a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/IPerpEngine.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_dca240d0-255a-423c-a373-51333dcd0c87?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/IProductEngine.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ffef0699-c962-46dc-862d-18770b764338?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/ISpotEngine.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fc9b3bfd-5faf-45e9-869a-877a2731f5fa?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/ERC20Helper.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d26e77ec-84c2-4767-961c-7584ec286aa9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/MathHelper.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a2ec3863-bc09-4684-9e55-64357e8ce75b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/MathSD21x18.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_16d4c6de-f778-41df-bc8a-072136f6d695?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/RiskHelper.sol -> Scope: Critical. Cross-contract state desynchronization among Endpoint, EndpointTx, Clearinghouse, SpotEngine, PerpEngine, OffchainExchange, Verifier, WithdrawPool, ProxyManager, DirectDepositV1, or Airdrop that causes unauthorized release, loss, lock, or duplication of funds/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_63ea2c39-e179-4d10-9a00-8eb10d7b3607?mode=deep",
+    "questions_generated": false
+  }
+]
