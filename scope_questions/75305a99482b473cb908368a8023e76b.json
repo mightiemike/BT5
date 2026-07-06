@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/contracts/Airdrop.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3a9c4ffd-44a9-4543-ad1b-2b2c893810d0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseEngine.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_aa10e901-ca7e-4012-a764-08a1df460f6b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseProxyManager.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0d5af2c6-2053-4bae-9e2c-2d908c04ea57?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseWithdrawPool.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e3c06684-d1fe-4516-ba9e-6a18385261ae?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Clearinghouse.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_39177fcd-d84a-4d98-be69-977899c24ff6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseLiq.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_87374d3b-d51c-4610-97aa-8a3693ba317b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseStorage.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_04965310-7cc9-4de3-ae74-abd0719a4edc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ContractOwner.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fa28f4dd-41d8-4fd9-b8aa-3bfaaa543b44?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/DirectDepositV1.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_41d31f4b-a4ca-4e30-b690-9a814304eb3b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Endpoint.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d6b19a73-ff90-42a2-b24b-65bd9e5a84b9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointGated.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4cf9dfe8-3477-452f-a9b6-f8483f9fedb6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointStorage.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8b0f3b6e-e445-4f1e-96c3-8d7bfc9f710d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointTx.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1574113c-9001-41cc-a9b1-1ce63b01153d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/OffchainExchange.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_95a85c89-e3ce-4b40-a327-f30dec859696?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngine.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_16f09067-af92-44ac-811c-dcf2409db2a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngineState.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c9c1701c-5ef6-4193-b662-26e9a5c3aaba?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ProxyManager.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3d18b47d-b72f-44de-aab6-fce92fb82201?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngine.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_675af995-814f-43a6-9707-73c28f5ea8f1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngineState.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a3320310-791d-443c-86c8-465601c19ccc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Verifier.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a7afeb37-5961-4934-9ef4-877b5be043a5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/WithdrawPool.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_635995fb-7581-4080-b097-854ec0c3eeaf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Constants.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fb161aff-888e-4d25-9c2f-9e55e5bcf845?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Errors.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f5dce9c0-544b-4300-8dff-b86b11fd6dd8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IAirdrop.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_84bf267c-912f-4a7d-8f00-8e2f97667b7e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC20Base.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_db8357a2-f8f9-4645-90e5-b539431937f6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC4626Base.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e2b38164-fd9d-416e-bcb0-aceaf3d8416b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpoint.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3f5c0b6b-0361-48ff-b8f4-bf15d15dc5b3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpointGated.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e6b4be6f-5ebd-491a-8905-86f010b809ce?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IFEndpoint.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_693d1047-2cc6-4f10-97c7-70f210817f76?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IOffchainExchange.sol -> Scope: Critical. Signature, nonce, quorum, sequencer, slow-mode, delegatecall, or authentication bypass that enables unauthorized privileged actions, replayed state changes, or forged order execution.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d0b21cb5-d15c-465d-9225-12c1d156a210?mode=deep",
+    "questions_generated": false
+  }
+]
