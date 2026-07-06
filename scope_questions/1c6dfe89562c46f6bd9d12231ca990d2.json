@@ -1,0 +1,62 @@
+[
+  {
+    "question": "'File Name: core/contracts/interfaces/IProxyManager.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2defcbff-9a6b-472d-975a-5b9440a7b6c7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IVerifier.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9864b123-0eae-4d58-a88a-781a318ba97c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouse.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0b3f3750-d1a1-4b75-8cbe-162d94d0a4b3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouseEventEmitter.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_338e2f84-3ef0-4a30-9ad2-28d0b89840e9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouseLiq.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ced70f1f-6b8c-4c0d-8cca-27f926d40975?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/IPerpEngine.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e4f1a591-3f0c-48b2-934f-a9d63edf9993?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/IProductEngine.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ad5fbd2a-0214-423b-a1e3-763cd68f0612?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/ISpotEngine.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e3f7ee70-cac3-4e61-b4e9-7470bc7a3bd1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/ERC20Helper.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c3a63a55-fd6f-4eac-90c1-4d06188418c4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/MathHelper.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7f488b20-b152-48e4-bb57-9043ca1de2a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/MathSD21x18.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_acf78991-7847-47e2-a654-5a2f16cc0448?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/RiskHelper.sol -> Scope: Critical. Unauthorized transaction execution that submits, confirms, replays, or settles actions on behalf of a user without valid consent, authorization, or signer ownership.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_76852096-c0e8-42e9-8f30-2662d886e1f0?mode=deep",
+    "questions_generated": false
+  }
+]
