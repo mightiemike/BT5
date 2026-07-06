@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/contracts/Airdrop.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e440587c-fffc-44b0-aeac-511c79095ad1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseEngine.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1ac1801e-81eb-4d3d-9052-1161f433c124?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseProxyManager.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e71b5dff-0160-43be-a305-f036125fef93?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseWithdrawPool.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d7cf00e6-fb87-4f29-a2cb-083ca43e5270?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Clearinghouse.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ade01093-20a2-48b4-b476-affd4ec6232c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseLiq.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e1a0e422-13f0-4bf1-8e20-f764cb0c9585?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseStorage.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_03d5f18f-5939-45f8-9494-73329b7bd13a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ContractOwner.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_802f4392-01b2-4f78-98cd-ba2da51e9c23?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/DirectDepositV1.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c21dd4d4-b777-4231-baeb-280f5e04055a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Endpoint.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_43cff177-a4ef-4db3-a8ec-a4fab962b9c4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointGated.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1c4c1e0d-4916-4195-bd5b-caa49ef4aa77?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointStorage.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1952a5b5-3197-4ba9-a140-ab147eae956b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointTx.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f070bb68-5f23-4159-8608-8f3689acd810?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/OffchainExchange.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f71e5550-bc52-43af-a144-d926b0847dee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngine.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ce622aef-b723-4d02-be56-9dcf67427813?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngineState.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b3859cc4-93ee-4887-9df4-093c91b3ad31?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ProxyManager.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6ce3e526-8a34-4f57-9087-8ce2d4c2e274?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngine.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5f3b11bf-ee36-46c7-a223-b05bcf027e37?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngineState.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_84d760f1-92e6-4bfd-9831-724d15ca58d8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Verifier.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ecba4fc8-fcf8-4902-b6f1-dc8b5ac6e856?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/WithdrawPool.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_daff7805-06e0-4e8b-b04a-0c5ea71d78de?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Constants.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_03fc9ca4-2d6c-4fdb-a04a-4378e0ec7db3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Errors.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7bc9cc8a-6605-444a-9f76-657d666fe32e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IAirdrop.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2afd6b66-af6f-455e-9135-d2920f8ae00b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC20Base.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a5c63a29-53f6-4ba2-a331-0eebb53c29d8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC4626Base.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d015b6ce-68d7-4610-a587-1ac9f16f2193?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpoint.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_84baee0a-ae99-4ffe-b437-967d8c13aa33?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpointGated.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b6b5e0b5-c10b-4274-b2ef-52c3107a0620?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IFEndpoint.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f3463ebb-2de6-4bc1-8cf5-97de8d9d4730?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IOffchainExchange.sol -> Scope: Critical. Reentrancy across token transfers, callbacks, delegatecalls, withdrawal flows, or cross-contract execution that enables double-withdrawal, double-credit, stale-state execution, or balance bypass.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ae64944c-851c-44f6-b983-b889069443df?mode=deep",
+    "questions_generated": false
+  }
+]
