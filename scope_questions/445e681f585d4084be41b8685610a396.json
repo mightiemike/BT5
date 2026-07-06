@@ -1,0 +1,62 @@
+[
+  {
+    "question": "'File Name: core/contracts/interfaces/IProxyManager.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8645e9db-9e55-41cd-9e86-b23c8df8e109?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IVerifier.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_eb118e7e-ccac-4a9b-a2b8-cc364056440c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouse.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_71c4aec8-bc1a-498e-b683-ec0f289a80be?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouseEventEmitter.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cd35b943-fdb1-4f3c-a746-e378bf16449a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/clearinghouse/IClearinghouseLiq.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ab0eaceb-4a11-4233-b372-c5c5d68f4269?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/IPerpEngine.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_723d5a71-6e0d-4ef9-861f-9bc116989afd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/IProductEngine.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c248f269-b1b0-415f-a442-d92de6ba5066?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/engine/ISpotEngine.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e59a91b3-88d3-4f11-8b74-b5a7a8f99a8e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/ERC20Helper.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_556dd358-e075-464d-8d3a-32ebe93f78d7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/MathHelper.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4e4d4807-9e7d-4391-a448-1516b84c5cda?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/MathSD21x18.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b5b60585-afb8-44a7-98ce-2cd4135d3794?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/libraries/RiskHelper.sol -> Scope: Critical. Reordering or sequence-dependence flaw where attacker-controlled call ordering, queue ordering, nonce ordering, or settlement ordering produces unauthorized state transitions or value extraction.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0b209afa-27ab-4dc1-9614-3c8577be9e4f?mode=deep",
+    "questions_generated": false
+  }
+]
