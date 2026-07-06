@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/contracts/Airdrop.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5520cc51-265b-4e4a-b2c9-493eba4f12a6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseEngine.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2bf70968-a108-4dda-91bf-0adbe53319a1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseProxyManager.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0e73886a-4e85-4fd1-a104-d2d949207c06?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseWithdrawPool.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_29791d74-ecb0-4e30-9b9f-9d6b08374909?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Clearinghouse.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6b5dbc94-d71f-4604-89cf-4bf4667e9097?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseLiq.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c2c2c5df-ad5d-43ec-8f1e-a0ca2b2e8a7c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseStorage.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0385b3a4-ec39-4907-bfe4-f06381a1a69f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ContractOwner.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_766b41f9-320b-4155-a783-52934a9bfd28?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/DirectDepositV1.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_071bc85d-a137-4057-b29b-7fbc6b30b000?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Endpoint.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_be87f87f-ac7b-4a34-84e1-4374b808bf31?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointGated.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ffe024e7-dd5e-4c99-9e23-e1f102124910?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointStorage.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3d4f1d9a-b006-40c6-97e0-2b2682936daf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointTx.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cb9e0832-a7f8-403a-94c5-942b129ac2ff?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/OffchainExchange.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6953f535-aa87-49db-ae69-c5ccf71124b5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngine.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c9a0d22a-454a-4481-b055-95ac8e91d9fb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngineState.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d2fc9697-cb22-481e-9f2b-95dc21e6b39a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ProxyManager.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1241b411-1af5-4267-a303-75d0dd583a05?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngine.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_79b0ee12-7eb9-4115-a5e3-d8cbcb8c28c0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngineState.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_496a8b62-a8c6-4967-9e8e-076cd994cf37?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Verifier.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cb745d04-4442-4849-9c5d-c540c67ac0e8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/WithdrawPool.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2cd06ffb-337f-49bb-9f38-8c7a34362ddb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Constants.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_bbed57cd-f24c-4446-b6e6-8d320062a329?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Errors.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_507d5a9a-8163-44e7-85cc-ba2bd89788d4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IAirdrop.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7e21f4ee-ba2d-4b26-b082-502190b01717?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC20Base.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_842d846d-993f-4e24-858d-441cd76c78d1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC4626Base.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3d9dd528-25ec-4f16-8c08-df623e497b25?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpoint.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0598541e-bc05-4e3d-9b76-4e6c4d01013e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpointGated.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cd19fcee-d8d8-451e-ab65-40a7c3dd07bf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IFEndpoint.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f4a91709-400c-40c2-9be9-21d25346607a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IOffchainExchange.sol -> Scope: Critical. Solvency or accounting failure in health checks, liquidation, settlement, funding, fees, insurance, or spread handling that transfers value incorrectly or leaves the protocol undercollateralized.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_45b53c63-2dc5-4a9c-a56f-37723c37ca46?mode=deep",
+    "questions_generated": false
+  }
+]
