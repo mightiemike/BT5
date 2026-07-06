@@ -1,0 +1,13 @@
+# Q1084: Subaccount authorization drift across derived identities
+
+## Question
+Can an unprivileged user drive core/contracts/Endpoint.sol / depositCollateral(bytes12 subaccountName, uint32 productId, uint128 amount) with one sender or subaccount identity at validation time but a different effective sender or subaccount identity at execution time, causing state to mutate for the wrong account?
+
+## Target
+- File/function: core/contracts/Endpoint.sol / depositCollateral(bytes12 subaccountName, uint32 productId, uint128 amount)
+- Entrypoint: User waits for a signed batch that eventually reaches Endpoint.processTransaction(...) via the sequencer path.
+- Attacker controls: subaccountName, subaccount, productId, amount, transaction calldata, queue timing, slow-mode ordering, recipient contract behavior
+- Exploit idea: Trace every conversion between address, bytes32 sender, linked signer, parent subaccount, isolated subaccount, and derived recipient around core/contracts/Endpoint.sol / depositCollateral(bytes12 subaccountName, uint32 productId, uint128 amount); then try to keep validation attached to one identity while execution lands on another.
+- Invariant to test: Only the exact authorized account, subaccount, or linked signer should be able to mutate that account’s balances, positions, orders, or withdrawals.
+- Expected HackenProof impact: Critical/High: unauthorized transaction or unauthorized account/subaccount mutation.
+- Fast validation: Write a Hardhat test that deposits through Endpoint and compare actual ERC20 balances against credited balances and queued slow-mode deposits.

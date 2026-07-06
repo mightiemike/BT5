@@ -1,0 +1,13 @@
+# Q467: Spread or encoded-product aliasing
+
+## Question
+Can encoded spread state, composite product IDs, or product-bitmaps around core/contracts/BaseEngine.sol / _addOrUpdateProduct(uint32 productId, uint32 quoteId, int128 sizeIncrement, int128 minSize, RiskHelper.RiskStore memory riskStore) alias to a different exposure than the health, pricing, or liquidation logic assumes, letting the attacker hide or reshape risk?
+
+## Target
+- File/function: core/contracts/BaseEngine.sol / _addOrUpdateProduct(uint32 productId, uint32 quoteId, int128 sizeIncrement, int128 minSize, RiskHelper.RiskStore memory riskStore)
+- Entrypoint: User reaches BaseEngine bookkeeping indirectly through any deposit, withdraw, trade, liquidation, or settlement action.
+- Attacker controls: productId, subaccount, risk weights, nonZeroBalances bitmap state, amount and quote changes
+- Exploit idea: Fuzz every encoded spread leg, bitmap, and product-ID composition that reaches core/contracts/BaseEngine.sol / _addOrUpdateProduct(uint32 productId, uint32 quoteId, int128 sizeIncrement, int128 minSize, RiskHelper.RiskStore memory riskStore), then compare the exposure seen by matching, health, settlement, and liquidation logic.
+- Invariant to test: Bitmap iteration, health contribution, and risk-weight application must not skip positions, misprice risk, or let attacker-controlled state hide liabilities.
+- Expected HackenProof impact: Critical/High: logic attack causing hidden liabilities, wrong liquidation behavior, or unauthorized balance mutation through product aliasing.
+- Fast validation: Fuzz nonZeroBalances transitions around zero-crossing updates and assert no product bit remains stale across withdraw, fill, or liquidation flows.

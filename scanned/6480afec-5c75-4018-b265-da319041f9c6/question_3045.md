@@ -1,0 +1,13 @@
+# Q3045: Cross-contract desync of withdrawPool
+
+## Question
+Can a normal user drive core/contracts/Clearinghouse.sol / forceRebalanceNlpPool(IEndpoint.NlpPool[] calldata nlpPools, int128[] calldata nlpPoolRebalanceX18) so that withdrawPool is updated in one contract or storage area but not the corresponding state in another contract, leaving Nado with a reachable balance, position, or authorization desynchronization?
+
+## Target
+- File/function: core/contracts/Clearinghouse.sol / forceRebalanceNlpPool(IEndpoint.NlpPool[] calldata nlpPools, int128[] calldata nlpPoolRebalanceX18)
+- Entrypoint: User deposits collateral through Endpoint and the call lands in Clearinghouse.depositCollateral(...).
+- Attacker controls: sender, recipient, subaccount, productId, quoteId, amount, priceX18, idx, sendTo, spreads-linked product IDs
+- Exploit idea: Target the exact moment when core/contracts/Clearinghouse.sol / forceRebalanceNlpPool(IEndpoint.NlpPool[] calldata nlpPools, int128[] calldata nlpPoolRebalanceX18) mutates withdrawPool and compare post-state across Endpoint, Clearinghouse, engines, pools, and exchange storage after failure, replay, or partial execution.
+- Invariant to test: External asset transfers must not happen in a way that leaves user balances or protocol balances inconsistent after failure or reentrancy.
+- Expected HackenProof impact: Critical/High: logic attack causing bad debt, insolvency, or invalid liquidation/settlement outcomes.
+- Fast validation: Use a malicious token and withdrawal receiver to test whether Clearinghouse moves funds before all debits, utilization checks, and health checks are final.

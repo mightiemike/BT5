@@ -1,0 +1,13 @@
+# Q615: Arithmetic edge case in previewDeposit(...) output
+
+## Question
+Can attacker-controlled extremes of previewDeposit(...) output drive core/contracts/DirectDepositV1.sol / depositCollateralWithReferral(bytes32 subaccount, uint32 productId, uint128 amount, string memory referral) into a signedness, scaling, precision, overflow, or underflow edge case that creates value, suppresses losses, or bypasses a health or fee check?
+
+## Target
+- File/function: core/contracts/DirectDepositV1.sol / depositCollateralWithReferral(bytes32 subaccount, uint32 productId, uint128 amount, string memory referral)
+- Entrypoint: User funds a DirectDepositV1 helper and triggers DirectDepositV1.creditDeposit(...).
+- Attacker controls: subaccount, productIds list chosen by the live spot engine, token behavior, balance held by the helper, wrappedNative behavior, timing of creditDeposit()
+- Exploit idea: Fuzz previewDeposit(...) output around zero, negative/positive sign flips, INT128 bounds, and decimal-conversion boundaries while tracing how core/contracts/DirectDepositV1.sol / depositCollateralWithReferral(bytes32 subaccount, uint32 productId, uint128 amount, string memory referral) mutates balances and risk state.
+- Invariant to test: Helper-assisted asset wrapping and direct-deposit flows must not strand value, overcredit balances, or allow cross-token confusion.
+- Expected HackenProof impact: Critical/High: overflows or underflows, or logic attack that breaks accounting and can lead to fund loss or insolvency.
+- Fast validation: Test repeated creditDeposit() and receive() flows around wrappedNative and ERC4626 wrapping to assert no stale approvals or double-credit paths exist.

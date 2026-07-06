@@ -1,0 +1,13 @@
+# Q918: Stale cache or memoized-state window
+
+## Question
+Can core/contracts/OffchainExchange.sol / applyFee(uint32 productId, OrderInfo memory orderInfo, MarketInfo memory market, int128 alreadyMatched, // in quote uint128 appendix, bool taker) read a cached market, health, fee, builder, funding, or balance value that becomes stale before the rest of execution finishes, so later steps act on assumptions that are no longer true?
+
+## Target
+- File/function: core/contracts/OffchainExchange.sol / applyFee(uint32 productId, OrderInfo memory orderInfo, MarketInfo memory market, int128 alreadyMatched, // in quote uint128 appendix, bool taker)
+- Entrypoint: User submits an isolated-order payload that EndpointTx routes into OffchainExchange.createIsolatedSubaccount(...).
+- Attacker controls: productId, quoteId, order.sender, priceX18, amount, expiration, nonce, appendix, signature, linked signer
+- Exploit idea: Identify any state snapshot, cached struct, or copied market state used across multiple branches in core/contracts/OffchainExchange.sol / applyFee(uint32 productId, OrderInfo memory orderInfo, MarketInfo memory market, int128 alreadyMatched, // in quote uint128 appendix, bool taker); then mutate the underlying live state through a reachable interleaving and compare the cached result to fresh reads.
+- Invariant to test: A cached or memoized view of state must not remain valid across later user-reachable transitions that can change the economic outcome.
+- Expected HackenProof impact: Critical/High: reordering or logic attack through stale cached state.
+- Fast validation: Write Hardhat tests that replay, partially fill, cancel, and rematch orders while mutating product, appendix, signer, and isolated-subaccount conditions.

@@ -1,0 +1,13 @@
+# Q287: Liability saturation or sign-flip saturation gap
+
+## Question
+Can attacker-controlled liabilities around core/contracts/PerpEngineState.sol / updateStates(uint128 dt, int128[] calldata avgPriceDiffs) hit a max, min, abs, or sign-flip boundary where debt stops growing correctly, collateral stops shrinking correctly, or a penalty saturates before the real exposure does?
+
+## Target
+- File/function: core/contracts/PerpEngineState.sol / updateStates(uint128 dt, int128[] calldata avgPriceDiffs)
+- Entrypoint: User reaches PerpEngineState calculations through matching, liquidation, settlement, and health-check flows.
+- Attacker controls: productId, amount, vQuoteBalance, funding index inputs, priceX18
+- Exploit idea: Push liabilities, borrows, negative PnL, spread exposures, and liquidation amounts toward every numeric boundary used around core/contracts/PerpEngineState.sol / updateStates(uint128 dt, int128[] calldata avgPriceDiffs); then compare the realized exposure to the mathematically expected exposure.
+- Invariant to test: Debt, liability, and penalty accounting must remain monotonic and must not saturate early in a way that benefits the attacker.
+- Expected HackenProof impact: Critical/High: overflow/underflow or logic attack causing hidden liabilities or under-penalized bad debt.
+- Fast validation: Fuzz balance states and funding deltas near zero, max leverage, and sign flips while comparing PerpEngineState outputs to a model implementation.
