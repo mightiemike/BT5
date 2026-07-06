@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/contracts/Airdrop.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1e4a4074-0916-440e-995c-af500b017e01?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseEngine.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f2501b75-52e4-4baa-b16c-b7d8b05aa457?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseProxyManager.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ce8f70c8-e48c-4a93-a119-842c763303cf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseWithdrawPool.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1686f635-4d97-4d8c-8bb6-8e164a86683b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Clearinghouse.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f2159f58-bbef-480d-9a83-7a0ac7a9c76d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseLiq.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_51881e77-cee5-4086-a7d5-aac20c41a499?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseStorage.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0613af19-d8be-4f08-9080-cb763860ec48?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ContractOwner.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_eceeb9e9-89e8-4a71-9773-0b1e1acb3f80?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/DirectDepositV1.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e7a9d44e-b537-452d-8380-e55b46ccec40?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Endpoint.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9b80330a-c2b1-487f-a961-3e17db0e93a0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointGated.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e55b4dda-a5df-43f8-87da-d5dc230a295c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointStorage.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a994c38d-8751-4d3c-a4c9-c2a45eb1ccc5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointTx.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_116bec95-05b5-41aa-985b-9839202ce718?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/OffchainExchange.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fd59c852-07be-4ab0-98d7-9d7e9193a731?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngine.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8876302b-2a77-4bfa-af7d-d56c51a08fef?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngineState.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_99f374a7-87ce-44e3-b998-35cdfdf24e94?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ProxyManager.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6b4cdacd-47d9-4855-a06e-7bc7ccac962d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngine.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_57eb88c6-3479-424d-9fa0-1b32befb0941?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngineState.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7a5c28b1-3837-4c99-90c0-7bffadc59b5f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Verifier.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3473b7fa-a064-45cb-9061-096486173b0b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/WithdrawPool.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_aa35c484-2a4c-4e9d-811a-88620c69c10c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Constants.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4563d6af-24b8-4e9e-893c-cb13c15de575?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Errors.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fc5acf29-ae12-44e7-8f04-b2d0df692441?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IAirdrop.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_44501754-3450-42a5-a06f-37e54481af24?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC20Base.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a52381bb-54ed-4544-9bc1-319859150317?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC4626Base.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_264b565d-489c-414d-ba03-de6c08f012e1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpoint.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_89c8ff25-d90c-4868-a9ae-b9d79539657b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpointGated.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_501dae68-56c2-49da-9049-a152c552a697?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IFEndpoint.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_01e710b6-0eba-4e99-a3e3-34fbbeb6d30f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IOffchainExchange.sol -> Scope: Critical. Arithmetic, scaling, precision, overflow, or underflow flaw in balances, funding, fees, health, pricing, settlement, or share accounting that creates or destroys value incorrectly or breaks solvency.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1b3c3d72-151f-4f45-94fe-24666bc43f85?mode=deep",
+    "questions_generated": false
+  }
+]
