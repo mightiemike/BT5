@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/contracts/Airdrop.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1736d4c8-421a-4de8-a8a6-e415b84d6315?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseEngine.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_40d2acde-bc82-40e6-bf1e-39fde30407ee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseProxyManager.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c9937ee8-542b-4d9b-9247-713be524cbc9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseWithdrawPool.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4b284bb0-07c0-4eb3-b3a4-642be556c064?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Clearinghouse.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c9c168df-3e28-44f1-84ad-f81dc6cc930b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseLiq.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_12b53d6f-96c5-4ceb-bd5e-ac3839cbb284?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseStorage.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_10bb6064-99b9-4899-9ad0-01396f8aef32?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ContractOwner.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a980ad58-7582-4457-8895-fe3acb43ee8f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/DirectDepositV1.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b1aa79c7-8931-450a-8650-2e53f083fcfb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Endpoint.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6eb60896-5a73-4e48-a832-3424c3997124?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointGated.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2350e520-ff22-4a40-b015-e714f83cd93f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointStorage.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8b749f95-cdfc-490d-9b46-b75d8c39182b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointTx.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9d810152-e3c6-44b0-82a5-b40665dd3414?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/OffchainExchange.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c514d457-a5cf-41a4-82e3-72cbd6b02c6a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngine.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b41b3731-1f09-4c8a-be56-2997309c6f52?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngineState.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d606f14f-a5b4-4339-8db3-35363a867a68?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ProxyManager.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d3ae0e42-190f-406e-864e-f842321a7064?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngine.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b3c0706a-4f3a-4747-b17f-d738f6b4bb00?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngineState.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b761841d-5ad1-4985-be22-e39b5749f303?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Verifier.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a2c1e7fc-b736-47e0-b1d1-c91437d1f653?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/WithdrawPool.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_188009de-85b8-43ad-9b6e-1afd7fb302b4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Constants.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a1e048d5-f199-453e-8f97-062f0e95274f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Errors.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7e2981d3-b7a8-4d3a-a744-b7bebb8091fa?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IAirdrop.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5ac75bd8-48e3-4b13-a94e-a892107ace66?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC20Base.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0cf43418-497f-494e-980b-aaffd965939c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC4626Base.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_46fa3f28-d204-464b-a66a-f3e8ea98f4ed?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpoint.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0724b3ec-7bb1-4ea4-ba3d-180d271425ed?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpointGated.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1c8798c6-0541-46c4-b31c-5b288d6ab10c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IFEndpoint.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b7cd85fc-cc9a-4d97-8bcc-4b2fa97c4369?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IOffchainExchange.sol -> Scope: Critical. Business-logic flaw where contract behavior diverges from intended protocol rules and enables asset theft, locked funds, incorrect liquidation, bad debt creation, or unauthorized privileged outcomes.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6621cd86-e6a2-4cc4-ba0a-ae4d930ef23b?mode=deep",
+    "questions_generated": false
+  }
+]
