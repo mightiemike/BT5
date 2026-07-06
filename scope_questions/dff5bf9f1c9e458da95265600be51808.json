@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/contracts/Airdrop.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c39ffb60-079c-4184-8e5b-aa1027ff52dd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseEngine.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_468f0b86-f1d0-4ebb-94c9-73bc34c29c86?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseProxyManager.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_46283a34-9af1-45bf-89e4-b28e39af66c7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/BaseWithdrawPool.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b3d1ebfb-e6d9-4666-9b7f-6dd31eeec088?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Clearinghouse.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5db50ec9-4199-4071-a779-8e41a738fa87?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseLiq.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c2552e6b-854f-4455-82ad-577fd078f783?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ClearinghouseStorage.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f8bb652b-68c1-4d48-9ca6-280399f69054?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ContractOwner.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_dfa5e5da-cbf0-47e4-be8f-10a81823b055?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/DirectDepositV1.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_07dd1b37-c5f3-433c-b934-983fc16ac73e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Endpoint.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0bb3a9fd-6980-4be1-a22c-e614c016637f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointGated.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_79bc13e9-a56a-461c-975c-c7d587b22c86?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointStorage.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_31aef6ea-e126-4f9f-9439-1cdcf8ab034a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/EndpointTx.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a2578ca4-c7e8-4254-b311-94f24f2f0212?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/OffchainExchange.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_57b47af6-1085-410f-b4c8-d75974869e1d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngine.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4407f7a5-eaec-4899-a69d-fdc2504b8a18?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/PerpEngineState.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_929869f3-1e13-4f6b-a152-4ab9716f5f7a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/ProxyManager.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_002afa4f-5d95-420a-87b7-ea0eced9e7af?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngine.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_87a6d998-7639-4c56-832e-bd703369ceec?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/SpotEngineState.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_db4c6483-afe7-4890-9cf3-60cfa24f738b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/Verifier.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c5725e8d-4712-4bf3-8ac5-f882d88cb7e6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/WithdrawPool.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a0d3445c-7b72-48a9-9c80-a24d9c1ca053?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Constants.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_507a2ec7-6a65-4fd8-a5bc-d76340f65439?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/common/Errors.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0d7ceba3-8720-4aca-b99d-f269fbd45f6a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IAirdrop.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_342642b4-8fdd-4c57-a8ff-02d2f2bef5ce?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC20Base.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ffc4ed40-a157-400e-8634-4c20f36abaf5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IERC4626Base.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3db5715e-108b-4856-9c72-a5a95100e65a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpoint.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2e7004db-4ce9-45f2-8ef7-fc7979ce284a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IEndpointGated.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3fe00dbd-61c5-4cb3-ab9b-b8e43cb29ac4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IFEndpoint.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_82c7ceee-3182-44ff-ae38-f1bd41e69d9e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/contracts/interfaces/IOffchainExchange.sol -> Scope: Critical. Unauthorized owner, admin, proxy-manager, verifier, or endpoint-equivalent control path that can seize funds, reroute assets, or mutate protected protocol configuration/state.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_69a7519d-28f4-4989-98f1-9f224069bd82?mode=deep",
+    "questions_generated": false
+  }
+]
