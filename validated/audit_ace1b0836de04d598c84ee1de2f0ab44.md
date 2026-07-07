@@ -1,0 +1,1 @@
+Looking at the Nado codebase, I need to find a case where the same operation is reachable through multiple entry points, but only one path enforces a critical check — the exact pattern from the report.
