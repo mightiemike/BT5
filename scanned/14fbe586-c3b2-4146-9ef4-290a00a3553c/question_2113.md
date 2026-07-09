@@ -1,0 +1,13 @@
+# Q2113: verify_transaction_inclusion endian-sensitive txid interpretation double redemption across reorg
+
+## Question
+Can an unprivileged attacker call `verify_transaction_inclusion` against an odd-width transaction tree where the last leaf is duplicated at one or more levels using choose txid and sibling bytes that are sensitive to how `H256` values are serialized and interpreted between RPC hex and onchain Borsh inputs, so that verification lets the same economic event be proven once before and once after a short reorg so value can be claimed twice?
+
+## Target
+- File/function: contract/src/lib.rs::verify_transaction_inclusion + merkle-tools/src/lib.rs::compute_root_from_merkle_proof
+- Entrypoint: public deprecated `verify_transaction_inclusion`
+- Attacker controls: caller-chosen `tx_id`, `tx_block_blockhash`, `tx_index`, `merkle_proof`, `confirmations`, and the timing of the call relative to relayer updates and public GC
+- Exploit idea: choose txid and sibling bytes that are sensitive to how `H256` values are serialized and interpreted between RPC hex and onchain Borsh inputs to force double redemption across reorg
+- Invariant to test: proof verification must not depend on an endian mismatch between offchain proof construction and onchain `H256` handling
+- Expected Immunefi impact: Unauthorized transaction
+- Fast validation: Initialize the contract with realistic headers, then call `verify_transaction_inclusion` around this exact state transition and assert it never returns `true` in a way that enables double redemption across reorg.
