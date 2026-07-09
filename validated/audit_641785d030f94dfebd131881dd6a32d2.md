@@ -1,3 +1,0 @@
-Looking at the vulnerability class — **incomplete state cleanup on position/entity closure** — I need to find a Nado analog where a field is set when a subaccount/position is created, not cleared when it is closed, and a subsequent operation is corrupted by the stale value.
-
-Let me read the remaining portion of `OffchainExchange.sol` and the `RiskHelper` library to confirm the isolated subaccount state lifecycle.

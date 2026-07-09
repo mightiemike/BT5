@@ -1,2 +1,0 @@
-### Title
-`DirectDepositV1` User Funds Permanently Locked When `depositCollateralWithReferral` Silently Skips Deposit Due to Zero Oracle Price — (`core/contracts/DirectDepositV1.sol`, `core/contracts/Endpoint

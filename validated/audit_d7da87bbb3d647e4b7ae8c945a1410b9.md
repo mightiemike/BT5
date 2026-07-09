@@ -1,1 +1,0 @@
-Based on my analysis, I need to check the Verifier to confirm what the user actually signs in `MintNlp`/`BurnNlp` transactions before concluding.

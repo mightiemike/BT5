@@ -1,1 +1,0 @@
-Looking at the Nado codebase for an analog to the integer-division-rounds-to-zero vulnerability class, I need to find a place where a fee or payment is computed via integer division, can truncate to zero for small inputs, but the user still receives the full benefit.

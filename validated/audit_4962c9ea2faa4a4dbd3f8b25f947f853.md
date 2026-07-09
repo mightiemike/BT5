@@ -1,1 +1,0 @@
-Looking at the vulnerability class — **inconsistent parameter validation where a constraint is checked on a local copy but not enforced in the actual execution path** — I need to find an analog in Nado where a user-signed parameter is validated but not enforced during execution.

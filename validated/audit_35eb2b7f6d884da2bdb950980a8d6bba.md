@@ -1,1 +1,0 @@
-Looking at the external report's vulnerability class — **signature-based front-running that consumes a shared nonce, preventing the victim's own signed transactions from executing** — I need to find an analog in Nado where a non-owner can consume a subaccount's nonce via a signed transaction, blocking the owner's operations.
