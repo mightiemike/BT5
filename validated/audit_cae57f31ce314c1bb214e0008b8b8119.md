@@ -1,0 +1,1 @@
+Looking at the repository structure and code, I need to find an analog to the "security check bypass via internal function call with mismatched context" vulnerability class.
