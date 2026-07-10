@@ -1,1 +1,0 @@
-[File: 'btc-types/src/u256.rs'] [Function: U256::overflowing_mul, calculate_next_work_required] Can an attacker trigger a scenario where `new_target.overflowing_mul(modulated_timespan as u64)` in `calculate_next_work_required` returns `(result, true)` — indicating overflow — causing `require!(!new_target_overflow, \
