@@ -1,0 +1,117 @@
+[
+  {
+    "question": "'File Name: btc-types/src/aux.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_33810e5f-da50-4cdc-b137-b833e54ec710?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/btc_header.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_32905271-da56-4593-9b82-d79dfac3b14c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/contract_args.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f85afac7-9129-4693-85f0-9a72150c5ed7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/hash.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d4722e7b-c7d9-4b52-9ba9-507033166edd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/header.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ed757cd7-a2a1-4d3d-94af-792ce8e6df50?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/lib.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8832e5c7-9fa1-455f-9ba1-4633e0f949b4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/network.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e7f03ff6-fef5-410c-988d-6e26dfa56310?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/u256.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ba5d7c5d-d5c6-4bb5-b4c1-8ba7ea2ee1da?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/utils.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b7e88c7a-df6f-4098-b82a-ad4bc591d14a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/zcash_header.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e8140a2f-a91e-43ab-9df3-2bb9d623f3f5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/bitcoin.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a472b2ee-401d-4064-8e1c-040707072da2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/dogecoin.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0916aaeb-6526-4d1e-a215-71d57ab50f57?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/lib.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7e668cc3-4105-4836-987d-5e9bb49e77db?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/litecoin.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a2ae99da-13f5-41d2-b63a-ec0a9361e41f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/utils.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_44dd5fa6-9d3b-4cc2-8283-c912bbb8162a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/zcash.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cbfc8b35-1906-44e5-8dfc-dc3a46b8cacb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: merkle-tools/src/lib.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_602f76c5-5a38-4d60-b57e-84be358738ed?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/adaptive_batch.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_054e1e07-9582-44b7-8f17-4c72f4c9d2de?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/bitcoin_client.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_86dc50e5-6c80-4e7d-a60c-cc902289bc55?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/config.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_64b0a785-ca38-4420-89c3-027405880c7a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/lib.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e152b4f0-2202-47be-b4e0-cce801174dd5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/main.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a75be7cf-601a-4b40-aa86-bf859eeaa2d5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/near_client.rs -> Scope: Critical. Dogecoin AuxPoW validation flaw that accepts an invalid parent block, chain merkle branch, coinbase commitment, chain ID, or expected index, causing false canonical header acceptance.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5781d6b6-4123-47eb-ad03-8c0126a4c750?mode=deep",
+    "questions_generated": false
+  }
+]
