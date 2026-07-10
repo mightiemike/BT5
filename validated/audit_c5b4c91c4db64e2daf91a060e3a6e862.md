@@ -1,0 +1,1 @@
+Let me look at the Dogecoin AuxPoW validation and the btc-types utilities more carefully.
