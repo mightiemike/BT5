@@ -1,0 +1,117 @@
+[
+  {
+    "question": "'File Name: btc-types/src/aux.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e544212f-2ee5-48b4-99fc-535aaea3cb9d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/btc_header.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1f988b15-d836-44e9-8c57-24dc64d6bd47?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/contract_args.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a7ce0ea8-404d-4dd4-be58-d0e7d2108631?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/hash.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7bf1cb7d-def6-4b7e-b258-d4553bfbc7e2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/header.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1cfbd47c-59e0-46bc-9d85-2823e1e0139f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/lib.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5da566fb-f079-4f99-b2dc-843db32ee6de?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/network.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9d2a248a-eb9d-4d44-9f8f-59b28800aa77?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/u256.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_370f59bb-9947-497f-b718-fea57ff5fe38?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/utils.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_af8b4f57-c61d-49e1-a9e9-feaabe5f8a74?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/zcash_header.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_425f8383-ffff-457b-8402-58402af1b0a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/bitcoin.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2fe84a07-bed4-4d4d-9532-2ea638f647a0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/dogecoin.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_17f0ff95-f3d1-4a24-acc1-e7232a64ae0a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/lib.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_88cba998-5f0a-40f2-ada8-5f63af273f73?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/litecoin.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9a9ed9b4-e1e3-4602-b71c-9092c6e1b803?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/utils.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_48e30d04-87d1-4abf-994b-c201438208c3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/zcash.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d7f3be28-7bc3-452e-a634-9ae4d76f84dc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: merkle-tools/src/lib.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1b9eabd9-d4a9-4202-958f-4225de584d5b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/adaptive_batch.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0b92df1f-e6e5-4178-831b-6c8bb72c7e6e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/bitcoin_client.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_eb9b78b8-70a1-4003-9ea6-457329c4de7d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/config.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_be9af9ad-13fa-445e-9eeb-389c2489121e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/lib.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_74c1504d-b5ed-4171-a21e-d7519870b4f2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/main.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e90d9b3c-e0ea-4082-90e5-0498a4007457?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/near_client.rs -> Scope: Critical. Arithmetic, endianness, serialization, hashing, or U256, target, or work conversion flaw that miscomputes proof-of-work validity, chainwork, header identity, difficulty, or merkle roots.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b5dbdd13-92e0-469d-aca2-7b158da25b2d?mode=deep",
+    "questions_generated": false
+  }
+]
