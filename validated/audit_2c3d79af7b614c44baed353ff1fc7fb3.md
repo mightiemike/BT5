@@ -1,0 +1,1 @@
+After reading the full contract source, I need to check the contract args and the zcash/dogecoin modules for any additional state-update inconsistencies before concluding.
