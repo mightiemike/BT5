@@ -1,0 +1,1 @@
+Let me read the full contract source to look for asymmetric state tracking patterns.
