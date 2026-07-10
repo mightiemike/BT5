@@ -1,0 +1,1 @@
+Looking at the repository structure and production contract code to find an analog to the "overly restrictive state check blocking a valid operation" vulnerability class.
