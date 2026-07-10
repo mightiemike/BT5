@@ -1,0 +1,117 @@
+[
+  {
+    "question": "'File Name: btc-types/src/aux.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7d59f897-aea9-41d0-b945-897c1c8afd4a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/btc_header.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_10ff93e3-f63d-4bbf-9bb6-9dbc9ac20d9f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/contract_args.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ac032285-994d-4f8e-80c8-a6dd615a372d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/hash.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_58c256c5-b9b5-4e53-b38b-b479f15dd1fa?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/header.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_606fe37f-9f7e-4b38-b8e7-a34d4b8be815?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/lib.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_aee1051e-39e9-47f0-a9f3-d5278dbb10f9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/network.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_db797e7c-3270-453f-b644-626dca244d35?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/u256.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_38bbebe1-64d6-4f9b-bce4-2056a26f9037?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/utils.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9bb9d43f-620e-464f-8b3a-519d70a775e9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: btc-types/src/zcash_header.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6a419a18-87c2-45fa-950f-bcd917bafbd5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/bitcoin.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cc27fd3b-5191-427d-892c-f7a92722467e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/dogecoin.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fdb4fcf6-f6a3-491e-bbd4-e800d80156d8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/lib.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8dafcbae-4f60-4b37-a640-902a927a6c20?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/litecoin.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_88ce2c1e-fabb-46dc-9da5-7e4bf8bef3a4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/utils.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_87318e3f-8bf1-4d6e-8469-88a64bbb6bb9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: contract/src/zcash.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_53fc5b16-805c-464b-86e2-4ba0a8f3a426?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: merkle-tools/src/lib.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_26687459-b928-4c33-a564-d6b76f91fec7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/adaptive_batch.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a6107378-bc07-453e-be5e-c3b4355c1c9c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/bitcoin_client.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_af27b808-3cbf-4d81-8d13-7562e3ace2ee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/config.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0f09e818-5ea4-4002-b5d6-a9f9df6d40bd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/lib.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d80f098b-e03e-4e1b-8ccf-f167971783fd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/main.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9183f725-3648-40cc-8921-d3b69bf87a10?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: relayer/src/near_client.rs -> Scope: Critical. Initialization, migration, or genesis-bootstrap flaw that lets an attacker install unsafe starting state, bypass required private or init constraints, or preserve corrupted storage so invalid chain history becomes trusted.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c5db7278-78bf-4a5c-8dc2-d3227be0c236?mode=deep",
+    "questions_generated": false
+  }
+]
