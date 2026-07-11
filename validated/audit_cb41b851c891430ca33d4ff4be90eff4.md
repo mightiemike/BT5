@@ -1,1 +1,0 @@
-Looking at the external report's vulnerability class: **a state variable updated unconditionally even when no meaningful state change occurred, causing future time-based or value-based calculations to be corrupted by

@@ -1,1 +1,0 @@
-Looking at the external report's vulnerability class — **a protection value computed from the wrong/already-modified state, making it ineffective** — I need to find an analog where a validation bound in this BTC light client is derived from state that does not correspond to the actual chain being validated.

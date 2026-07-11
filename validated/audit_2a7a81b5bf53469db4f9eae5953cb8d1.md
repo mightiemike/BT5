@@ -1,1 +1,0 @@
-Let me read the remaining source files to look for arithmetic boundary conditions in the difficulty adjustment and PoW modules.

@@ -1,1 +1,0 @@
-Let me look at the contract's main lib.rs and the Dogecoin retargeting more carefully.

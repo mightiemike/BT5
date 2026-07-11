@@ -1,1 +1,0 @@
-Let me read the dogecoin module and the btc-types files for more context on state tracking.

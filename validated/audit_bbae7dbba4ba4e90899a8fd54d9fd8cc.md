@@ -1,3 +1,0 @@
-Looking at the vulnerability class from M-08 — a calculation uses a global counter that includes contributions from multiple sources, but the formula assumes it only reflects one specific source — I need to find an analog where a difficulty or chainwork calculation in this BTC light client uses a value from the wrong chain context.
-
-Let me examine the difficulty retargeting logic and the `get_header_by_height` lookup path.
