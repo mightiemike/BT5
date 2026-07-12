@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: x/supply/keeper/grpc_query.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0e2bb5c0-33b6-4c3c-8600-d52c6d3ab480?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/keeper/keeper.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_91f276a0-9a69-4cf0-a347-ccec390d417d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/module.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_215b4bf0-430e-4cd2-9af7-fea405a653a5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/expected_keepers.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_db081fe5-0be8-4a85-91ae-49426c18c814?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/genesis.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_818349b6-53e2-4411-92d4-79b6738c7f75?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/keys.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_12b3a457-ea53-4376-93ae-7545fcb83be5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/querier.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_070bdab0-afe4-4170-a545-d782946ada74?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/helpers.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_26400b29-768e-4453-b90e-158416c4f359?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/query.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_615521a3-cdfb-4fbb-8240-3a904dc04e09?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/tx.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c389bd2e-1824-4ad7-9f0d-32cecca7c88a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/abci.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c156b1ce-463a-49b5-92b5-70c1646abff8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/bonus_rewards.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_22cf255f-6201-45a3-96fc-17fcd00d7c13?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/claim_rewards.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d138d846-08b0-4b7c-8202-6264a8aa733c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/collections_helpers.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1e8a7598-9a0c-4394-8052-e61e6a00548a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/delegation.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f275716e-a6a3-40e0-bea1-58efcec199e8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/force_exit.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4758402e-121a-4e0c-a733-638da936e5e5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/genesis.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ab6a590b-e51d-4908-b24e-74934ce2762f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/gov_tally.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ecc8bb5c-5f48-4f5c-9622-922e013e576d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/grpc_query.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_89ba03fd-2feb-45c7-9f16-b090c7edf289?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/hooks.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9bd8310e-46b7-4dd3-b8d9-0e4868a1581d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/keeper.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f3d1a6df-8a4e-446a-8efa-dde1233d12d8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/migrations.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_703963db-ecc0-40f5-8a13-d745b59ea950?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_server.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ede88101-dc15-4858-983e-c2f17eba6187?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_server_auth.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3d795cca-deea-4d22-8b53-1a4ffd902310?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_validate.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5ce0b539-dab2-4798-8f08-c9e8ccd33ec1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/position.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5c01e8b6-ea18-4c30-9eb1-5f12951a9d22?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/position_state.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2b2c861d-e080-4f76-8bd6-47e0a63815ae?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/redelegation_mapping.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_17a4bde0-ad2a-49b5-964c-5ccaf1a58c85?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/slash.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3d5b2a37-8e2d-447d-947a-29c09a550562?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/tier.go -> Scope: Critical. NFT module authorization or ownership invariant break lets an attacker mint, transfer, burn, edit, or seize denominations or NFTs they do not control.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2af84290-48b8-43c6-9fd6-cd1ab8698d6b?mode=deep",
+    "questions_generated": false
+  }
+]
