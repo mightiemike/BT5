@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: x/supply/keeper/grpc_query.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2837f17c-a416-4197-8f0f-779033ecc024?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/keeper/keeper.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0b7eaa5b-84f4-4382-979e-dad773ca92b4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/module.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b5fd7c62-501e-43e8-9862-3c21a5292073?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/expected_keepers.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_793bd558-c814-449d-90cc-767a39fa10c0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/genesis.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4e82bbc0-ad55-42dd-a1fd-b4a93ef15014?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/keys.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_abfcff75-a97a-45b1-b722-6cfb2ab3e5b0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/querier.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8e9f2bb8-8655-4fb5-86cd-2627c4676dff?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/helpers.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_00bc044f-3ab1-4135-85e3-d5727e5f8fc9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/query.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9a654a9e-6549-40e6-8852-9b4d2ab99317?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/tx.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c8563f89-9ca3-4413-a99a-dd7a936f41d6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/abci.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1765198a-199c-4daa-821d-aedb3ee0aa66?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/bonus_rewards.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6d3ddff8-5381-4958-add4-9c7e79f678ea?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/claim_rewards.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d1ecd612-6225-4880-aa31-937bc05e9adf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/collections_helpers.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_38b64ca3-4ba3-4d0b-90bc-060725d75bb7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/delegation.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9cd9a147-0e28-4e82-92e9-2f1b0057b662?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/force_exit.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cd8e50c8-5c58-4c8e-8228-b5a0b77c10e3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/genesis.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b397b287-068a-4f9c-8f2e-3f55f0843c75?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/gov_tally.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9cb899fa-e548-40a7-a8c6-be2af7708cea?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/grpc_query.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2afebb9e-c3f3-4e17-a978-b11072ef1ea2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/hooks.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f5751602-9a06-4f4d-9cc8-4bc8c9421e66?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/keeper.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5a166d9c-6917-4d65-b466-299e49b8f891?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/migrations.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e14839ff-394e-4c26-af1f-148ac290c500?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_server.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_855aff6c-c205-4c58-9269-eb88677c1cb4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_server_auth.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2261c320-3e43-4c0f-bb9d-fe4b7e1f804f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_validate.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9b92dbfc-8a8c-4479-b7af-e814680971d4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/position.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_07387c9e-511b-49d0-a6d7-4858829bdcac?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/position_state.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e646e10e-4242-4c2e-ae3b-15c33089c794?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/redelegation_mapping.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_24c1c6e9-1d33-49a7-b694-4517aa992991?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/slash.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3ece2e2c-3c2d-4f7a-b10d-3a7223ac9341?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/tier.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7571c7ba-dc84-4124-bd80-dba01df2cff7?mode=deep",
+    "questions_generated": false
+  }
+]
