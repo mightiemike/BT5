@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: proto/chainmain/nft/v1/tx.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5359e4a3-6094-440b-be61-77d021fa7071?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/genesis.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6c437633-037d-4c57-9566-126e41f1f66d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/packet.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_062b33de-e9f5-458e-883e-26a88239180b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/query.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7822b268-9a1d-4917-b78b-5f32358b8ba7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/trace.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_97316060-3346-42d1-8595-bcdd1d954b94?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/tx.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_eb7dcb8b-c506-4c52-8a72-e3c4f476054e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/accounts.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_52302a5f-74a1-49b8-a70e-ea9ea6421f9b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/genesis.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_952ef8f6-b010-42c8-8bbe-bc28e56ac0f4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/query.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e660b422-ab19-410f-a374-8c6efe3653a3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/event.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_99e8da1e-5c84-4264-81a4-207fbee2248a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/genesis.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e9888683-f287-44fe-93d9-d4527c621c8c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/params.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2154363e-05e0-4734-a19b-3ee6442a9c3d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/query.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_515dad1d-5e87-49b6-91df-99baffa6a755?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/tx.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a060ca1a-cc89-45d5-98a8-d24d5b25a02a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/types.proto -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b8d22f10-5ef6-494a-89da-2d9992296eed?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/genaccounts.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b8b3ea8f-06c8-44cf-abe7-dfe7b0e29744?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/query.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_466f9031-e866-4e1f-8c98-16a26196442b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/tx.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ac4c2031-01e6-48f9-a898-61479b02739a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/rest/rest.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b3cd3c1c-998d-4268-aa00-9d1d8ef17aee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/genesis.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2b8407eb-b6f1-4ba8-902e-4400a78e6442?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/keeper/keeper.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_aa6b6479-d63d-43bd-bb31-d0798a05101b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/module.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2cb4b796-b8e5-4781-b918-4b5ff1468708?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/errors.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b332b52f-93e7-4094-abfd-2dc3ea633858?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/genesis.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4b1f2c69-9fb6-4c5f-9e43-25d61103ff0d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/keys.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fe2f8f50-ae24-4898-a711-c7253a5d24d8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/types.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_041830ff-0f4e-4149-ad31-e52bc84c5d12?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/abci.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a97ef5ee-bedd-4f4b-9539-0971a47ff8fc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/client/cli/query.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f9262adf-1d59-4a51-a7dd-8e7d4faf5a60?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/client/cli/tx.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_eb29d815-bd81-4525-93ca-3662e5e46cbf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/keeper/genesis.go -> Scope: Critical. Unprivileged on-chain action causes unintentional withdrawal, draining, loss, theft, burn, or permanent lock of user funds or economically valuable NFTs on Cronos POS Chain.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_138e0a14-2307-47e7-9653-ea1b32576ead?mode=deep",
+    "questions_generated": false
+  }
+]
