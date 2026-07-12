@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: proto/chainmain/nft/v1/tx.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_05c5945e-75d8-4158-bc43-8d3bcc772f3a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/genesis.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d0f5bc49-4682-4fb1-b163-ce05e39915df?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/packet.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_89967c8b-9d0e-42f8-8448-ae5f7f9a2d24?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/query.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_994b2d61-9553-4912-b513-855bdc50ea12?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/trace.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_33d31871-c714-44bd-a623-40b65e4e9076?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/tx.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0a9c9de4-5bf7-4b4e-b816-77e976b1ee64?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/accounts.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fc7f4d9f-6c8d-4b84-81e1-4d3566c7e9d7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/genesis.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_aecfa25a-8db5-4917-ba42-0c7b96d4747a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/query.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fcc85d88-3ae9-4110-b94c-a79fc366b492?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/event.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_24914070-6ab4-45f0-828a-b0d50de2ad53?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/genesis.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3c9ee025-156e-4362-8f7a-61d8ebc2d399?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/params.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8a5733bd-7c0b-4ba4-b6b6-c2548b943b0f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/query.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f41ea277-a351-4531-b829-c022debfb6c0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/tx.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c39a3772-dd83-4d53-9957-0b1b39641037?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/types.proto -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_959b665f-cab0-4a5d-9c1d-81671e594a03?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/genaccounts.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a4b24ead-5e79-4b4e-adaf-5a9811e556de?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/query.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_16ec4b86-8613-4fd4-96df-e365db22f9f5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/tx.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2fb5443d-40fe-46e3-8af9-c7d2f80d4fe8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/rest/rest.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_336f07d0-fdde-4e6b-8a75-000ee555bb24?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/genesis.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f60d00ff-18e7-4028-a78b-2dbd7e289609?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/keeper/keeper.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9252a705-10d7-44ad-bff0-3462ff6cae73?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/module.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e3bd025e-150f-4764-872a-282eba9eb73d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/errors.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ceb9d03a-079b-48fa-a6df-5c6fd26faa7b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/genesis.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8d0e8d59-a972-43eb-a88d-5c8125359023?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/keys.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b938bb93-19f2-4168-861e-8ef360105f17?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/types.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3870f2cf-1971-48d3-a1e9-6283db7fe3e4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/abci.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_df47a780-d054-4af9-8c52-b39b6411067b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/client/cli/query.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_676a0106-5f38-42de-8fe1-d69abc2dae8a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/client/cli/tx.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c51fc75b-2a63-4789-a98e-4a5305e201f4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/keeper/genesis.go -> Scope: High. Cross-module invariant break between staking, slashing, distribution, bank, NFT, NFT-transfer, supply, inflation, or tieredrewards corrupts balances, shares, ownership, rewards, or escrow state with direct fund-loss impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0c904691-25de-4339-8135-a8a3ee7935f4?mode=deep",
+    "questions_generated": false
+  }
+]
