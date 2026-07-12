@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: x/supply/keeper/grpc_query.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4c1844ba-38a1-49d9-bac9-b8f47bfb4c2e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/keeper/keeper.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6def55fa-a801-4bd4-b541-74e7f51f1e0e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/module.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ff206390-357b-4818-97a4-3c49c7019db1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/expected_keepers.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9a916cea-f9f3-49e9-ac43-33705bd145e4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/genesis.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_95d741f8-2d69-481c-87db-ca7d5e9bcf31?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/keys.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_df48ecfb-26a1-4368-baeb-48ccf00b3c3c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/querier.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b5d3ccdc-7141-45d3-abf5-790ea8ade7a0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/helpers.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_82dd6a19-ad2a-4f94-8df6-cf137e910c19?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/query.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_574523b5-ea03-4f4e-ac52-ed24e7a0a899?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/tx.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d46eff36-2f9d-434a-a37c-8de095fa436b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/abci.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ace414b0-c9c8-4f9e-9fa3-7624917a9bd4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/bonus_rewards.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_dcbe7e71-5971-43e0-85d9-d5f55ab3237e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/claim_rewards.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_654d1e42-b0c1-4c09-b00b-61c5480b6e62?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/collections_helpers.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6c315cad-2ba8-4264-a2e3-5e5c8ba93491?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/delegation.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f02ff436-3170-4c19-8c31-def5ebf03cf9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/force_exit.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e7f4c08b-5d41-4081-a5f0-2980e31e2923?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/genesis.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_10463b88-3347-4b53-907c-3b796fd3bc18?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/gov_tally.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cac2b491-84ae-4f92-96dd-d916a0937754?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/grpc_query.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_aa2e1145-1423-47f2-a4f2-942e23848b08?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/hooks.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e28d1e92-fd77-4419-a6c2-d9c11bc4faff?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/keeper.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_30320dd1-d8d0-421a-a6a5-d11b8c6423ac?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/migrations.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ce4fa889-1c6c-4507-bb9a-7ed2d8667ac6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_server.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9ea61dc6-a537-4387-8e6e-2496241495a1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_server_auth.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_25adf8cd-595b-43e6-b405-29d5440c0ae1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_validate.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f1592aba-7e5f-48bc-af55-2d9c3925cff3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/position.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7d9ee176-1c51-4b6d-838b-f1d9e3bc28b9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/position_state.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d1d22fc9-eb9a-4c23-aaaf-1679e0333abd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/redelegation_mapping.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b7a117c1-774d-4f76-8bf7-9afb1be6c0b1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/slash.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_78b5dc5e-15a4-45a1-85dd-404fbf06640b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/tier.go -> Scope: Critical. Inflation, supply, bank, module-account, mint, burn, or escrow accounting flaw creates unbacked assets, loses backed assets, or lets value leave the intended module/account boundary.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e2f1c6a4-dcf6-4f8a-8cdb-2adad7cb4f37?mode=deep",
+    "questions_generated": false
+  }
+]
