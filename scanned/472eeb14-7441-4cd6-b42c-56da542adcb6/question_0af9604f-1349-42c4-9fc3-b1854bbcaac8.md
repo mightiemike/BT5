@@ -1,0 +1,1 @@
+[File: 'x/nft-transfer/types/packet.go -> Scope: Critical. Tiered rewards position, delegation, redelegation, slashing, exit, withdrawal, or reward-accounting flaw lets an attacker withdraw delegated stake, claim rewards, or move voting power not owned by them.'] [Function: types.IsAwayFromOrigin / keeper.createOutgoingPacket] Can an attacker own an NFT with classID \

@@ -1,0 +1,1 @@
+[File: 'x/nft/types/msgs.go -> Scope: Critical'] [Function: MsgTransferNFT.ValidateBasic + x/nft-transfer/keeper/packet.go createOutgoingPacket + processReceivedPacket (escrow address as denom creator)]
