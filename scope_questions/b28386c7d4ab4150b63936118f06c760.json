@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: x/nft-transfer/types/packet.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c58075f4-9a5e-44b9-93d6-7d5aa859864e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft-transfer/types/trace.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0241564c-3a17-4009-9e7b-e833f1ad4ef8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/client/cli/flags.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5d3e75be-8a5b-454e-ba6e-0c1618463067?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/client/cli/query.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cc968ddf-bd50-476f-a797-18711ea6807b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/client/cli/tx.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1065c380-62d9-4441-bda3-38d27e666518?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/exported/nft.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b85256b4-c13e-4140-a55f-3ee76f08edba?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/genesis.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_bd77c646-1c79-4980-8a62-cf87d1b93b64?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/keeper/collection.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8f90b2a8-ebe8-4f02-9cee-3d9f5e01f011?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/keeper/denom.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_bb5fbce0-cbed-43c4-8a05-c0f8d9a05510?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/keeper/grpc_query.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9ab52dd1-9585-4846-a07c-3ab200ad74a3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/keeper/keeper.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_72db9ed6-d964-4ffe-bda5-5c6ac7bdca98?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/keeper/msg_server.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_43ce76a5-388a-4874-bd48-8ca6805275d1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/keeper/nft.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_470edb48-98c0-4022-8e11-cf9cbadde820?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/keeper/owners.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_543c0591-bf1c-4ad6-a0a5-c0959d560e60?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/module.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_77a91451-b0e7-4561-81e8-ad224522844c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/codec.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_df997107-64d2-4931-aa24-84027e22b70f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/collection.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1485a2ea-1143-4d29-a33e-d9b8a9744f58?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/denom.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b0c301df-dcdc-43da-8f75-9d4df504b122?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/errors.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9292e6ae-08bd-482d-9661-9ea0a37355a5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/events.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2be950b1-7044-4cd5-bda9-4f9ad62948c0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/expected_keepers.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_67b1d225-155e-45cb-8433-9c251f3290e4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/genesis.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e6f537e1-d4a8-40f2-981b-01896f9b432e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/keys.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_41700750-1655-4380-928d-6123883de074?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/msgs.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_11e8370c-9f53-48ab-835d-a16ac9d27181?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/nft.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_05c67057-65a1-45dc-b948-f2ba4f72e447?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/owners.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b0cc09eb-2376-42fd-948e-928e8becba63?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/querier.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_84f2d94a-02b5-4cb7-84d0-419b39812ca4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/nft/types/validation.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c6e53da5-e099-4c80-b2a0-98ea454f865d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/client/cli/query.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f3cbc428-98e3-4377-b3ef-55c1cae08c21?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/keeper/genesis.go -> Scope: Critical. IBC NFT transfer escrow, burn, mint, class-trace, acknowledgement, timeout, or refund flaw enables duplicate withdrawal, unauthorized voucher minting, unauthorized unescrow, or loss of NFTs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_15ab35cb-08b8-4eaf-bc87-80cefc61bfd0?mode=deep",
+    "questions_generated": false
+  }
+]
