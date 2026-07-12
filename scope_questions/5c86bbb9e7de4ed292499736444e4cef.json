@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: proto/chainmain/nft/v1/tx.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9df2a2bb-cdb7-4fdb-b241-6b4666ea8f98?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/genesis.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4fb7975c-d173-4190-8ba1-d1dc7e32d49c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/packet.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4255e008-63c0-4102-83b4-265c909dc694?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/query.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_297b7355-5a44-4ab9-95f8-069e08b0fbd6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/trace.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b0eb0f55-a784-4a77-8f54-0c8ed30db040?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/nft_transfer/v1/tx.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6561e1f5-5df0-45b1-8a36-78b3a29d654c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/accounts.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9a999b10-9fbb-4ea3-a55c-9640d72e9e0c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/genesis.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_bdc46e4d-7cc6-4b40-8194-eea8be7dc7a1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/supply/v1/query.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8e815e2a-0fe5-48d3-b889-9c33f0f10fd5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/event.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b5dd1d91-4210-433a-a7e1-476594c9b296?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/genesis.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_07f4db0b-5721-4408-9ec3-e6be94fd307e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/params.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3c305cb9-f18b-4311-b6ed-2fffbaf28f4c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/query.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ebb8e4a1-36b9-4077-b979-d3805b07fd14?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/tx.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_37413f4e-6207-47da-b5f4-5b9afaf2201e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: proto/chainmain/tieredrewards/v1/types.proto -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_24c218cc-17ba-457b-bb5e-982e62c954ad?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/genaccounts.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_20c3e58d-2ee1-49ec-b16e-f9d80e1f93a5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/query.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b548259d-f97e-4c78-b476-340c8ae8be8a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/cli/tx.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_374378ad-9dfc-4c81-88f6-7ba370eeb59d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/client/rest/rest.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4902947d-f0fe-4e6a-a346-3c64d84c5efb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/genesis.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_96833282-416c-4d96-bf2c-f7b450c505c2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/keeper/keeper.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7a52c213-86ae-4f18-ad18-3e1bbe4b1e62?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/module.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_fc7655ca-30cc-4d86-8717-971ff7b7d0d3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/errors.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a1918932-47c5-4b7b-8936-74032268a5c4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/genesis.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_971cbb27-765a-409b-9496-6470ed3b3424?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/keys.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9e895c71-6bf7-4401-bd9f-d01311665e5d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/chainmain/types/types.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6e1d0450-8856-404a-a695-89d05dbca37f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/abci.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a517504d-8663-4531-9c6e-0bd85d25cf15?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/client/cli/query.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5a628e08-acf0-4214-b60e-4ab273fed52d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/client/cli/tx.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d4740583-2d8e-4d1a-b696-7e0d721741a1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/inflation/keeper/genesis.go -> Scope: High. Ante, authz, feegrant, address-prefix, signer, or CLI transaction construction flaw causes a signed or authorized production transaction to spend, lock, burn, transfer, or delegate assets contrary to the signer authorization.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_187d8575-7185-4cb2-9eb5-56826c1bb7d8?mode=deep",
+    "questions_generated": false
+  }
+]
