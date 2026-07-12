@@ -1,0 +1,77 @@
+[
+  {
+    "question": "'File Name: x/tieredrewards/keeper/transfer_delegation.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_844e6868-f3a1-4d6b-8bf0-1b9e3e7ee8d4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/validator_events.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2d079abc-12f8-4ccd-bbb9-b0632a3bde13?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/voting_power.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3eff4342-afe0-4a26-986e-d060828a980e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/migrations/v2/migrate.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_856e35c0-083a-4d27-9b92-e5ccd63a1f70?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/module.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f159e3b8-acff-49da-bdd0-9f519990128c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/codec.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_03975084-4af0-4449-be03-9b9fa7cd9dd3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/errors.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c69ad56e-62d0-4f0c-9e00-88a83a8a4806?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/expected_keepers.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8448916e-a0e6-465f-a228-02b0bd087355?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/genesis.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7fd616cd-9257-467d-b8ab-b15614d6bbd7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/keys.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1ddb2e2e-286e-4f41-8d9f-a7b916c30ef5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/msgs.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_05fdf34a-9513-4dc7-b927-c45f026a4afb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/params.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b50793b2-5639-48c1-87e2-bca8150d6a60?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/position.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1dd6194f-ffc2-4766-99c2-edac4a45fedb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/position_state.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b8e39be7-fc27-48ef-91f5-af79f08a3ed2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/types/tier.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0e1d4dd1-e639-47e0-bdd2-52d5fa22599e?mode=deep",
+    "questions_generated": false
+  }
+]
