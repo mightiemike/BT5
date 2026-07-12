@@ -1,1 +1,0 @@
-[File: 'app/upgrades.go -> Scope: Critical'] [Function: EnsureModuleAccountIfExists] Can an attacker who pre-creates a `PermanentLockedAccount` at the `tieredrewardstypes.RewardsPoolName` module address before the v8 upgrade (by predicting the deterministic address and calling `MsgCreatePermanentLockedAccount`) cause `EnsureModuleAccountIfExists` to return an error (`\
