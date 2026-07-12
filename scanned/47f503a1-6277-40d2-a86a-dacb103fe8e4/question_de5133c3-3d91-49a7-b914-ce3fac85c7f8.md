@@ -1,0 +1,1 @@
+[File: 'x/nft-transfer/types/keys.go -> Scope: Critical. Genesis, migration, upgrade, app wiring, keeper permission, or module account configuration flaw installs unsafe production state that can directly lead to fund loss or unauthorized asset movement.'] [Function: GetEscrowAddress / maccPerms] Can the escrow address computed by `GetEscrowAddress(\
