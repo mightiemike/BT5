@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: x/supply/keeper/grpc_query.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ec54b5b1-0643-41f7-a4d2-30dc99adba7a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/keeper/keeper.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_215feeb1-7d51-41a1-ad3f-8d868cc04f38?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/module.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d20bda76-ed2e-4a10-b829-04ad2e8cfc2b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/expected_keepers.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_42ec6b2e-69ec-45cb-8ae1-e2f865f5fe9b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/genesis.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_094e033c-1b42-4aab-9bc1-16c43aea1bf7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/keys.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ecceb9eb-8d4e-4e53-b25d-bb8cf6f17732?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/supply/types/querier.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6c3ad5d1-427d-40c5-ae4d-9be867e3ef87?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/helpers.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0f18b14d-1527-472b-9afc-3d8d07c767a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/query.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3dcfe1a8-57b5-4798-b785-01b20e49d468?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/client/cli/tx.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5ad637f1-dff3-4194-9580-c6775d988a43?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/abci.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c2279520-c930-4613-9bdb-3d62f9e34be8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/bonus_rewards.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8aad7a5f-b21b-410e-bfcc-89a8849df0fc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/claim_rewards.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_78be5c0c-a66a-469e-9bb4-cc93085b0ef4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/collections_helpers.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8740192d-dfb1-4cce-be1c-2da030979b6b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/delegation.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_96b12c28-fa1f-4cf8-8e98-f7b3841eefad?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/force_exit.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5de27f2e-e928-40e1-82f3-ee7edafe3b5b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/genesis.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d6bef179-8509-4b28-a4a0-eefbe4dad39f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/gov_tally.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e50d6ba3-0111-495c-9a38-4a8ac6d1b197?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/grpc_query.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9289c62a-4120-4ea0-88a1-ac91fa4afefd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/hooks.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_368b71ce-29fe-4c54-8c40-4a0f6bae9820?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/keeper.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_765865c9-34ef-413c-9b64-bb5fed98bce7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/migrations.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4e6d076e-f145-4391-9757-854e215c0d2e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_server.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2cccd04f-425f-4fac-b7d4-9bccde8f8aa5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_server_auth.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f7cee5d7-77a4-4a06-94f1-de505a2263f7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/msg_validate.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f8cb4913-34ec-4114-87a8-c761eae55b9b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/position.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a53c0697-52a5-44a2-b972-f1741f24ddee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/position_state.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_87d580ab-7062-470c-88a4-f866ceaadfd7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/redelegation_mapping.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8004c057-0d10-40f9-b28f-2966435b7b40?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/slash.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a5490b93-0150-4f1f-b218-c1687c98eafd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: x/tieredrewards/keeper/tier.go -> Scope: High. Reward, inflation-decay, base/bonus reward, or staking hook logic flaw lets a user repeatedly or incorrectly claim material rewards or bypass lock/exit economics with direct economic loss.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4c945ae1-193f-47a4-aba6-cded813ecce9?mode=deep",
+    "questions_generated": false
+  }
+]
