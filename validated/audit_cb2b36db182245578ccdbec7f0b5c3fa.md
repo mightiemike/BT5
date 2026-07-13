@@ -1,0 +1,1 @@
+Let me look at the position state management and `PositionCountByValidator` to check for any accounting mismatches.
