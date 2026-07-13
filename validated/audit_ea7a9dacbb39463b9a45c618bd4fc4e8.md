@@ -1,0 +1,1 @@
+Let me check the proto signer annotation and the tx.pb.go to confirm the signer field binding.
