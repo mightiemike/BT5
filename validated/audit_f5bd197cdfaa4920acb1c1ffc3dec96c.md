@@ -1,0 +1,1 @@
+I need to read the `position.go` types file to verify `ClearExit`, `HasTriggeredExit`, and `CompletedExitLockDuration` before rendering a verdict.
