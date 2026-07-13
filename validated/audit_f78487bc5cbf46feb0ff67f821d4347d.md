@@ -1,0 +1,1 @@
+Let me read the NFT keeper's collection and msg_server to understand `MintNFT`'s minter check before concluding.
