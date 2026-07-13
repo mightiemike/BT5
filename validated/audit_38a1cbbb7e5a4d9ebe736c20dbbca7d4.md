@@ -1,0 +1,1 @@
+Let me read the message validation and position state files to confirm the deduplication gap.
