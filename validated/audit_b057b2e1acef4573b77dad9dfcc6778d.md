@@ -1,0 +1,1 @@
+I need to trace the full `WithdrawFromTier` path, all guards, and the distribution withdraw address routing lifecycle.
