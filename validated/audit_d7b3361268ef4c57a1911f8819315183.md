@@ -1,0 +1,1 @@
+Looking at the `x/tieredrewards` module, I need to find an analog to M-02's pattern: a parameter changes from positive to zero, existing accumulated rewards are not settled, and the tracking mechanism is skipped for the new state, causing incorrect distribution.
