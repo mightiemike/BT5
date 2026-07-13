@@ -1,0 +1,1 @@
+Let me look at the position creation code and how `LastKnownBonded` is initialized, as well as the `position.go` file.
