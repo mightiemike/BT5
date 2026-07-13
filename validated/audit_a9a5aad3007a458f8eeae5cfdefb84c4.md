@@ -1,0 +1,1 @@
+Looking at the `x/tieredrewards` module, specifically the bonus reward calculation in `processEventsAndClaimBonus` and how `tier.BonusApy` is consumed.
