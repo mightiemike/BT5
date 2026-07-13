@@ -1,1 +1,0 @@
-Let me look at the app wiring and the nft-transfer keeper msg_server to understand how the interfaces are connected.

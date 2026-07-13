@@ -1,1 +1,0 @@
-Looking at the `x/tieredrewards` module, I need to trace the reward accounting for positions that have completed their exit lock duration and then have funds added via `AddToTierPosition`.

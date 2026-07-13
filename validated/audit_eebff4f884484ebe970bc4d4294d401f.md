@@ -1,1 +1,0 @@
-Let me look at the `getDelegation` function and the `position_state.go` to understand how delegation state is tracked after a redelegate.

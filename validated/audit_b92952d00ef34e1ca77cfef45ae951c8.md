@@ -1,1 +1,0 @@
-Let me check the `lockFunds` function to complete the analysis.

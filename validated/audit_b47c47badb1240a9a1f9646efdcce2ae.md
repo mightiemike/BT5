@@ -1,1 +1,0 @@
-I need to trace the full `ClaimTierRewards` path, the `processEventsAndClaimBonus` logic, and the `LastEventSeq` update mechanism to evaluate this hypothesis.

@@ -1,1 +1,0 @@
-Let me check the NFT transfer `MsgTransfer` validation and the `SendTransfer` msg server to see if duplicate tokenIDs are checked at the user-facing entry point.

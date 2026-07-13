@@ -1,1 +1,0 @@
-Looking at the IBC NFT transfer path in `x/nft-transfer/keeper/packet.go` and the NFT denom creation logic in `x/nft/keeper/denom.go`, I need to trace how voucher denoms are created on receipt and whether the name-uniqueness check can be pre-poisoned.

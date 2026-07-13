@@ -1,1 +1,0 @@
-Looking at the vulnerability class — **irreversible asset destruction proceeding unconditionally even when the resulting amount is zero, due to a missing precondition check** — I need to find an analog in chain-main where a destructive/irreversible operation executes without verifying that all associated funds have been fully settled.

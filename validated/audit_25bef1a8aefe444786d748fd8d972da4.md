@@ -1,1 +1,0 @@
-Looking at the repository, I need to find a Cosmos SDK analog to the "external call before state finalization" vulnerability class. Let me examine the tiered rewards module's batch claim path in detail.

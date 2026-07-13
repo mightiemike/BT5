@@ -1,1 +1,0 @@
-I need to examine the tieredrewards keeper more carefully, specifically the slash path and the `processEventsAndClaimBonus` function, to trace whether state changes persist when they should not.

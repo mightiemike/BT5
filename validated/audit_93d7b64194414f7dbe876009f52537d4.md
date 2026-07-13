@@ -1,1 +1,0 @@
-Looking at the tieredrewards module's bonus reward accounting for the analog pattern: **unconditional state update when the corresponding calculation was conditionally skipped**.

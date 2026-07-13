@@ -1,1 +1,0 @@
-I need to trace the full execution path of `ExitTierWithDelegation` and verify every guard relevant to the hypothesis.

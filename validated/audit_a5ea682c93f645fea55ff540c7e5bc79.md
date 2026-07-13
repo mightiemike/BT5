@@ -1,1 +1,0 @@
-Let me look at the NFT genesis initialization and the `IssueDenom` function more carefully to check for any ownership/creator mismatches.

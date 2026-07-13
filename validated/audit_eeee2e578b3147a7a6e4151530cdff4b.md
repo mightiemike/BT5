@@ -1,1 +1,0 @@
-Let me check the force_exit.go file and the nft-transfer module for any missing signer checks.

@@ -1,1 +1,0 @@
-Looking at the external report's vulnerability class — **duplicate vote/claim via snapshot timing manipulation** — I need to find an analog in `patrichyt/chain

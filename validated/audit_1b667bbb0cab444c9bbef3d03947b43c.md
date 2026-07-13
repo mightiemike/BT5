@@ -1,1 +1,0 @@
-Let me read the key validation and event-tracking files before concluding.

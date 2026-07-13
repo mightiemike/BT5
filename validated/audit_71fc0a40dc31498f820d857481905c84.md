@@ -1,1 +1,0 @@
-Let me look at the types to confirm the `NewPosition` signature and `LastKnownBonded` initialization.

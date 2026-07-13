@@ -1,1 +1,0 @@
-Let me check the remaining critical pieces before concluding.

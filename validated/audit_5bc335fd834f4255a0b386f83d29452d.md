@@ -1,3 +1,0 @@
-Looking at the external report's vulnerability class — **state desynchronization between a "list" and a "mapping" due to a boundary condition (version == 0)** — I need to find an analog where two state structures are updated with different conditions, causing one to be populated while the other is not, at a zero/default boundary value.
-
-Let me examine the most relevant patterns found in this repository.
