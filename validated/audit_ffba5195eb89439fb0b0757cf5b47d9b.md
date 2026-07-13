@@ -1,0 +1,1 @@
+I need to examine the `ClaimTierRewards` handler and the `claimRewardsAndUpdatesPositions` function more carefully, along with the message validation.
