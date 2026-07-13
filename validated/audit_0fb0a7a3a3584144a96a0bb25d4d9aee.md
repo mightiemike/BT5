@@ -1,0 +1,3 @@
+Looking at the external report's vulnerability class — **cross-module desynchronization where a state-update function is conditionally skipped, leaving a counter permanently stale and funds locked** — I need to find an analog in chain-main where a state update is skipped in some path, leaving module state inconsistent and user funds permanently inaccessible.
+
+Let me examine the `x/tieredrewards` module's `slashRedelegationPosition` and `processEventsAndClaimBonus` functions closely.
