@@ -1,0 +1,17 @@
+[
+  {
+    "question": "'File Name: wheel/python/clvm_rs/ser.py -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4bf19340-4d9f-4f91-9357-8785fb422a62?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/serde.py -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_72c11a35-129e-490d-9bf5-0d515d813f87?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/tree_hash.py -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d4b2ce1e-fe66-41b8-a1e1-08f7e2880b3f?mode=deep",
+    "questions_generated": false
+  }
+]
