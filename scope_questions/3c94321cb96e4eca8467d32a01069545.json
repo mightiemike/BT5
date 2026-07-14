@@ -1,0 +1,17 @@
+[
+  {
+    "question": "'File Name: wheel/python/clvm_rs/ser.py -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1897ca40-234d-4dbc-81a2-583dccc6df4b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/serde.py -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e32c8346-3e3d-45af-bab0-dc65742f671e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/tree_hash.py -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1bf764ab-7173-4cc9-b30d-d2478bdc68bf?mode=deep",
+    "questions_generated": false
+  }
+]
