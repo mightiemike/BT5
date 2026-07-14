@@ -1,5 +1,0 @@
-[
-  "'File Name: wheel/python/clvm_rs/ser.py -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
-  "'File Name: wheel/python/clvm_rs/serde.py -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
-  "'File Name: wheel/python/clvm_rs/tree_hash.py -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'"
-]
