@@ -1,0 +1,5 @@
+[
+  "'File Name: wheel/python/clvm_rs/ser.py -> Scope: High. Python wheel or Rust API binding exposes CLVM execution, serialization, lazy nodes, or tree conversion behavior that differs from the Rust core and can mislead wallet, mempool, or consensus-adjacent callers.'",
+  "'File Name: wheel/python/clvm_rs/serde.py -> Scope: High. Python wheel or Rust API binding exposes CLVM execution, serialization, lazy nodes, or tree conversion behavior that differs from the Rust core and can mislead wallet, mempool, or consensus-adjacent callers.'",
+  "'File Name: wheel/python/clvm_rs/tree_hash.py -> Scope: High. Python wheel or Rust API binding exposes CLVM execution, serialization, lazy nodes, or tree conversion behavior that differs from the Rust core and can mislead wallet, mempool, or consensus-adjacent callers.'"
+]

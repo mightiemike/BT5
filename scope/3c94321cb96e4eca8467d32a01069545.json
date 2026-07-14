@@ -1,0 +1,5 @@
+[
+  "'File Name: wheel/python/clvm_rs/ser.py -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+  "'File Name: wheel/python/clvm_rs/serde.py -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+  "'File Name: wheel/python/clvm_rs/tree_hash.py -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'"
+]

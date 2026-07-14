@@ -1,0 +1,5 @@
+[
+  "'File Name: wheel/python/clvm_rs/ser.py -> Scope: Critical. Canonical serialization, backrefs, serde_2026, deserialization, or serialized-length logic accepts non-canonical bytes, produces a different tree than expected, or maps distinct byte streams to the same consensus object.'",
+  "'File Name: wheel/python/clvm_rs/serde.py -> Scope: Critical. Canonical serialization, backrefs, serde_2026, deserialization, or serialized-length logic accepts non-canonical bytes, produces a different tree than expected, or maps distinct byte streams to the same consensus object.'",
+  "'File Name: wheel/python/clvm_rs/tree_hash.py -> Scope: Critical. Canonical serialization, backrefs, serde_2026, deserialization, or serialized-length logic accepts non-canonical bytes, produces a different tree than expected, or maps distinct byte streams to the same consensus object.'"
+]

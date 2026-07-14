@@ -1,0 +1,5 @@
+[
+  "'File Name: wheel/python/clvm_rs/ser.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+  "'File Name: wheel/python/clvm_rs/serde.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+  "'File Name: wheel/python/clvm_rs/tree_hash.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'"
+]
