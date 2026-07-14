@@ -1,0 +1,1 @@
+Let me look at the `program.py` file and the `clvm_storage.py` to understand the `_cached_sha256_treehash` caching mechanism more deeply.
