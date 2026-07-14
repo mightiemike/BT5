@@ -1,0 +1,1 @@
+I need to analyze the operator dispatch and wiring in `clvm_rs` for an analog to the "wrong function called for a specific contract type" vulnerability class.
