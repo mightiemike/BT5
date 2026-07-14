@@ -1,0 +1,17 @@
+[
+  {
+    "question": "'File Name: wheel/python/clvm_rs/ser.py -> Scope: High. Python wheel or Rust API binding exposes CLVM execution, serialization, lazy nodes, or tree conversion behavior that differs from the Rust core and can mislead wallet, mempool, or consensus-adjacent callers.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e3042be9-fc60-4070-999d-a5c5522ef9f9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/serde.py -> Scope: High. Python wheel or Rust API binding exposes CLVM execution, serialization, lazy nodes, or tree conversion behavior that differs from the Rust core and can mislead wallet, mempool, or consensus-adjacent callers.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_98a20cc5-21ff-4a2d-8c0d-43768f6ec9fa?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/tree_hash.py -> Scope: High. Python wheel or Rust API binding exposes CLVM execution, serialization, lazy nodes, or tree conversion behavior that differs from the Rust core and can mislead wallet, mempool, or consensus-adjacent callers.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ed9aded0-2c08-4008-b991-7c8974168fde?mode=deep",
+    "questions_generated": false
+  }
+]
