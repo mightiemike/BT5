@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: src/allocator.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0c9e7564-ad7a-41f8-90c7-ca3cd682436f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/bls_ops.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6519bb27-1314-4121-965b-fb68b840c160?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/chia_dialect.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cbf4e9a1-81cc-44f3-a2df-595c7860eeca?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/core_ops.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_220bfe48-1048-4f3c-b749-96510ff0276a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/cost.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_459218fe-32e0-45d4-bd8b-328ce59b02b0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/dialect.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_78336fbe-8982-483b-8cc4-b3ce7b7c0336?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/error.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e7e317e4-3707-45c4-9b41-7345d01a7056?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/f_table.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7d9da530-097b-416c-8420-c80da26d9618?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/keccak256_ops.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a284fa36-d8a3-4f02-afc4-e5a02a98d132?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/lib.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5d70bd55-c39d-4206-b508-a8378a9ce873?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/more_ops.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_db0941ef-7ca2-4496-ac24-0da7b68498df?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/number.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ad03a868-0642-4d06-a01c-2626125c48d5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/op_utils.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a724cb7d-d1f3-40ff-9a12-148f2f6d5d94?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/reduction.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_468e4b23-af26-488a-8d53-0fe35f00870e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/run_program.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c7106197-70f3-4c9d-b473-13b44d5cf696?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/runtime_dialect.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_79b2e325-6c97-42d5-aacc-115192615a6f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/secp_ops.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_02992ada-daf3-412e-a123-247bb5e905c4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/bitset.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_dbe5155b-321a-4c94-9804-4cb7c873f490?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/bytes32.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b32b72eb-b1fd-4b9c-adec-ccd7770afed6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2c1520e2-90d2-4af8-8535-b0092930ae40?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de_br.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_29732546-df3b-4e6c-9490-bd06d4692d7a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de_tree.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_96a84d04-78ed-4555-b182-ee1abf373274?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/identity_hash.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_20fc1072-5f8a-4c06-82e0-b42982ad7297?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/incremental.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_16db644f-8d5e-4969-870a-79f194c13cda?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/intern.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_75092c09-c7fc-47fb-9aab-1a3f888ca485?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/mod.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9b7aa9b3-ae7a-4485-9456-78349c064382?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/object_cache.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f8a9b5d5-8589-45da-ba92-3c32951a8f21?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/parse_atom.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_361ab864-74fb-49b9-8ef6-d208ddabc8af?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/path_builder.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4aee6375-3412-432f-a057-1a8e47fb2fdc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/read_cache_lookup.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ac35599a-94bd-4d94-8d61-f5358c1f923f?mode=deep",
+    "questions_generated": false
+  }
+]
