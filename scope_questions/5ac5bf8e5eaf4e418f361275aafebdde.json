@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: src/serde/ser.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_83c82c46-85d2-4135-a282-c89e551efd6d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/ser_br.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_71f34263-f4ff-447d-a0db-390c569d679c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/serialized_length.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f74fc806-3cef-4b14-9ca5-3bfd01a9ab18?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/tools.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ecc068cc-a983-4ec9-8ed8-5882171fd305?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/tree_cache.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a40fc4da-8d6c-421b-9f26-fe88f4d4664a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/utils.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cc8276e7-2b9a-4870-9c1e-5541009ebb7c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/write_atom.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_749aa9b3-9560-421a-9071-0d8195a8e60b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/de.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ce5a712d-fd77-4cb9-a58b-82e7fc1b5ce4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/mod.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1762235b-89a5-415c-8086-d73628fa3186?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/ser.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_496f8de9-2b3d-494c-b520-cc25bf6fd6cf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/strategy.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c2c2523c-d831-4e25-b255-1c1cf3445784?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/varint.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c4e36a5e-3f75-49f3-9ef3-a802e290b8d6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/sha_tree_op.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d8ee4c23-7389-4517-a8a7-ace74b9609d6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/traverse_path.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2adf6fed-3a39-4ca2-b473-153ef577e1c1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/treehash.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5c58f6fe-9eff-40c8-b6c4-9916665728d8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/src/adapt_response.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e19f6861-c6b1-4a84-8759-44d6a94ee68c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/src/api.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6ee1141b-603b-48df-925e-a34627c0936d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/src/lazy_node.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9ac65dc3-6dd0-439c-94e7-ab3a846ce8ad?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/src/lib.rs -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5a9840e8-97ce-4497-9d3d-cb12b464a377?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/__init__.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6b5c161b-a1ae-454a-8630-871ff9d54223?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/at.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_96f33d01-de41-4903-a1fc-a5eed0b33827?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/casts.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b1d4872b-540b-49a4-aefd-8e74e9375711?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/chia_dialect.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_544c9e05-a27a-475f-949b-7b219eecebf3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/clvm_storage.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8af0e839-9857-4870-b785-96347f507286?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/clvm_tree.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3a0ea511-86bf-4780-aebb-7353b66166d0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/curry_and_treehash.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_08ad16e9-c672-4062-b226-fbd08a2e0bf0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/de.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f64f7573-6969-41b5-88b1-3b2546e4c169?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/eval_error.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_90283d4d-20d4-4411-88ea-db190bce7d12?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/program.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b6d27e0a-6213-471f-abd3-c25df75b8373?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/replace.py -> Scope: High. Numeric atom parsing, signed/unsigned conversion, division/modulo, shift, comparison, or small-integer fast path produces a result that differs from CLVM specification or generic big-integer behavior.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_308b0af2-ca7d-4dcc-8018-39aefd9ba837?mode=deep",
+    "questions_generated": false
+  }
+]
