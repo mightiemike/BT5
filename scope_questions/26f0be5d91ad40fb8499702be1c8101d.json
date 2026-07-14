@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: src/serde/ser.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c642ede7-ff4b-43ce-9619-d8595da4a4b2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/ser_br.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9266426f-5425-4d50-b727-14627ae46540?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/serialized_length.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d33e2d6d-629c-4ab9-90be-f7157081eb1b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/tools.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_120f9890-6b19-4cd6-a20a-a4b243aae6db?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/tree_cache.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9fc0f531-ae40-4a0e-a3ab-f8367302d687?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/utils.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ae8bd9f2-d2c0-4acd-8a1f-08736de0a67f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/write_atom.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4f7c9ebb-b2f3-42d7-8908-154bf2404ada?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/de.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a8023411-fabe-4cd7-84bc-81cb73fc04ee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/mod.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ee2522c5-045a-43a9-b22e-b785751b6eed?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/ser.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5d39676e-683b-4681-8b71-470fcb513390?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/strategy.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f17cb2da-b1b4-4690-83d0-f985452e3cba?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde_2026/varint.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_befae193-4d1c-446f-b72c-0217860bf9fc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/sha_tree_op.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_116e18f8-6fea-4b8e-88f0-bd43f122fe53?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/traverse_path.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_edc2976e-9930-4324-876c-b9f9ccf83660?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/treehash.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c3352426-3d65-4e9d-9859-080ea5bbb8c3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/src/adapt_response.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8eee9b61-08a2-497e-8ffc-6918de31f9b7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/src/api.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_909a60eb-1fa5-4712-ba43-2b3db010faff?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/src/lazy_node.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_853659b5-435d-4f9c-8574-8d87ac64e333?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/src/lib.rs -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5d6b91f1-59e7-4640-915b-394ced7e3165?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/__init__.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_01359890-a32c-46ef-8390-1fb3bde16d26?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/at.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_ff907039-f7fd-453e-af92-5e367dc2ff2b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/casts.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_85e97a40-8ca1-40a0-830c-bed64023234d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/chia_dialect.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_85989921-6176-47f3-b832-bb9857e78b2a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/clvm_storage.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_79ff815c-7fb3-493d-b0c4-ebe1e476f100?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/clvm_tree.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_700fc081-50d4-40c0-9749-34f4f3f3efa8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/curry_and_treehash.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9a657e3a-3643-4fba-9293-559c676e6d57?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/de.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0e9ced26-3d8b-4291-941c-8f2d5fa5f834?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/eval_error.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_78fac61d-b255-4b34-bd79-746d7e52bee5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/program.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f6014385-4be1-4ff5-84b7-d889e9f72e10?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: wheel/python/clvm_rs/replace.py -> Scope: Critical. Allocator, NodePtr, interning, lazy-node, object-cache, tree-cache, or path traversal flaw corrupts CLVM tree identity, pair/atom boundaries, or referenced nodes in a way that changes program meaning.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_228a04bb-f4cc-4fa2-8c50-3aef6d8cb864?mode=deep",
+    "questions_generated": false
+  }
+]
