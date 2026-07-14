@@ -1,0 +1,13 @@
+# Q3313: write atom serializer single-byte atom serialization boundary via same bytes parsed under separate APIs
+
+## Question
+Can an unprivileged attacker reach `write_atom` in `src/serde/write_atom.rs` through public serialization through `write_atom` after attacker-controlled CLVM bytes are parsed into a tree, using a crafted single-byte atom serialization boundary input and the same bytes parsed under separate APIs validation path while controlling valid trees with boundary-size atoms, so the code emitting non-canonical bytes for a valid tree, given that no privileged role, leaked key, admin action, trusted operator, or mainnet testing is required, violating the invariant that serialization must round-trip to same tree and hash and causing Critical tree identity corruption: serialization changes tree/hash?
+
+## Target
+- File/function: src/serde/write_atom.rs::write_atom
+- Entrypoint: public serialization through `write_atom` after attacker-controlled CLVM bytes are parsed into a tree
+- Attacker controls: valid trees with boundary-size atoms
+- Exploit idea: Build the smallest CLVM blob/program/API call for single-byte atom serialization boundary, drive it through same bytes parsed under separate APIs, and compare result node, error class, cost, serialized bytes, and tree hash against the equivalent supported path.
+- Invariant to test: serialization must round-trip to same tree and hash
+- Expected Immunefi impact: Critical tree identity corruption: serialization changes tree/hash
+- Fast validation: write a Rust regression test and Python wheel comparison for exact result/error/cost/bytes/hash agreement; reject out-of-scope crash/DoS/performance-only/docs/tests/scripts/disabled-config/downstream-misuse outcomes.
