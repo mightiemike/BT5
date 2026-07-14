@@ -1,0 +1,1 @@
+Let me look more carefully at the `op_mul` function and the `op_add` fast path/slow path interaction, as well as the softfork cost check.
