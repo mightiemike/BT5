@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: src/allocator.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d18eedd5-ad5d-488f-b023-604e11b26212?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/bls_ops.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_29511946-afe6-40b8-b82f-7cac7e58c284?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/chia_dialect.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_19e59364-be67-458e-aadc-8a0f8e164238?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/core_ops.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b1d2a8a5-f76c-444c-a2bd-ff70bccd111b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/cost.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f552ff85-786b-414d-89dd-232d5179087b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/dialect.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_50489415-6315-4ada-b41b-6b7d09a1c734?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/error.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a3e272af-9427-4c99-876a-17183bef35d2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/f_table.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5f7a0e53-95bf-4122-bb87-7aa3f7c295a6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/keccak256_ops.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cb12b400-35bf-42ea-b938-986d5ac125e3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/lib.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cdd49014-c634-49b7-abc1-16264b2e8376?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/more_ops.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d8ce5273-8591-41f1-94ba-a76b1c496c02?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/number.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_29cae065-4072-4b23-8a27-92eb1e33602b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/op_utils.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_82ccb200-8770-4704-a289-b71787e0b2f4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/reduction.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8227e1c6-b097-4bce-9b83-2e2736975603?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/run_program.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_85cca544-25d4-4e6b-8d5a-50f7f9f32366?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/runtime_dialect.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e089da5f-44de-48f2-b675-73c8d36bffc7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/secp_ops.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_689962cb-b703-4c21-b1e0-9326a464e009?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/bitset.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9feab023-10fa-41b8-afb7-78b7939de28b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/bytes32.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_381a192c-8d53-4482-84a6-f79006af3256?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3c3db8a3-1a5f-4092-a4f1-69fe72d7eb1d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de_br.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a122f0fc-3bc5-45f4-af05-f724bb6a4ca1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de_tree.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5386e37f-b70a-45eb-822f-50fec28b563c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/identity_hash.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7cd3c880-2981-4a0e-a884-18efbc4bf5b2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/incremental.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_92b765ab-6862-45f0-aeb0-b220c7b89e16?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/intern.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_1f95e49a-85e6-4375-a8de-32ad961c1ce3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/mod.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5d319152-0c34-4c2a-9c08-4e6be4073b75?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/object_cache.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_dd04d462-9f63-40da-96c1-92bcf7813348?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/parse_atom.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_06826c9d-23f3-423c-92e7-73eeddb76d2b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/path_builder.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5a0a7b51-170f-4820-825d-af17c9a5fe48?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/read_cache_lookup.rs -> Scope: High. Cost, memory-limit, stack-limit, softfork guard, operator-set, or fast-path/fallback mismatch permits undercharged execution or bypasses intended CLVM limits with consensus or mempool acceptance impact.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cc9c3ed6-8b01-4a27-8c80-f244faa2a96d?mode=deep",
+    "questions_generated": false
+  }
+]
