@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: src/allocator.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_86b8bf7d-a9e5-482f-a34d-0abaac405159?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/bls_ops.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_998b6104-8770-470a-adfb-2477cc5c7dbc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/chia_dialect.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b39094dd-1a45-4eb6-a5bf-c5f613759108?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/core_ops.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_63878c01-7824-496d-a089-8c149a0ff6d1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/cost.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7828b68e-b5b2-4c17-9210-7fa21629da97?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/dialect.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_73c3b739-0693-4e6b-9613-9fb9b389431a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/error.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c498a2be-06a0-4a69-83dd-f116079d4471?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/f_table.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_3cb3f12f-8659-4c1d-b43f-cc46d1981472?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/keccak256_ops.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8c7ba092-7b79-4a00-9458-3ea32ee78099?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/lib.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4072e75c-4289-4ea4-af41-c0ec431db961?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/more_ops.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c26898a7-2a36-4e2b-84ae-5a400a104049?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/number.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8f3d8cda-d875-422a-90f8-4b784888913e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/op_utils.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_72143269-6054-474b-8c98-712e54907c12?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/reduction.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_8e2d80fb-20eb-489c-a653-efe71ebd8e93?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/run_program.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c3e53dbc-0a40-4c1c-9124-53fc20ba7f8e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/runtime_dialect.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7b261537-14ac-4e4c-b913-9909c98358bc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/secp_ops.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_42907823-11b3-4387-ba4c-80df1d0a33ea?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/bitset.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0ee87097-0988-4541-b528-bf4b791f4fb4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/bytes32.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e40aa0fb-3b04-46ac-bcf2-e134b5a35d0d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_31f23678-0724-49d3-9ab0-fc4bd3f469b9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de_br.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c96b9c7c-dacb-4d77-8463-53e3f44ae31c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de_tree.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c7ad123f-bd0c-41f6-a1eb-048c935a920d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/identity_hash.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_aba52079-f035-4571-8e0c-598094ba02dc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/incremental.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a0970cea-c296-4eaf-beee-5c2c87e23e93?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/intern.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_9e8deb8a-1413-4ab9-a1b2-e6013fddd1f5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/mod.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d35382cb-5cd6-46f5-8d2c-2fa02769cd93?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/object_cache.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_46b64750-e80c-4d08-bc03-76ce838a4ad9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/parse_atom.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_70aee539-0794-47bf-a0f0-235ae55577ed?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/path_builder.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_2196311e-8642-4121-84e8-fba47f2e02e7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/read_cache_lookup.rs -> Scope: Critical. Consensus divergence in CLVM execution, cost accounting, dialect flags, operator semantics, or tree hashing lets the same spend/program be accepted by one node or binding and rejected or evaluated differently by another.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_73523e71-1e26-4573-8d4d-2815b13170a0?mode=deep",
+    "questions_generated": false
+  }
+]
