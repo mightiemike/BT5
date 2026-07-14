@@ -1,0 +1,1 @@
+Looking at the actual code, I need to verify whether the described divergence can actually occur.
