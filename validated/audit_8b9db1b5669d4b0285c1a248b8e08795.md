@@ -1,0 +1,1 @@
+Let me look at the allocator's validation cache implementation and the sha_tree_op for any caching mechanisms.
