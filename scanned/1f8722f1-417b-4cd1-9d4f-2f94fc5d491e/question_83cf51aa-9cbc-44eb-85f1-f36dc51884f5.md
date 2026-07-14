@@ -1,0 +1,1 @@
+[File: src/serde/object_cache.rs] [Function: treehash / ObjectCache::calculate panic on atom returning None] Can an attacker-controlled custom CachedFunction passed to ObjectCache::new that returns None for an atom cause ObjectCache::calculate to panic unconditionally at the line `panic!(\

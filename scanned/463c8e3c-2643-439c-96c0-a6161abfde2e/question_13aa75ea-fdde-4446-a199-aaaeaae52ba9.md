@@ -1,0 +1,1 @@
+[File: 'src/bls_ops.rs -> Scope: Critical. BLS, secp256k1, secp256r1, keccak256, sha256tree, or tree-hash operation bug validates an invalid signature/hash/proof or rejects a valid one in a consensus-relevant path.'] [Function: op_bls_map_to_g2] Can an attacker-controlled argc=2 with a custom DST atom that equals DST_G2 (b\
