@@ -1,0 +1,3 @@
+Looking at the external report's vulnerability class — **arithmetic overflow in a cost/debt multiplication where the result type is too narrow** — I need to find an analog in clvm_rs where attacker-controlled CLVM bytes cause a multiplication to overflow a fixed-width integer, producing a silently wrong result that bypasses a critical check.
+
+Let me examine the key arithmetic in `op_unknown` and the cost system.
