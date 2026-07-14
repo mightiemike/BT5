@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: src/allocator.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a7dcfaf8-590f-42ee-8871-5d061da897af?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/bls_ops.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_335b8290-40ad-4d5b-b7c3-9dc967dcfbd9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/chia_dialect.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_c0f075d2-466b-40f3-9d3e-f3c3798f7ce5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/core_ops.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e71b17b5-f634-4ec1-9909-216503999d09?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/cost.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e1e627d1-ec93-4b39-be4f-3d56ca41f6f9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/dialect.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6923e3c9-7d2b-4b39-9061-70cde777bae8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/error.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d4cb965d-e8bc-4648-b803-ae003efff6df?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/f_table.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_b8c20f93-d2e5-4ee5-a73e-da1caf7d266a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/keccak256_ops.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_5d4d91c9-7bca-4e77-9826-b0bfda70a502?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/lib.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_93de1950-5e5b-464b-a584-c9073b7ceeb5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/more_ops.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6ffbea8d-00d2-4b74-89ce-b4129d1a04a4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/number.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0cc38262-1169-406b-beac-d3319464fe6c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/op_utils.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_7186b307-c075-4f85-a13c-a58e99354b08?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/reduction.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_885bdba8-408d-4154-9b40-c8f1d20b1fb2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/run_program.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_f044dc2a-f1c3-4ba7-adbe-6420275551eb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/runtime_dialect.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_33a9421d-a2fc-488a-a2ff-373d5d53733f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/secp_ops.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_0cd7c6dc-ded1-4b38-96c2-ede39a74e4e8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/bitset.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_75ad2d69-cf8b-4153-9d57-161527cb8cdf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/bytes32.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_09c834e3-80da-4e6a-ae45-9d98dbfc143d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_09449912-3187-48b4-9cfe-bd456a2accda?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de_br.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_e2d3e13d-20f4-4d4e-8513-0ac70f475fb8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/de_tree.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_d704bef3-6ee9-450a-9965-21d53639e4a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/identity_hash.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_bd8df150-e60e-4bcc-a2fe-e1b28b4093a3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/incremental.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_cc86f1fc-5195-4c93-9871-8530f255eb78?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/intern.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_490ac988-643b-457d-8c3a-fc5242f72099?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/mod.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_4319d7f8-24a0-45dc-8fb2-d762ea368a88?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/object_cache.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_98f32f52-3461-4cba-8c19-5e7752bbaa19?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/parse_atom.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_6a580e1b-1579-47f1-b932-75da775e479c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/path_builder.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_a5a909a0-bae7-4288-817f-a7e6e3d80d58?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: src/serde/read_cache_lookup.rs -> Scope: High. Incremental serialization/deserialization, object-cache reuse, tree-cache reuse, or read-cache lookup bug returns stale or incorrect nodes, hashes, lengths, or backreferences across attacker-controlled inputs.'",
+    "url": "https://deepwiki.com/search/-generate-exploitfocused-secur_bb7b117c-6b1c-41a8-a09c-d40f3d539882?mode=deep",
+    "questions_generated": false
+  }
+]
