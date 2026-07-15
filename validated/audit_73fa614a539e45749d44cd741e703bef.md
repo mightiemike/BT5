@@ -1,1 +1,0 @@
-Let me look at the `serde_2026` format and the Python API for more potential analog patterns.

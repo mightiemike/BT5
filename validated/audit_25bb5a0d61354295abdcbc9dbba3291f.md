@@ -1,1 +1,0 @@
-Let me look at the Python `run` method and the `UNSAFE_MAX_COST` usage more carefully, as well as the `modpow` cost model.

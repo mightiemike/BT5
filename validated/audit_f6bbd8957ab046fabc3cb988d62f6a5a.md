@@ -1,1 +1,0 @@
-Let me look at the `chia_dialect.rs` to understand `gc_candidate` and the dialect system more fully.

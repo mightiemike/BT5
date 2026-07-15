@@ -1,1 +1,0 @@
-Looking at the external report's vulnerability class — **missing cross-parameter validation** where a parameter affecting arithmetic calculations is not validated against related parameters — I need to find an analog in clvm_rs where a parameter that drives cost or arithmetic is accepted without being validated against a related parameter it must be consistent with.

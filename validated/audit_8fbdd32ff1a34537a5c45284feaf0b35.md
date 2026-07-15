@@ -1,3 +1,0 @@
-Looking at the external report's vulnerability class — a component that **forwards** something to an external party but has **no handler for the return path**, causing the entire operation to fail — I need to find an analog in clvm_rs where a missing handler causes execution to fail or produce incorrect results.
-
-Let me examine the key areas: operator dispatch, GC candidate list, and softfork handling.

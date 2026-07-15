@@ -1,1 +1,0 @@
-Looking at the vulnerability class — unchecked arithmetic operations leading to overflow — I need to find analogous unchecked math in production CLVM execution paths.

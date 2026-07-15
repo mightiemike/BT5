@@ -1,1 +1,0 @@
-Let me look at the shift operators and the `op_lognot` function more carefully, as they compute cost based on input size but produce outputs of potentially different sizes.

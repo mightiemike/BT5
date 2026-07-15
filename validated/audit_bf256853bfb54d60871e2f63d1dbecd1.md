@@ -1,1 +1,0 @@
-Looking at the vulnerability class (signature malleability / non-canonical representation acceptance), I need to find an analog in clvm_rs where the same logical value can be represented in multiple ways, causing a security-relevant inconsistency.

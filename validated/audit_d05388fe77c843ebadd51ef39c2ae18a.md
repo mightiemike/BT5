@@ -1,3 +1,0 @@
-Looking at the vulnerability class — **state tracking mismatch** where an operation that brings in assets/resources doesn't update the internal tracking variable, causing a discrepancy between actual state and tracked state — I need to find an analog in `clvm_rs` where an allocation path fails to update a consensus-critical counter.
-
-Let me examine the allocator's ghost-counter accounting system carefully.
