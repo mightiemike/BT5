@@ -1,1 +1,0 @@
-[File: 'core/primitives/src/types.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'] [Symbol: EpochReference custom serde::Serialize / #[serde(rename_all = \
