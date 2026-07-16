@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: chain/chain/src/stateless_validation/processing_tracker.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_b60c8bc1-1e1e-4f85-ab2f-939af6178bda?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/stateless_validation/state_witness.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_fd824cf7-0ce0-4297-987c-a55a9c19b151?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/types.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_e6cbe106-9d0c-4af5-90e1-f032d36c5a3b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/update_shard.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_a24b3f16-d558-4d8c-8306-7047e55a20fe?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/validate.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_462ed1a7-c9fe-4c38-8cff-0bb32052b2d2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chunks/src/chunk_cache.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0f30a255-b9cd-43a9-9fed-0fbe53323029?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chunks/src/client.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c65c853a-d822-465b-a9ad-5311009eec6e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chunks/src/logic.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7260e708-64b3-40be-8b0c-727f45552dd5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chunks/src/shards_manager_actor.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_387a9646-6f67-474f-ac79-7a7c6ad30581?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/chunk_endorsement_handler.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_02b84f00-f8a3-4f0e-9bcf-9b6f0be0ad15?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/chunk_inclusion_tracker.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0dd066ed-cb24-44cf-8d4a-7cfe8024a5a1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/chunk_producer.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_beeed392-7e0f-46d2-9ffb-39b2c1d262a5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/client.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5ea30cb9-5e79-4eb6-a331-125cdc0f952e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/client_actor.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4389986b-bad7-48d7-80eb-87e1bd966c44?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/pending_transaction_queue.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_bace0bdb-c32a-468f-857a-43658aaeedcc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/prepare_transactions.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_3a3b4bfd-eb1a-40bf-8d9d-34a732441c2f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/rpc_handler.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_67834514-342a-45fa-b3fe-ff900bf7e1e1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/state_request_actor.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_a0276536-bb82-4715-ad5d-95326ce9886c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/chunk_endorsement.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_fd9ee7ea-418b-4647-88ff-2a4b64e417dd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/chunk_validation_actor.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_51cf5c99-76f0-4089-b9f4-19fdcf133dfa?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/chunk_validator/mod.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_76924d25-351f-48ea-b302-27cddca5eb30?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/chunk_validator/orphan_witness_pool.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_987c1b33-324a-4e31-b5d7-5483ac90977f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/partial_witness/encoding.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4f5e04a5-8555-4385-9b56-b0db6b155b81?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/partial_witness/partial_deploys_tracker.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_e70092a4-4ae5-42e7-9158-f6d580b373b2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/partial_witness/partial_witness_actor.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_63096756-c91a-4bd4-9e47-0f4ec5c406ef?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/partial_witness/partial_witness_tracker.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_84f8af1a-3843-4c77-9b5c-16a735056886?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/shadow_validate.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5df2e756-5852-48a0-bb91-79df920de183?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/state_witness_producer.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_3dbdd5b2-7b9b-4fbb-9874-926b693ce2b5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/state_witness_tracker.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_bff9f535-0407-40e1-ac04-f9250461ffd1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/stateless_validation/validate.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c8a645ef-201a-4e2d-af75-08ad128b9609?mode=deep",
+    "questions_generated": false
+  }
+]
