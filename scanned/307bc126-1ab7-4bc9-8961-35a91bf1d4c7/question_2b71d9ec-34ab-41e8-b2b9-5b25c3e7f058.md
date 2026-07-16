@@ -1,0 +1,1 @@
+[File: 'core/crypto/src/signature.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'] [Symbol: PublicKeyHandle::from_str / ML_DSA_65_HASH_PREFIX] Can an attacker-controlled RPC string of the form \

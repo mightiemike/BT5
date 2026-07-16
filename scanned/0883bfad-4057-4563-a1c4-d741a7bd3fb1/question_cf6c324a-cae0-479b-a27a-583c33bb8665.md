@@ -1,0 +1,1 @@
+[File: 'chain/jsonrpc/src/api/view_state.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'] [Symbol: RpcViewStateError / serde(tag=\

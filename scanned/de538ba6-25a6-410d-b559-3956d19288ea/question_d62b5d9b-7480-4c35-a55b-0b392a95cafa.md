@@ -1,0 +1,1 @@
+[File: 'core/store/src/adapter/trie_store.rs -> Scope: High'] [Symbol: ShardUId serde / ShardUIdVisitor::visit_map] Can an unprivileged RPC client submit a JSON request containing a ShardUId in the legacy map format {\

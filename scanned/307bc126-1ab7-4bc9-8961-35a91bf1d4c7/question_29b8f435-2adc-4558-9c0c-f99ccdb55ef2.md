@@ -1,0 +1,1 @@
+[File: 'core/crypto/src/signature.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'] [Symbol: MlDsa65PublicKey::to_public_key_handle / HashDomainTag::MlDsa65PubkeyV1] If the domain-separation tag b\
