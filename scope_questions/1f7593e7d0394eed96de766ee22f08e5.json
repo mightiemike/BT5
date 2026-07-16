@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: chain/chain/src/approval_verification.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_abc5e3b1-252b-4f7e-8a46-9e8257c6055e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/block_processing_utils.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4dac141a-7c36-4f9a-8082-464989109218?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/chain.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_95709f5e-ab6f-441a-8211-b2ef42af6d42?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/chain_update.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0dd55932-5ce3-4a9b-8749-b7e47c4d835a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/doomslug.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_54e51368-7381-4a4e-96ac-7e3778c955eb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/lightclient.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_632114d3-e3e7-4963-8d0e-45e3b96ff9f4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/missing_chunks.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_95a35d5d-0bd8-4400-8633-e9b0d05273cf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/orphan.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_f81bb5f1-ce6d-41b1-bd99-30d3da8c4066?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/pending.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_731349d1-b538-4594-a751-cd46870e97ee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/flat_storage_resharder.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_234f653a-a877-4d1c-8a13-9b62d791e0ea?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/manager.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_27e83008-5845-4820-80e1-5f5e58df3b53?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/migrations.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5386e1ec-2ce8-4954-a2c2-634031cc08bf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/resharding_actor.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_adb5f0ba-7461-4391-b7b8-df940a9684b4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/trie_state_resharder.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_a752640a-619a-4f31-9226-d87a81f097f1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/runtime/mod.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_2223b263-80b4-489f-9381-3df4ad48fcd2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/runtime/signer_overlay.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_3c6e1eab-e008-49da-8f77-de523745a68d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/runtime/trie_update_wrapper.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_087f0aa4-bab8-4d04-b640-9b02aed32b80?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/sharding.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_1d6e018f-2162-4ef3-a500-561b8db0b163?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/signature_verification.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_8f5fc0f5-81df-4307-a693-f98285058266?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/block_application.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_61efb540-2c71-46af-b6ea-c3c1acaa949d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/chain.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7880b914-eee5-4fe7-a9a1-6949f31dbd59?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/chunk_application.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_38ee09c7-390a-4c1a-8e37-6fd9e7991c37?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/chunk_validation.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_dfda2be5-5a34-4284-a59d-6a554bec4195?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/core.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7a0e85cb-92b2-4943-9a03-1e7ecb33ad9e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/state_sync/adapter.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_56cf1b59-422d-41b6-b5c6-a7e088cfd955?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/state_sync/mod.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_72d34804-419e-4c4a-a1db-10ab857ce966?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/state_sync/state_request_tracker.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c42b7a8d-db39-46e6-97d7-205deb7e4dac?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/state_sync/utils.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_a8267038-b5ee-4306-b32e-3e5fb46e606f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/stateless_validation/chunk_endorsement.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0c5968b2-19cc-445f-a0d1-2188b6668fc3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/stateless_validation/chunk_validation.rs -> Scope: High. Unprivileged-user-triggered Stable hashing, ordered map/set serialization, configuration hashing, or deterministic ID construction depends on non-canonical ordering or representation in a protocol-visible value.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_e0c3a1a1-a24c-4112-a47e-ece58c18f747?mode=deep",
+    "questions_generated": false
+  }
+]
