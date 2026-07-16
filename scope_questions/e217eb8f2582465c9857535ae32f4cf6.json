@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: chain/client/src/sync/block.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_09940bf0-f38e-4024-a446-14e6b829e882?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/epoch.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_a26d78bc-3c52-428a-a4d7-338f79e6e66f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/external.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c1efbeb1-c592-43c6-b7d0-0112c6c7c646?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/handler.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_6d9f7788-4f80-4845-88ee-a5d81c1cfbd8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/header.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_e3d34ca5-a4ab-47e7-9012-6049067fc66a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/chain_requests.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_f255165b-6707-4b8b-957b-759990ab794d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/downloader.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_abe00cb4-d042-496d-938b-452ee5a958c2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/mod.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_6805e653-66ce-4dd7-bd0a-930c4c617d31?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/network.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_43b9d779-68bc-49b5-a90b-6b4d912eafad?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/shard.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0eb97253-4a42-4344-ba89-e78c5dc3db8e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/task_tracker.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_06732675-bf25-48e2-9c0f-e938611ca1a5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/util.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c55fb73a-3df2-4ecd-9df5-f7346f062c31?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/view_client_actor.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_d5b6dfab-69ef-47e4-8348-355260304673?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/epoch_info_aggregator.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_d5007986-9713-45ed-9a38-310ff8b3aaeb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/epoch_sync.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0ea91fb6-b075-415c-8f06-5a2f9c53b6a7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/lib.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_54ca1d28-d85a-4a33-a0dc-fa91e90a32e7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/reward_calculator.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_00f0f414-4584-4caf-bc98-7b53eb9f5545?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_assignment/mod.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5dd2c4ab-8fe9-4ace-b22c-fc59abcde177?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_assignment/sticky_resharding.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_62ab6087-b52f-4eaa-a1b1-58782456a901?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_tracker.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_81c9887b-7d39-45c4-8cec-ed6b64182e6f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/validator_selection.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_709e94bc-5750-4800-a46a-8215f165a066?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/validator_stats.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_bd1630f0-87c2-46c6-b349-6cd8793b4593?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/blocks.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_515d15c2-a992-4129-a21d-c5fad79ab7ce?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/call_function.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ad0346ca-c165-43c0-9139-c01a4a37e50c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/chunks.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7f5d3dd2-1758-41b1-a0f7-aab04992bc98?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/light_client.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_707264da-e234-4a70-a96e-840cf6408adc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/query.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0a166cc4-27ab-4349-829b-11e8650f9613?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/status.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_8b63e08e-fe93-421d-b08a-abb63eaad7bb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/transactions.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_349bdae3-55cf-4a39-8d15-b8cceaea0526?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/validator.rs -> Scope: High. Unprivileged-user-triggered RPC, client config, genesis config validation, or network handshake compatibility path advertises or accepts a protocol capability that does not match the node's actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_82404952-cda6-4a39-ba87-90c272b51711?mode=deep",
+    "questions_generated": false
+  }
+]
