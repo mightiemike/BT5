@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: chain/chain/src/approval_verification.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_1534db85-efae-4750-8a3a-7d80b6605e1d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/block_processing_utils.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_bd831ccc-bde8-4fb1-be14-db37b1761c95?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/chain.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_02bccf9e-c20e-488d-b59f-90376b5b4947?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/chain_update.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7d70254f-75d7-443e-bc18-c4f24a31e42f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/doomslug.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_129a7255-6db7-4a52-a457-ec71ce528cf7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/lightclient.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_64270abf-20b7-4d06-b3a7-a2d30d7f9a1d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/missing_chunks.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_43a84b9c-92d4-4e98-ab7f-1d096ca9edb9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/orphan.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_b895964a-4ca5-4222-a073-536f35737c2e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/pending.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_a6f4efca-0e0f-4df2-8340-4f7aec631a0b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/flat_storage_resharder.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5f8831ae-f7d0-4777-b576-aaacc883b098?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/manager.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_8c9c29d6-36a0-4f59-9ed4-80635329c88f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/migrations.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_d9f6facc-56b3-4e30-8f7a-fae804277c76?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/resharding_actor.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_dc794da9-9896-4293-b410-d6d964fe9ddb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/resharding/trie_state_resharder.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5a95829e-5f7a-4394-b5cc-192f191f3939?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/runtime/mod.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_3abedda1-9a60-42f5-b555-7cf144882fb5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/runtime/signer_overlay.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_489d7583-a1c7-4d46-aa26-b7036fdd02e6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/runtime/trie_update_wrapper.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c277a0ee-c398-44a9-b48f-5e5a2110931b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/sharding.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_df655760-2f61-4e67-8782-336cd0f2ccc6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/signature_verification.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ef8aaebf-adb3-4a6a-a3ec-ece94c2fab07?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/block_application.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c09fb513-203d-4753-8d02-432877937eac?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/chain.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5d2e113e-9900-4171-9fbe-340054119a32?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/chunk_application.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_403612fd-a91d-4987-9ef0-7d1326fafa44?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/chunk_validation.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_19abe0e7-b463-4b3a-b471-259f1a432fb8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/spice/core.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_2e979086-d4a7-4893-aabf-fd1fa9bf7900?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/state_sync/adapter.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c80ff8ed-c4cc-4a20-a0ab-f8ad6669fa5a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/state_sync/mod.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_06eee226-5b9b-490f-9451-bb81a4a2f651?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/state_sync/state_request_tracker.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c7e4ceff-6eea-45fd-826a-4119be3dd188?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/state_sync/utils.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4c8b40a2-1e17-4972-ada0-387745ef619b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/stateless_validation/chunk_endorsement.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_fdd8db74-2fd9-4fe7-9473-5be1a8d4886c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/chain/src/stateless_validation/chunk_validation.rs -> Scope: High. Unprivileged-user-triggered Shard layout, account-id boundary, trie-key format, state record, or migration compatibility bug maps historical state to a different shard/account namespace after a protocol transition.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_db5221d3-3b3c-4805-8bb3-e2a96847656b?mode=deep",
+    "questions_generated": false
+  }
+]
