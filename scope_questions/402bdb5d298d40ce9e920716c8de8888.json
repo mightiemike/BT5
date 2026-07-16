@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/primitives-core/src/hash.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_556bb39e-75b9-48b2-905c-113cf787a125?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives-core/src/serialize.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0fce4054-3970-4b98-ade1-272f1580630b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives-core/src/trie_key.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_b844ac97-0b9b-4865-af27-cf20c6f3fdf3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives-core/src/types.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ccf1c951-07f8-4f71-979f-5d8877f4b8bc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/action/mod.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ec6ad13c-a19c-48b5-809b-32f65f6811d0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/block.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_99fc5be7-7cb3-4c57-992a-bb0db183e36e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/block_body.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_3f19118d-541d-4c77-a451-9f22f2a7d77b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/block_header.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_d48e3be9-8d2f-4154-b5dc-bb91f2842217?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/challenge.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_873b0534-9d3b-4421-a7a0-57be45f14ebc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/congestion_info.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_784b334c-934d-4ce4-af4b-3833ef7e41e0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/epoch_block_info.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4a4f035a-69ee-441a-ba54-53356920bba7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/epoch_info.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4a2790ef-de69-42a1-86a9-ace7da6c8cbc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/epoch_manager.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_f64dfc81-0c3e-4c4b-bde1-1c91755355c5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/epoch_sync.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_20e6a413-a7e9-4509-85b4-13ab2aa5337a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/merkle.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_6158a6d3-81c3-42fe-9565-13594b743e03?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/optimistic_block.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_9bbdd17b-cfb3-4e34-8212-bbbf2411e860?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/receipt.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_8be9a5e4-f816-48b0-abf6-a183e35917d8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/reed_solomon.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_618df3ad-64fc-4055-817b-629ef0c67ad2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/shard_layout/mod.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_e40ea84d-716f-4f97-bb4c-afb52d8c3769?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/shard_layout/v1.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_660f8a67-16f0-4aad-84c5-b854a278d4ef?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/shard_layout/v2.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_2668ea34-3c41-46bf-ab91-269dbaf9c654?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/shard_layout/v3.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_faf4c526-7880-4746-952a-560c12a40bba?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/sharding.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c0f2a630-9e20-445d-83c1-661f7b461e53?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/sharding/shard_chunk_header_inner.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_1c6325a5-2e71-453b-9469-f39fb5cda3d7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/spice/chunk_endorsement.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_32866f29-dadd-452f-8241-e27b754afb91?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/spice/partial_data.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_d78569b1-f909-4490-bd16-b9cbdf81d14a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/spice/state_witness.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7ca7962b-8428-4b20-be8c-e7e37c52e144?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/state.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_30ffbdfc-c71b-4bc5-93ce-d12f62b02689?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/state_part.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5455366d-6eda-4c7e-b40d-af4d7dd85aaf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives/src/state_record.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_041352a6-769a-4caa-afcf-5acacf26229b?mode=deep",
+    "questions_generated": false
+  }
+]
