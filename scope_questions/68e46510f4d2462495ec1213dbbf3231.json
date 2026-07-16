@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: chain/client/src/sync/block.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_6ba9e236-43cc-4afc-ac1c-d3eb2938f3c6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/epoch.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_3648ff74-9129-4dde-930d-2635a2bcaf0c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/external.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_943e81e9-dd5d-45de-8ec3-37e7d239bc8a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/handler.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_fd4e4380-3e5d-4d4b-9374-a39d15ac3139?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/header.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_445ffc9d-3ec8-4918-a0bf-dcbaa486eebe?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/chain_requests.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7da62764-3fe6-478e-b437-e4b8d5e8861a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/downloader.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_1197f29b-7c26-47a0-a4d0-d20e8c3f0725?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/mod.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_00dcabb4-3e55-4241-b86d-b0aa8f5316f9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/network.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_1a72e556-0104-4000-809a-869fce979d9d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/shard.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_1dd6307d-8a62-4c35-a2ac-f9aafc02d237?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/task_tracker.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_f54c3dbe-3701-4a8b-b047-6ad472e46092?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/sync/state/util.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ab5cfed6-cf7f-4ada-8b50-b392bdbc6fb0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/view_client_actor.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_2aea643b-bd13-4008-b17b-a5c3ab029265?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/epoch_info_aggregator.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_6f9d099f-56b1-4a02-9bab-03491a69d1f4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/epoch_sync.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_21a5153c-60c6-41de-94e9-8d5b117023b2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/lib.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5a9bb4c7-9c4f-4025-8633-b2ffb9a8bdc7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/reward_calculator.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4552210a-6704-4f20-8a90-24c3118455eb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_assignment/mod.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_f72c90a9-e7f8-45b0-a893-07ea51cce3b6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_assignment/sticky_resharding.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_735cafd4-d4c9-4dae-98c5-482be4381717?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_tracker.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_eac47214-bee8-4961-a523-1992d0813df5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/validator_selection.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_b8b3dde3-c307-46d6-84d6-e0e02fc73dde?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/validator_stats.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_60ee0cca-12e0-4a6c-8664-ecfedb913bad?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/blocks.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ab7e66ca-df36-47d0-9cd2-e5722f19f12f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/call_function.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_041da447-bb55-4425-8ec2-1cbdac033759?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/chunks.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4e720ead-4bc4-431f-ad1d-ea4ffece3615?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/light_client.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_5357e6c1-6912-4099-bd78-09866783031e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/query.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_298c21e8-e199-49a6-91df-f3b2c1f164a8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/status.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_4082c4a5-0711-43a6-9a9f-bac1067c89d2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/transactions.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_668ec1fa-be41-4da9-8ca0-221366e78857?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/validator.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_961b7d6b-de28-4192-ba31-8a90a09c0b1c?mode=deep",
+    "questions_generated": false
+  }
+]
