@@ -1,0 +1,1 @@
+[File: 'core/primitives-core/src/gas.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'] [Symbol: Gas::serialize / Gas::deserialize] Can an attacker-controlled JSON RPC payload that sends Gas as a quoted string (e.g. '\
