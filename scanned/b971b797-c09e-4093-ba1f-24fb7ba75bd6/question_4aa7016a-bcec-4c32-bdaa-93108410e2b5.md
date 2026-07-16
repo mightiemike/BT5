@@ -1,1 +1,0 @@
-[File: 'core/crypto/src/signer.rs -> Scope: Critical. Unprivileged-user-triggered Versioned Borsh/JSON/protobuf conversion, enum variant, or legacy field handling interprets the same stored or network object differently across supported nearcore versions.'] [Symbol: MlDsa65PublicKey::to_public_key_handle / HashDomainTag::MlDsa65PubkeyV1 (b\
