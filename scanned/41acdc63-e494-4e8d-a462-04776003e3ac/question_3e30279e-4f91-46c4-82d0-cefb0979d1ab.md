@@ -1,1 +1,0 @@
-[File: 'core/store/src/adapter/trie_store.rs -> Scope: Critical'] [Symbol: ShardUId::serde::Deserialize / visit_map backwards compatibility] Can an unprivileged RPC client who sends a JSON request containing a ShardUId in the old map format ({\
