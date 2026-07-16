@@ -1,1 +1,0 @@
-[File: 'chain/chain/src/update_shard.rs -> Scope: High'] [Symbol: ShardUId serde / visit_map / visit_str] Can an unprivileged RPC client send a JSON request containing a ShardUId in the legacy map format {\
