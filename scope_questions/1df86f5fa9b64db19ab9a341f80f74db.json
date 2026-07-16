@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/view_access_key.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_2186f401-78b2-4579-9478-e41021067241?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/view_account.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ebad3e22-e8d2-410a-9ff0-64566c8910f4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/view_code.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_97bdd9b4-626e-496d-9c26-3c6e72921cef?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/view_state.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_cf0e0ad6-4f72-4734-95eb-5e770c19cb1d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/sharded_rpc.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_eca7075b-33fb-4827-99cd-d586446c1fa6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/accounts_data/mod.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_197ebd3e-2ba2-4d0d-b07c-db87d423b9b4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/announce_accounts/mod.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_a7249e30-de33-4c08-aa46-4d3d9b486f43?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/client.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_a7b57ebb-1be5-4363-8efb-7d49c74fb991?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/network_protocol/edge.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7029ca12-9685-426b-943e-2396a9d56002?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/network_protocol/mod.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_eb5eecf8-a3df-49f6-bec5-9155c63efe37?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/network_protocol/peer.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_07308f92-c60e-4f27-b230-9e00d39066c8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/network_protocol/state_sync.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_700e52fd-0b8f-419b-87d1-76ec5939a26c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/peer/peer_actor.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_006e52b7-5c18-46b4-897e-1592175ccc63?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/peer_manager/peer_manager_actor.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_23d75e96-bd05-4c27-bec0-e9b294c5b623?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/routing/edge.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ee1939b8-0586-4087-b066-e3b905a491d9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/routing/graph/mod.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_7a3633f4-91b0-4020-a75a-0267dc019f13?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/shards_manager.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_e9b005e4-c483-4b5e-97e9-b84e410b69dd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/state_sync.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_f66223da-93c5-46b6-b148-cce0a9e4feef?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/state_witness.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_08117e6f-0748-4eb8-8fc7-ab4b1af10635?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/network/src/types.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_525a5f59-0383-49c7-8083-a728a165d49d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/pool/src/lib.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_e447e479-7db1-40cd-b5d0-bfb761ef9081?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/pool/src/types.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_defae851-d3c1-46ca-8cc6-1f24c82bf57a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/hash.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_aa37e310-b3b2-4e77-aeaf-5a2474f49f88?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/hash_domain.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ae416d91-7332-4065-b2d2-6431c308e7b3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/signature.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_8d607f97-8473-4288-8244-b017e5a0c28c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/signer.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_ce00b96f-5f10-4674-a808-4211c9b107ac?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/vrf.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0b5adfd6-381a-40e3-af2f-33e91da5497f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives-core/src/account.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_0a540745-d7bb-4601-adca-62b406a1cf5c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives-core/src/apply.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_c46ac136-23bf-4ccf-9cbc-d47aad38197d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/primitives-core/src/gas.rs -> Scope: Critical. Unprivileged-user-triggered Hash domain, signable message, approval id, endorsement id, transaction hash, or Merkle path construction collides across message types or protocol versions and validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-protocolcompatibilit_129a403e-2a15-4706-9b3a-19fb84f43b57?mode=deep",
+    "questions_generated": false
+  }
+]
