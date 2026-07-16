@@ -1,1 +1,0 @@
-[File: 'chain/jsonrpc/src/api/blocks.rs -> Scope: Critical. Unprivileged-user-triggered Protocol feature activation, epoch boundary, runtime config selection, or protocol version negotiation applies new rules too early, too late, or inconsistently across chain, runtime, client, and network code.'] [Symbol: RpcBlockRequest / BlockReference serde(rename_all = \
