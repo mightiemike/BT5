@@ -1,1 +1,0 @@
-[File: 'core/crypto/src/vrf.rs -> Scope: Critical'] [Symbol: hash_s! concatenation of &self.0 (32 bytes) and input (&[u8]) without length prefix] Can an attacker-controlled VRF input that is the empty byte slice cause hash_s!(&pk.0, b\
