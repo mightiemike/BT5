@@ -1,0 +1,1 @@
+[File: 'chain/chunks/src/client.rs -> Scope: High. Unprivileged-user-triggered Crypto key parsing, signature scheme tagging, public key conversion, or validator signer serialization accepts a key/signature under the wrong scheme or domain.'] [Symbol: PublicKey::from_str / KeyType::from_str (core/crypto/src/signature.rs)] Can an attacker-controlled JSON string \

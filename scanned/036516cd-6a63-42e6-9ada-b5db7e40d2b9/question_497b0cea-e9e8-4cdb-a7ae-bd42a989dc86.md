@@ -1,0 +1,1 @@
+[File: 'core/primitives/src/merkle.rs -> Scope: High'] [Symbol: MerklePathItem / serde::Deserialize] Can an attacker-controlled JSON MerklePath from an RPC response under any protocol version pass serde_json::from_str and violate the JSON-to-Borsh-canonical-form invariant, producing a divergent Direction value, because Direction serializes as a JSON string (\
