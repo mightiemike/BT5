@@ -1,1 +1,0 @@
-[File: 'core/primitives/src/shard_layout/v3.rs -> Scope: High.'] [Symbol: ShardLayoutV3 / ShardUId serde Deserialize / visit_map legacy path] Can an unprivileged RPC client submit a JSON payload containing a ShardUId in the legacy map format {\
