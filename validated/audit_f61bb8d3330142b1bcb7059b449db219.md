@@ -1,1 +1,0 @@
-I'll analyze the external bug (missing state-confirmation guard allowing overwrite of an agreed-upon assignment) and search for a nearcore analog in versioned serialization, protocol feature activation, hash/signature domains, or state transition guards.

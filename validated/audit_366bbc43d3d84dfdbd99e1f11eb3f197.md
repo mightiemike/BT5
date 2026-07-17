@@ -1,1 +1,0 @@
-Let me look at the specific memory_usage source for both paths to confirm they read from the same stored values.

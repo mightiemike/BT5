@@ -1,3 +1,0 @@
-Let me analyze the external bug pattern and search for nearcore analogs. The core issue is: function A correctly sets up a prerequisite (approval) before an operation, but function B performs the same operation without the prerequisite, causing silent failure.
-
-In nearcore terms, I'm looking for: a code path that performs a distribution/reward/state-update operation without a required prerequisite (registration, activation, approval), while a sibling code path correctly includes it.

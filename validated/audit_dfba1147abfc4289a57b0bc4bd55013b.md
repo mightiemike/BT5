@@ -1,1 +1,0 @@
-Let me investigate the nearcore codebase for analogs to this pattern — where a new component/helper is configured but required setup (like authorization/approval) is not performed for the new component.

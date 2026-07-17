@@ -1,1 +1,0 @@
-I'll analyze the external bug (reentrancy causing a counter to be overwritten, creating a divergence between emitted events and stored state) and search for nearcore analogs involving counters, versioned state, or ordering invariants.

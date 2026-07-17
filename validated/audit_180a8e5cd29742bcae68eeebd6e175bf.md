@@ -1,1 +1,0 @@
-Let me look at the `can_reshard` implementation and the `EpochInfoAggregator` version_tracker more carefully.

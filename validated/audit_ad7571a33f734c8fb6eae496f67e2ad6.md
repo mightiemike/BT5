@@ -1,1 +1,0 @@
-I'll analyze the external bug's core invariant and search for nearcore analogs. The key pattern is: during an upgrade boundary, ownership/identity info is "burned" (cleared) before the new handler receives user-controlled data, bypassing access control restrictions.

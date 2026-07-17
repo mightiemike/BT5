@@ -1,1 +1,0 @@
-[File: 'core/crypto/src/signer.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'] [Symbol: Signer enum / serde externally-tagged format] Can attacker-controlled JSON representation '{\
