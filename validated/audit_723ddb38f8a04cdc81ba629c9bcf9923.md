@@ -1,0 +1,1 @@
+Let me analyze the external report and search for nearcore analogs systematically. The core vulnerability is about self-referential ownership creating a state divergence — an entity "owns itself," bypassing access controls while state remains inconsistent with reality.
