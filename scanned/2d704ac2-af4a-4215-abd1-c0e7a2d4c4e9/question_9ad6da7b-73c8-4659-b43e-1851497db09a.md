@@ -1,1 +1,0 @@
-[File: 'runtime/runtime/src/adapter.rs -> Scope: Critical. Unprivileged-user-triggered Store schema migration, DB column mapping, cold/split storage transition, or archival migration changes the meaning of historical consensus data used after upgrade.'] [Symbol: TrieViewer::view_state / after_key prefix check] Can an RPC client sending ViewState { account_id: alice, prefix: b\
