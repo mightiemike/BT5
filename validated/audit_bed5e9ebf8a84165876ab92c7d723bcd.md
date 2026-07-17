@@ -1,0 +1,1 @@
+Let me analyze the external bug (stale immutable reference after a global update creates a mismatch) and search for nearcore analogs involving versioned references, protocol feature activation, or schema migration.
