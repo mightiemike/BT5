@@ -1,0 +1,1 @@
+Let me analyze the external bug and search for nearcore analogs. The core invariant is: a two-phase operation (withdraw + redeposit) where authorization/allowance only covers one phase, leaving funds stranded after partial completion.
