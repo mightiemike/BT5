@@ -1,1 +1,0 @@
-[File: 'crates/starknet_api/src/contract_class/compiled_class_hash.rs -> Scope: Critical.'] [Symbol: hash_inner / COMPILED_CLASS_V1 domain constant] Can an attacker verify that COMPILED_CLASS_V1 = Felt::from_bytes_be_slice(b\
