@@ -1,1 +1,0 @@
-[File: 'crates/apollo_versioned_constants/src/lib.rs -> Scope: Critical.'] [Symbol: FeeProposalInfo / AerospikeBlob / CentralFeeProposalInfo] Can a pre-V0_14_3 block (fee_proposal_fri = None in ProposalInit) cause FeeProposalInfo { fee_proposal_fri: None } to be serialized into the AerospikeBlob JSON as {\
