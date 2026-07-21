@@ -1,0 +1,1 @@
+[File: 'crates/starknet_api/src/data_availability.rs -> Scope: Critical.'] [Symbol: DataAvailabilityMode / Deserializer (untagged serde)] Can an attacker-controlled JSON payload supply a numeric string (e.g. '\

@@ -1,0 +1,1 @@
+[File: 'crates/starknet_api/src/executable_transaction.rs -> Scope: Critical.'] [Symbol: DeclareTransaction::casm_contract_class / ContractClass::V1 / CasmContractClass StorageSerde compression] Can an attacker-controlled CasmContractClass with a serialized size exceeding MAX_DECOMPRESSED_SIZE cause the StorageSerde deserializer to panic (via expect(\

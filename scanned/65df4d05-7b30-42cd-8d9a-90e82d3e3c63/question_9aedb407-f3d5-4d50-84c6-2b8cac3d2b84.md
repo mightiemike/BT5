@@ -1,0 +1,1 @@
+[File: 'crates/papyrus_common/src/python_json.rs -> Scope: Critical.'] [Symbol: compute_cairo_hinted_class_hash / add_backward_compatibility_space compiler_version gate] Can an attacker-controlled pre-0.10 deprecated class that sets program.compiler_version to an empty string \

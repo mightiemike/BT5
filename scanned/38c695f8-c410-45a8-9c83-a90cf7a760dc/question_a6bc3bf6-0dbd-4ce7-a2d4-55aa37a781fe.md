@@ -1,0 +1,1 @@
+[File: 'crates/apollo_config/src/command.rs -> Scope: High.'] [Symbol: split_pointers_map / unreachable! on malformed SerializedParam] Can an attacker-controlled custom JSON config file (supplied via --config_file CLI arg) contain a JSON entry whose value cannot be deserialized as SerializedParam (e.g., a raw integer value instead of the expected {\

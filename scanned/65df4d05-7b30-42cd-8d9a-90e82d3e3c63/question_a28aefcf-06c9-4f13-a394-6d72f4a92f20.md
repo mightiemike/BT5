@@ -1,0 +1,1 @@
+[File: 'crates/shared_execution_objects/src/central_objects.rs -> Scope: Critical.'] [Symbol: CentralTransactionExecutionInfo / GasVector / #[serde(default)] on l2_gas] Can attacker-controlled or version-drifted JSON blob omitting the l2_gas field from da_gas or total_gas under pre-v0.14 Starknet version pass serde deserialization of CentralTransactionExecutionInfo (feature = \

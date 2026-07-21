@@ -1,0 +1,1 @@
+[File: 'crates/starknet_api/src/transaction_hash.rs -> Scope: Critical.'] [Symbol: get_concat_resource / resource_name byte encoding L1_GAS vs L1_DATA] Can an attacker observe that L1_GAS is encoded as b\
