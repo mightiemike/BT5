@@ -1,0 +1,1 @@
+Let me look at the central objects conversion and the `CentralDeployAccountTransaction` to find the serialization boundary.
