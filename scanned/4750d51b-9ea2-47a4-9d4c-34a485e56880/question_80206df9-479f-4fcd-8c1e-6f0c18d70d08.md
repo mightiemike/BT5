@@ -1,1 +1,0 @@
-[File: 'crates/apollo_rpc/src/v0_8/deprecated_contract_class.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'] [Symbol: EntryPointOffset #[serde(deserialize_with = \
