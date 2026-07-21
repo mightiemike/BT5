@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/codec.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a315b409-bc3f-423c-96c4-958604aa6ca9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/consensus.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_71b29110-bc07-41c9-a000-61f5f82e3867?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/class.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a57c34d3-168f-4474-8f3f-8bdb0f807728?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/common.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c975b9f9-00d1-4433-9862-ef8750995800?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/consensus.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_9489f70d-7434-486f-84d4-f0f3b3dfe177?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/event.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_3da8feec-06f0-41a3-9eb1-6313f26ee2d2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/header.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_2b96e1e2-f424-45b9-8a2e-9cad587e2112?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/receipt.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1141aab0-9057-4584-934f-aa8104cc8f82?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/rpc_transaction.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1da83915-1c22-46f6-9057-17c92b7ba5ad?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/state_diff.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f0769f34-a67b-49d8-b091-29bfc853546d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/transaction.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f5ebed92-0e3a-49a9-8feb-9ec0207d1fbb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/mempool.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_351a052f-efc1-435c-9e2f-0668097a72e1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_515f3553-4342-4b01-95c6-1800e71ce95f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf/protoc_output.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1a215d66-af3b-4134-bd69-6981c6bef569?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/sync.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_998e2fa9-99e9-494e-96e4-8bc14d91c9c9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/transaction.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f740f984-5a58-4302-91db-ba2b3390305c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/version_config.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_61a3d18f-fb2f-4ff2-9d93-fd2689856e13?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/block.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c23172d8-8995-4fe7-b428-aaf2f93933fa?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/broadcasted_transaction.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_ff18b591-bdf3-47fa-a1c5-db9cfd3df4e7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/deprecated_contract_class.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_3a2258c3-c8a9-4add-99b4-bcbe91a34368?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/state.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_d6843eb3-ccc4-4a47-a2d0-70a3621ea312?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/transaction.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_70c1c3de-98a5-4dbd-a93a-2874c32ab421?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc_execution/src/objects.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_97f039a0-fa0f-4818-b5d3-788f53d35733?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_sierra_compilation_config/src/config.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_626f34f3-bfd8-4917-a037-463f5900f119?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/blake_utils.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_d54a31e2-cd93-4daf-9d30-55a6820fd571?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/signature_manager.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c7828a74-09e5-4f94-8bb8-0f12a3f8bd18?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/block.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e24bbdcf-4599-4049-b129-d1aaaf83eab6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/pending_data.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_447f0005-9e87-48c5-b498-765901e31866?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/state.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_9897333c-355c-4bc9-96bb-304ee2601b80?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/transaction.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_26db0ac5-8a2a-4c35-83f7-1d2135a83455?mode=deep",
+    "questions_generated": false
+  }
+]
