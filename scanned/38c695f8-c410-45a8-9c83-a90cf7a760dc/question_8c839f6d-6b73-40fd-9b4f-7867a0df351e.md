@@ -1,1 +1,0 @@
-[File: 'crates/apollo_config/src/command.rs -> Scope: High.'] [Symbol: to_env_var_name] Can an attacker who controls environment variables exploit the collision produced by to_env_var_name—where param path 'a.b' and param path 'a__b' (a flat key whose name contains a double-underscore) both map to env var 'A__B' after .to_uppercase().replace('.', \
