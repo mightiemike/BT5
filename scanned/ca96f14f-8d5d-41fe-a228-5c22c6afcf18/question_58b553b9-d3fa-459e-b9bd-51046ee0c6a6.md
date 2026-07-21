@@ -1,1 +1,0 @@
-[File: 'crates/apollo_rpc/src/v0_8/state.rs -> Scope: Critical.'] [Symbol: ContractClass::from(starknet_api::state::SierraContractClass)] Can an attacker-controlled declare transaction whose SierraContractClass is stored in apollo_storage with contract_class_version != \
