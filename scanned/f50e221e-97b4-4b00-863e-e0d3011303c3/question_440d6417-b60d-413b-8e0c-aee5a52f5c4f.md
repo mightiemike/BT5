@@ -1,1 +1,0 @@
-[File: 'crates/apollo_http_server_config/src/config.rs -> Scope: Critical.'] [Symbol: validate_supported_tx_version_str / add_tx handler] Can an attacker-controlled deprecated-gateway transaction JSON string with a crafted field value containing the substring `\
