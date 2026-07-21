@@ -1,1 +1,0 @@
-[File: 'crates/apollo_config/src/behavior_mode.rs -> Scope: High.'] [Symbol: BehaviorMode / serde rename_all lowercase] Can an attacker-controlled config file containing behavior_mode='Starknet' (capitalized, not lowercase) under VERSION_OR_CONFIG_PRECONDITIONS where serde uses #[serde(rename_all = \
