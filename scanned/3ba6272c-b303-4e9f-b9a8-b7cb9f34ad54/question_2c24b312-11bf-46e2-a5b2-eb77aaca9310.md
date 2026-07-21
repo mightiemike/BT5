@@ -1,1 +1,0 @@
-[File: 'crates/shared_execution_objects/src/central_objects.rs -> Scope: Critical.'] [Symbol: ResourcesMapping::from(TransactionReceipt) / ExecutionResources::n_memory_holes / get_extended_vm_resources_cost] Can attacker-controlled contract execution with non-zero n_memory_holes pass ResourcesMapping::from(receipt) and violate the invariant that actual_resources[\
