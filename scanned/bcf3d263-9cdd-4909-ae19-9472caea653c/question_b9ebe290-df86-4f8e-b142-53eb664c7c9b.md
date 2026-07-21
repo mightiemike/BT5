@@ -1,1 +1,0 @@
-[File: 'crates/starknet_api/src/executable_transaction.rs -> Scope: Critical.'] [Symbol: TransactionType::tx_type_as_felt / Felt::from_bytes_be_slice] Can an attacker-controlled transaction cause a divergence where TransactionType::InvokeFunction serializes to Felt::from_bytes_be_slice(b\
