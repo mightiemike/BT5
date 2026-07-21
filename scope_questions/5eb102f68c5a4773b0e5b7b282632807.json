@@ -1,0 +1,92 @@
+[
+  {
+    "question": "'File Name: crates/starknet_api/src/rpc_transaction.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_5dbdfd00-0610-41b7-ae66-9a52008aba6b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/serde_utils.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_7705e5aa-b54a-408e-b904-c758e253f2d9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/staking.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_2c01874e-d5ae-4096-9d7e-e3e98f0b52a0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/state.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_acb3927b-0e5b-4a6d-bedb-0f217c0af1ba?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/transaction.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b9481332-379c-410e-964f-fb56fc81cea7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/transaction/fields.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c042b65d-2095-4697-8758-ebb5fb0b7dc2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/transaction_hash.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_d3519bf2-f295-4ddc-84d5-44b2f9eb2c55?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/type_utils.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_2af885dc-fcb1-4254-ac3d-03150d538913?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/versioned_constants_logic.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f9c26c60-96bb-4c28-90ca-edfdddc04325?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_committer/src/db/serde_db_utils.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c4978d3a-0734-4467-ae31-9aa2663128ed?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_committer/src/hash_function/hash.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_50506f6b-4ab0-4898-ba0f-99467c3084e5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_committer/src/patricia_merkle_tree/leaf/leaf_serde.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b9c716bc-6981-49c0-beb4-ca1ce4d664a7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/io/os_input.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_511ce46b-a7f3-419e-8321-632b76963163?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/io/os_output.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1a4e1279-8865-47cb-a5b9-70a3f451e515?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/io/os_output_types.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e7ba0df8-d670-49be-a9f2-5c4e92ed8f78?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/hints/enum_definition.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_364f7c7b-d61d-4614-9642-95015fdf8293?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/hints/enum_generation.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b7f7f34e-d6cf-4648-93db-891be6bd2747?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/hints/types.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0a84e737-8adb-4d7d-b284-af2f3fa7f145?mode=deep",
+    "questions_generated": false
+  }
+]
