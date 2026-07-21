@@ -1,0 +1,3 @@
+Looking at the H-14 pattern — a function that processes an operation on behalf of a user without verifying the caller's identity, allowing anyone to exploit pending authorizations — I need to find a sequencer-native analog in serialization, hashing, signature domains, versioned constants, compiler selection, chain id, RPC/internal conversion, storage schema, migration, config validation, or network capability negotiation.
+
+Let me investigate the proof_facts mechanism and the RPC-to-internal conversion pipeline more carefully.
