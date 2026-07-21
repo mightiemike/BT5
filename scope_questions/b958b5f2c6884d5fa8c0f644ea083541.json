@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/codec.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_50be038c-798b-43e8-9b85-f125ba177aa4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/consensus.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_16304954-813d-4683-a9df-99085d9fb063?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/class.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_38146f3f-26e2-453c-8f9e-39e74b37026c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/common.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_8b58ac30-9140-4ab5-82d8-f7aea65bf671?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/consensus.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_6155926c-853f-4055-b9dc-31ad3e6924a8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/event.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_5b3f1a2d-1ed0-471e-8528-d5c2574b23bf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/header.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f63c6f18-09bc-43d6-82a0-6fe8eb036562?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/receipt.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1f6814f8-cd85-4af6-b4cf-6d187dde06f1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/rpc_transaction.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_3b070a28-ff17-4b86-9acb-13f5d1791eef?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/state_diff.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c85371f4-6809-4e6d-8fb9-21e472c8efbd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/transaction.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_97ec529c-1cc5-4635-9566-38b1e9459648?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/mempool.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_87e9d7a3-38b4-4f70-bbb7-41861b5af4d3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_d72d9607-3d8c-4858-9cb6-ac846d70b871?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf/protoc_output.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_18c699a5-da5d-4ce9-a7f8-7f32dbb9735b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/sync.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_64c5fbec-ba59-4020-8666-4eb7bea83c6e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/transaction.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_43e7cb92-f0fc-4f65-9efe-3298e35bcf9c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/version_config.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_d83ce0e3-4394-4143-b708-53152a1f1879?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/block.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_2666e91e-0d19-4856-b9b6-48210e14956b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/broadcasted_transaction.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_afa0df51-3ec9-4464-a792-37c7dc937325?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/deprecated_contract_class.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_8c37d960-60a9-4683-9e8f-5032d99f169e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/state.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_bec982e3-ceb9-40c9-a10d-20c07e250bcd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/transaction.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_95119b00-5e1d-4c3c-9b35-e74147d06b6d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc_execution/src/objects.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a0f05a97-1e15-4d5c-b547-476ee068fd92?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_sierra_compilation_config/src/config.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_36804ea8-b26d-42e7-89ac-8742cc596a9b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/blake_utils.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_3bb07544-4007-4901-9504-72f3ceafccb6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/signature_manager.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0dee183f-22aa-41cf-adae-efa11919325b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/block.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_6acb4c6e-054b-47e9-94cc-90f09e88dc9c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/pending_data.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0004a3fc-d266-409f-9db1-de2b2d087cf0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/state.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_ec3fe5dc-6675-454f-9548-57986720ca97?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/transaction.rs -> Scope: Critical. Unprivileged-user-triggered transaction hash, class hash, compiled class hash, block hash, signature preimage, Blake/Pedersen/Poseidon domain, or commitment encoding bug validates the wrong object.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_df80de72-fb02-4ae1-84f8-0395ed72bc19?mode=deep",
+    "questions_generated": false
+  }
+]
