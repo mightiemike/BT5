@@ -163,7 +163,7 @@ jobs:
           echo "running=$running" >> "$GITHUB_OUTPUT"
           echo "total=$total" >> "$GITHUB_OUTPUT"
 
-          if [ "$total" -lt 20 ]; then
+          if [ "$total" -lt 15 ]; then
             echo "can_dispatch=true" >> "$GITHUB_OUTPUT"
           else
             echo "can_dispatch=false" >> "$GITHUB_OUTPUT"
