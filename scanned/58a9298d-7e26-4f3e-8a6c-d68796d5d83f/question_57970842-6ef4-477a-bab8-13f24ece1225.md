@@ -1,1 +1,0 @@
-[File: 'crates/apollo_config/src/command.rs -> Scope: Critical.'] [Symbol: load / load_and_process_config] Can an attacker-controlled config file supply a string value for 'chain_id' that is a valid hex encoding of a known chain (e.g., '0x534e5f4d41494e' for SN_MAIN) rather than the canonical string 'SN_MAIN', causing ChainId::from(String) to produce ChainId::Other(\
