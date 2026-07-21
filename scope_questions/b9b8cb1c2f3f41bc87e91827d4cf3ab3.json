@@ -1,0 +1,92 @@
+[
+  {
+    "question": "'File Name: crates/starknet_api/src/rpc_transaction.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_66ffad95-f4fb-4a7c-8e80-7441853a7169?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/serde_utils.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_fb720e49-02c1-47a4-8c3b-90eb22228500?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/staking.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_413c9224-0210-470c-ae2b-a918bf3e79c9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/state.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b89ea4d5-4bfe-4697-85b4-36e89ff1f9d1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/transaction.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_4990196f-2aa8-4dc4-9c52-949cacb02cbd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/transaction/fields.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_956ecd96-7ec3-4b57-9d5e-e36729f17f61?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/transaction_hash.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_081776f8-c511-4339-a7da-c332ecafd8a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/type_utils.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e628b18a-f06f-4a54-bc8a-2097549822ee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/versioned_constants_logic.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1632c8f0-b466-4e07-bcb6-ffedb813a4f6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_committer/src/db/serde_db_utils.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_454b7d16-2aef-46e9-81c0-af7a282dfcf0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_committer/src/hash_function/hash.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_9fe98b1e-620c-45b1-9fc0-7aa115903e8c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_committer/src/patricia_merkle_tree/leaf/leaf_serde.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_aa103919-87da-4d65-a1c2-c8d1ada0e06f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/io/os_input.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_d662c3e0-99a3-4add-90b0-f75571aa4d97?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/io/os_output.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_4ff81d62-d7f7-4f31-bd5d-157b3dec4d7d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/io/os_output_types.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_3b4e386e-fbb5-463c-93c0-500424c190c8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/hints/enum_definition.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_bbcab05c-0c9a-45dd-b5cf-c9e3e858635f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/hints/enum_generation.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e114f91c-c008-477f-a202-c9e225bbe9de?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_os/src/hints/types.rs -> Scope: Critical. Unprivileged-user-triggered storage migration, deprecated serializer, schema version, DB key, or historical object conversion changes the meaning of already-stored protocol data.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f712a5b8-a8a5-4f51-953b-8be699b7d4bd?mode=deep",
+    "questions_generated": false
+  }
+]
