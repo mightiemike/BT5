@@ -1,0 +1,3 @@
+Let me analyze the external bug and search for analogs in the Sequencer codebase. The core issue is a **boundary condition inconsistency**: at exactly `block.number == startBlock`, a snapshot function uses `block.number - 1`, but at `block.number > startBlock` it uses `startBlock` — creating different values for the same logical reference point.
+
+I need to find similar boundary inconsistencies in hash computation, version gating, transaction conversion, or signature domains.
