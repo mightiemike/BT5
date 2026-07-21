@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/codec.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1c5a8b21-d183-440a-96ca-5995a7327a3e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/consensus.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_8fe73e1c-54e9-4c15-9c86-4c7deca2fc55?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/class.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_08f5def5-c51d-4299-9bca-838494f13970?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/common.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c3bc66fc-a2d5-4da4-bed0-52eeb970d69e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/consensus.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_824ecac6-3e5a-43ee-94dd-6a8825121295?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/event.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_cd4ba99c-8f4c-4456-b3d4-1fcaa9913610?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/header.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_582ea7bf-0f7c-42d5-9fe0-ca09a49bcb42?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/receipt.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_4b8e115a-e8bb-438b-b9a6-7e9f3323d24d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/rpc_transaction.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0b0af378-092d-4577-a85e-001b343a6515?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/state_diff.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_3f48ed7c-5fd1-4b29-8a44-79b297517ecd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/transaction.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e442c7e4-80eb-4905-aebe-7171b8f740da?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/mempool.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_6cc9ae8a-5e11-47b6-875c-08585d5a53a7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c6557710-b7ad-44e2-9f93-0fbc0ebf6f24?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf/protoc_output.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a204ce54-6c37-4ef3-80f8-f6291ba217bc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/sync.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_24c04b5a-7c04-42d4-84d9-1925eb6771e9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/transaction.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0d93498b-23aa-4f16-85aa-8267f5f5e97f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/version_config.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a0c1978d-3dfc-496a-8cf1-5f93888d1283?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/block.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e9c1560b-b8ae-4957-aad5-3613f631d1bd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/broadcasted_transaction.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_db21a61f-a814-4911-be76-815b5b3b0600?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/deprecated_contract_class.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_4b45f0a4-e2aa-4773-88bd-2b322135ed9a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/state.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_86847c22-7773-41c9-af85-8251129cd5e2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/transaction.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b2e12abb-653e-497d-9175-b9e5172116e5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc_execution/src/objects.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0ae14dad-ecfa-4bce-bc84-901fb40cc194?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_sierra_compilation_config/src/config.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_80389e59-82d4-4c60-88ac-344b216450bb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/blake_utils.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_ed0dc8d0-1af3-4910-be61-f94dee097085?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/signature_manager.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a7518431-b422-4d1d-a95e-24b53909f1ce?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/block.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b3d762fa-85c4-40d7-bca4-c6b6295497c3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/pending_data.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b8519750-8527-4c37-8e07-958e48309b34?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/state.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_cdc8e20e-dc71-413d-9b30-78022577125f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/transaction.rs -> Scope: High. Unprivileged-user-triggered config loading/validation or component execution config path allows a production node to run with mutually inconsistent protocol, chain, compiler, storage, or component settings visible to public flows.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f514e6bf-b749-40c2-8b44-e1f68f465a9c?mode=deep",
+    "questions_generated": false
+  }
+]
