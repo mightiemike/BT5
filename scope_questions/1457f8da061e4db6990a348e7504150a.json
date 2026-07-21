@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/codec.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_677de967-cc90-4947-9eed-a5070040678f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/consensus.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_fd01606c-a120-4398-aec1-98f056e489b0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/class.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_7bd3cdf9-5b2c-401d-b413-a6efed17b611?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/common.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f4b7717f-7dd9-41ec-8024-7730f8ec0198?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/consensus.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0c9ec4da-9ad8-4c66-8fd8-f46cfb6d70cd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/event.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_53c533eb-1677-4a63-a486-f2978aa2c866?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/header.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1eb4f678-7f96-4a8b-9bad-0a7017fb2255?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/receipt.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_9f65c3a7-3b3d-4ad8-83d9-36dc4240f4db?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/rpc_transaction.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_bc913f69-2e18-48ab-97b2-f59758d85c53?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/state_diff.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_61623789-9086-4d7f-a943-3e1245f68d20?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/transaction.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c20b31dd-8697-463b-b3aa-76d1f0cfcfe5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/mempool.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_284a8937-7418-4b30-b4ab-341b9300bd3f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_67cb9011-d1b9-4fdb-b7a9-5b6715b2d9ec?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf/protoc_output.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_2990714c-73e6-4a77-b711-201eb51304e2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/sync.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_fc1ca8b6-3e1a-4a81-abc7-0efaccc593c1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/transaction.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_3357d4be-30f9-4f1c-a773-59ea4b50504c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/version_config.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_33bd5243-8ef3-4ca3-8a46-645343343561?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/block.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_ef1e32f3-e0d6-4998-ad49-0d14a04f19a8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/broadcasted_transaction.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b57e4cb3-2af7-49f6-ab40-ceebfddb8dbe?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/deprecated_contract_class.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_7de57bb3-c66d-4902-b240-fa63496a8b33?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/state.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0a052471-090d-4e8b-95c3-2b167e752e14?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/transaction.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a67aa6bc-a425-4c5a-acc3-16410057b295?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc_execution/src/objects.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_97a85b11-18f4-4666-af4d-bbf01e54985a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_sierra_compilation_config/src/config.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_52cc0ac9-a018-4f5d-8ce8-ba4763cf8008?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/blake_utils.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_5d717199-0dbd-4ebf-8dd1-fbb7053d4322?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/signature_manager.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_72811080-a097-4043-8b39-a5a9fdcb61a4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/block.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_4c537826-142a-4c70-8550-147f678b068a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/pending_data.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e09a0657-c52a-486b-99e9-539c75018438?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/state.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_9f0c5e16-f3fa-4b87-9c1d-9328770f8b9a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/transaction.rs -> Scope: High. Unprivileged-user-triggered RPC/client conversion, pending-data object, deprecated class ABI, or transaction converter path silently changes field meaning across public API and internal executable types.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_74ab1bd5-b0c1-4127-800d-de803ec9d75e?mode=deep",
+    "questions_generated": false
+  }
+]
