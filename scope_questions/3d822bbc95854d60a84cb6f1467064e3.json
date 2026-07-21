@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/codec.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1065e3a0-ef7c-4b1d-bc07-d7d6b804c7a5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/consensus.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_6ed2bb5b-9a34-4b32-9a5a-daa89e494396?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/class.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1b279924-27a2-4eff-9e38-82e662d81647?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/common.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e8a0eb41-c6af-4550-a826-a16c80ead3cb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/consensus.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0be70214-e09a-4f52-a98c-1050f2395384?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/event.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_228cab80-8a88-4d5a-a8a3-3b85bed9bf6b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/header.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1904ba45-57af-4288-b5cd-ca9beccfa40e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/receipt.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e68f93fe-e93f-4931-8cf7-1b1bb4875d0c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/rpc_transaction.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_ba911d02-66fa-460a-8cb9-0cb6d9b3ff69?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/state_diff.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_5ebab536-2164-4968-860a-df4a915efe6b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/converters/transaction.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f92be538-0709-4f0b-ade2-619e9b3b3c64?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/mempool.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1f5ca06e-882c-444f-a570-6c5e4c9aac64?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_92a16769-4813-4434-a00b-18af67e14b50?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/protobuf/protoc_output.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0245f181-0002-467e-9152-1698cfebf791?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/sync.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_aa9d4b99-5716-4d86-818f-3f91ac9ab4d2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_protobuf/src/transaction.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_53748e1e-3daa-4e4c-909a-901c4b1b7823?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/version_config.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_583f4c2e-5e1e-4003-bdef-d064ecf57ea7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/block.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_d5e52edf-c6f7-4bf5-acc8-7b607ac09000?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/broadcasted_transaction.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_7fdbb62a-492c-4948-90de-8525edf891a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/deprecated_contract_class.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e996c194-a502-4e9a-996d-d8ef32392d5e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/state.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_9ea56987-3c98-4e0a-bdae-fc61ba240d7f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc/src/v0_8/transaction.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_ae5acf11-97e8-4523-9264-43cb01227eb3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_rpc_execution/src/objects.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e0b4de73-682a-4025-9f98-6959a5d03c16?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_sierra_compilation_config/src/config.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_9a092dc6-485f-40c9-983f-01d8028f7745?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/blake_utils.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_5150a38b-b955-4381-8278-4b8a12591ea3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_signature_manager/src/signature_manager.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_cc966d3f-8730-497b-b116-ad4c0f182abf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/block.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_b7ea3073-434a-43a0-be90-5e711541a27a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/pending_data.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_364d54c7-dd3d-4f7a-b3ed-f22b26bf4290?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/state.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_652f6af6-f28b-4198-8224-5dbee56eb907?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/reader/objects/transaction.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_2e955c55-50fd-4f63-8b63-edc2c5d88719?mode=deep",
+    "questions_generated": false
+  }
+]
