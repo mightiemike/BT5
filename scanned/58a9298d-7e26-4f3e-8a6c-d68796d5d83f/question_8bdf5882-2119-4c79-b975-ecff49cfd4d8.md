@@ -1,0 +1,1 @@
+[File: 'crates/apollo_config/src/command.rs -> Scope: Critical.'] [Symbol: update_config_map_by_pointers / none_entries prefix matching] Can an attacker-controlled config file set a param_path like 'foo.#is_none' to true where 'foo' is a prefix of another param_path 'foobar.some_field' (due to the starts_with prefix check in update_config_map_by_pointers using format!(\

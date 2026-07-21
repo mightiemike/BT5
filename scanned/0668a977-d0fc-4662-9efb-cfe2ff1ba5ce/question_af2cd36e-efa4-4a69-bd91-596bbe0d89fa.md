@@ -1,0 +1,1 @@
+[File: 'crates/apollo_config/src/behavior_mode.rs -> Scope: Critical.'] [Symbol: ContextStaticConfig.behavior_mode / SequencerConsensusContext / ProposalInit.timestamp / block_timestamp_window_seconds bypass] Can an attacker-controlled proposal with a future timestamp (e.g., current_time + 1 year) under a precondition where behavior_mode = \

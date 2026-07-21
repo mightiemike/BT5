@@ -1,0 +1,1 @@
+[File: 'crates/apollo_protobuf/src/converters/class.rs -> Scope: Critical.'] [Symbol: TryFrom<protobuf::Cairo0Class> for deprecated_contract_class::ContractClass, serde_json::from_str for abi field with non-Python-JSON whitespace] Can attacker-controlled protobuf::Cairo0Class with abi field containing valid JSON but non-Python-JSON whitespace (e.g., standard compact JSON '{\

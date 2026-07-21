@@ -1,0 +1,1 @@
+[File: 'crates/apollo_config/src/validators.rs -> Scope: Critical'] [Symbol: validate_ascii / ChainId::from / get_l1_handler_transaction_hash] Can an attacker-controlled JSON config value 'chain_id = \

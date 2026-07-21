@@ -1,0 +1,1 @@
+[File: 'crates/apollo_config/src/behavior_mode.rs -> Scope: Critical.'] [Symbol: FifoTransactionQueue::rewind_txs / RewindData::Fifo vs RewindData::FeePriority / BehaviorMode] Can an attacker-controlled commit_block message that carries RewindData::FeePriority rewind data under a precondition where behavior_mode = \

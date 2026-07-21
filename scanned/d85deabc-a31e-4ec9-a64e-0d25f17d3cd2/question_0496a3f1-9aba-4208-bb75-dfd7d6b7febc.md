@@ -1,0 +1,1 @@
+[File: 'crates/starknet_api/src/staking.rs -> Scope: Critical.'] [Symbol: StakingWeight / ConfiguredStaker serde] Can an attacker-controlled JSON config file where StakingWeight is serialized as a JSON string (e.g., '\

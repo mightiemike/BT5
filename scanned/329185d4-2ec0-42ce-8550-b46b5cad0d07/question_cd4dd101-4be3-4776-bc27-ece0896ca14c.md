@@ -1,0 +1,1 @@
+[File: 'crates/apollo_network/src/mixed_behaviour.rs -> Scope: Critical. Unprivileged-user-triggered protobuf, JSON, serde, bincode, or storage serialization ambiguity makes two production components interpret the same block, transaction, class, receipt, event, state diff, or consensus message differently.'] [Symbol: MixedBehaviour::new / kademlia protocol name format!(\

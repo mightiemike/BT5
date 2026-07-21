@@ -1,0 +1,1 @@
+[File: 'crates/starknet_api/src/core.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'] [Symbol: ChainId::as_hex / TryFrom<&ChainId> for Felt / chain_id_from_hex_str] Can an attacker-controlled hex string like \

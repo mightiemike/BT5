@@ -1,0 +1,1 @@
+[File: 'crates/apollo_config/src/command.rs -> Scope: Critical.'] [Symbol: to_env_var_name / build_args_parser] Can an attacker-controlled environment variable exploit the collision in to_env_var_name (which maps both 'a.b' and 'a_b' to 'A__B' via .to_uppercase().replace('.', \

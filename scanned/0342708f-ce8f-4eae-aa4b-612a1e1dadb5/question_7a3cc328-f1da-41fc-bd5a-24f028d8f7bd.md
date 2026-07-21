@@ -1,0 +1,1 @@
+[File: 'crates/apollo_starknet_client/src/writer/objects/response.rs -> Scope: Critical.'] [Symbol: hash_inner / COMPILED_CLASS_V1] Can attacker-controlled CASM class data where the same COMPILED_CLASS_V1 domain constant (`Felt::from_bytes_be_slice(b\

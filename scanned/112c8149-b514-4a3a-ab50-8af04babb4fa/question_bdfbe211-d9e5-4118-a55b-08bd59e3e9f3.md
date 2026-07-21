@@ -1,0 +1,1 @@
+[File: 'crates/apollo_sierra_compilation_config/src/config.rs -> Scope: High'] [Symbol: SierraCompilationConfig::audited_libfuncs_only / ser_param dump] Can an attacker-controlled JSON config payload that sets sierra_compiler_config.audited_libfuncs_only to the empty string \

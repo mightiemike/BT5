@@ -1,0 +1,1 @@
+[File: 'crates/apollo_l1_provider_config/src/config.rs -> Scope: Critical.'] [Symbol: Event enum / serde Serialize+Deserialize / no deny_unknown_fields on variants] Can an attacker-controlled serialized Event payload (sent from the L1EventsScraper to the L1EventsProvider via add_events) with an unknown field added to the L1HandlerTransaction variant (e.g., an extra \

@@ -1,0 +1,1 @@
+[File: 'crates/apollo_config/src/behavior_mode.rs -> Scope: Critical.'] [Symbol: FifoTransactionQueue / CurrentProposalState.emit_empty_block / resolve_timestamp / get_txs interaction] Can an attacker-controlled sequence of resolve_batch_timestamp and get_txs calls that triggers emit_empty_block = true under a precondition where behavior_mode = \

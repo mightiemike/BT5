@@ -1,0 +1,1 @@
+[File: 'crates/apollo_gateway_config/src/config.rs -> Scope: Critical.'] [Symbol: NativeClassesWhitelist Serialize/Deserialize / GatewayDynamicConfig] Can an attacker-controlled config update that sets native_classes_whitelist to a stringified JSON array with class hashes in uppercase hex (e.g. '[\

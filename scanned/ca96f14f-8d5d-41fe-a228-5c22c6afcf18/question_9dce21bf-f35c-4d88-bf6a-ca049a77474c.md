@@ -1,0 +1,1 @@
+[File: 'crates/apollo_rpc/src/v0_8/state.rs -> Scope: Critical.'] [Symbol: ThinStateDiff::from_state_diff / deprecated_declared_classes Vec ordering] Can an attacker-controlled block whose StateDiff::deprecated_declared_classes IndexMap has keys in non-ascending order (since IndexMap preserves insertion order and the invariant comment says \

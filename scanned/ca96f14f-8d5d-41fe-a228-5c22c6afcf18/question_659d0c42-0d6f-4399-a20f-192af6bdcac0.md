@@ -1,0 +1,1 @@
+[File: 'crates/apollo_rpc/src/v0_8/state.rs -> Scope: Critical.'] [Symbol: EntryPointByType (RPC) serde rename / from_hash_map] Can an attacker-controlled declare transaction whose contract class JSON uses the key \
