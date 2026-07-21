@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/writer/objects/response.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_6dfa53a3-5c28-461a-a896-d6bd572b0eaa?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_starknet_client/src/writer/objects/transaction.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_870ac6b8-611f-4855-b149-449306ad2255?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_storage/src/db/serialization.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0d28b3e7-3d50-45f3-a1e1-46a58d18523d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_storage/src/deprecated/migrations.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_2687041c-ed4f-46f4-a0db-856e0219cda5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_storage/src/deprecated/serializers.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_39ca8ca4-7ede-433b-a972-f9a5ab12a35a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_storage/src/serialization/mod.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a8cf63dc-faa0-44f3-be3f-d7d54f095d41?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_storage/src/serialization/serializers.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_629d83d0-adbe-40e6-8ed8-268af953bfa4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_storage/src/version.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_56a5c56d-3eef-403a-805a-9344f86d6546?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/apollo_transaction_converter/src/transaction_converter.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_6b390c3b-7ee5-4497-b57c-ff40cfde55b0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/blockifier/src/blockifier_versioned_constants.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_a63e42d1-8ca5-4853-94f1-3f7da977c6a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/blockifier/src/context.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_0723446b-9625-47c8-9b7d-dd0244bd50a0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/blockifier/src/state/compiled_class_hash_migration.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_10ab505c-f862-4c2f-9d02-8b016643b904?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/blockifier/src/transaction/objects.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_d3ebf59b-eed7-4858-8aa0-87ce6cba9273?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/native_blockifier/src/py_objects.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_09951a0a-644a-496e-9dda-70ea3406bef2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/papyrus_common/src/deprecated_class_abi.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_094fe028-44c0-4ac2-88d8-d54b770d03b3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/papyrus_common/src/python_json.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_83652c69-8db5-483d-afa9-68449e07bf71?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/shared_execution_objects/src/central_objects.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_55b243d8-9218-44e0-9f31-e16594100548?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/abi.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_85560daa-fd15-474e-9b97-7262b13d3487?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/block.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_e226020f-d627-4732-9d9c-65aedf2615c5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/block_hash.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1dff91e8-761e-4000-87e2-db470c1c7587?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/contract_class.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_971d2b97-8d0e-42aa-8159-a3f648b6b07c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/contract_class/compiled_class_hash.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_f7cbcdaa-b04b-4461-9b57-c028e80a2fa4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/contract_class/structs.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_695d773e-641d-4415-8279-33561a33ea93?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/core.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_c39eaebf-ce8c-4f89-9291-31951f4d7e8d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/crypto.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_1742aac9-662b-4185-9d39-7d711888a07c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/data_availability.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_00dfb187-0765-413d-abb7-c469b8937c5c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/deprecated_contract_class.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_48292998-20c3-4164-b540-df46a630c04f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/executable_transaction.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_bafe0239-3f6d-4056-92d4-6b51ad24f28a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/execution_resources.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_03d7fce1-b4b7-41b8-aeb7-0f062ae12fa4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: crates/starknet_api/src/hash.rs -> Scope: High. Unprivileged-user-triggered network handshake, peer identity, SQMR/gossipsub message, or capability negotiation bug accepts or advertises a protocol mode inconsistent with actual validation behavior.'",
+    "url": "https://deepwiki.com/search/-generate-compatibilitycanonic_74dc8b3b-f225-424b-8449-fc182be1b0a0?mode=deep",
+    "questions_generated": false
+  }
+]
