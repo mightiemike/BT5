@@ -1,1 +1,0 @@
-[File: 'crates/apollo_config/src/validators.rs -> Scope: Critical'] [Symbol: validate_ascii / ChainId / OsConfigHashVersion / compute_os_config_hash] Can an attacker-controlled JSON config value 'starknet_version = \
