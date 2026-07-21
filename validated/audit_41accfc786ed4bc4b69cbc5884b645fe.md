@@ -1,0 +1,1 @@
+Looking at the codebase, I need to find the `convert_rpc_tx_to_internal_and_executable_txs` function to understand the full gateway flow before writing the finding.

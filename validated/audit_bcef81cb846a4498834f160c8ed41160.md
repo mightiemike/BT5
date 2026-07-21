@@ -1,0 +1,3 @@
+Looking at the codebase, I need to find a sequencer-native analog to the "sequential initialization steps where an intermediate state can be exploited" pattern. The analog here is in **serialization/hash domain boundaries**: a lossy protobuf deserialization silently changes the `ValidResourceBounds` type, which alters the `tip_resource_bounds_hash` sub-component and therefore the full transaction hash.
+
+Let me trace the exact path:
