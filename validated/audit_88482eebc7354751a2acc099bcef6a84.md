@@ -1,0 +1,1 @@
+Looking at the `SwapAllowlistExtension`, the pool's `swap` function, and the `MetricOmmSimpleRouter`, I can trace a concrete bypass path.
