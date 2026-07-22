@@ -1,0 +1,1 @@
+I need to trace the full extension guard path, focusing on the allowlist extensions and how they interact with the router pattern.
