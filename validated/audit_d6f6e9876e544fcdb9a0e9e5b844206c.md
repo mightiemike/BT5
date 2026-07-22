@@ -1,0 +1,1 @@
+Looking at the extension system, I need to trace how `sender` vs `owner` are passed through the hook plumbing and whether the allowlist guards check the correct actor.
