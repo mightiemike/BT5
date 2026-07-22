@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/callbacks/IMetricOmmModifyLiquidityCallback.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_04ad6559-652e-41d0-bc8a-4e585f4fede5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/callbacks/IMetricOmmSwapCallback.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_54a10896-fb7a-449e-b9de-a04d1956afc3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/extensions/IMetricOmmExtensions.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a6b0a31d-c4b5-4d5b-bfe8-61d215e1f431?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IExtsload.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_27e2aa34-4f8a-444d-afc3-29fb1334e739?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactoryOwner.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_c71abea1-63cf-4bd2-a8cf-bbda8b29a724?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactoryPoolAdmin.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_3ccdef75-373d-4b63-b39a-f23663fc88bd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactory.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a60e1882-0917-446b-8c82-86412de98090?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolActions.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_5404b35b-8bfd-46a6-99ab-0ad0c9875d6c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolCollectFees.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_4fc6f6a1-10ad-4cff-b87d-0c107bc34c9c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolFactoryActions.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_20baf4a0-6a18-46f3-99fb-d0b4bdcb7b50?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPool.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_87f8c7c9-2f70-41d4-a835-d76458acd3a5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IPriceProvider/IPriceProvider.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f174a724-fc86-4e20-bafe-5f57def8ea52?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/BinDataLibrary.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a9af8791-4bef-4bed-a4aa-3724bf7a4190?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/CallExtension.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_bda593f3-241f-43e6-b312-acd07a357b98?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/LiquidityLib.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_327f4c44-10d6-4601-ae5c-e47aeef31181?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/PoolActions.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_664d4422-b0a6-4434-90ea-6b2cd69da704?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/PoolStateLibrary.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_2247ae9a-d3a9-444f-8045-622e159f9af3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/SignedMath.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_c3a0bc74-7924-4aa3-beb1-8740e0e5ee50?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/Slot0Library.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_395b628a-1e18-4034-96be-ad4e6eab7f6b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/SwapMath.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_8c687215-0ab1-4a97-9bcd-3525b7d7226d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/ValidateExtensionsConfig.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_b718ce95-4d8c-462c-8a4f-fe565793896e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPoolDeployer.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_ebe164c8-0fa3-4d86-bce1-0b273e709dee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPoolFactory.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_b83a0560-4a25-43fe-8d0c-b2986728a7ee?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPool.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_841bbc8b-845d-4332-8e94-7177a1877ce6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/FactoryOperation.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_e350a02e-17dd-4acd-97ac-8929c8f04ee0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/FactoryStorage.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_5be148c3-a2b5-40ef-b53b-91f6ea6230fe?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolExtensionsConfig.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_b7d9c9e4-385e-4b48-8c9f-67573e170484?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolOperation.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_520ef45c-72a7-4b16-9572-c697599ffaf0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolStorage.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_2c7864f4-f91d-4104-b445-3acc14b57b41?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/Slot0.sol -> Scope: Critical. Extension hook misbinding or ordering lets a restricted swap/liquidity action execute and causes direct loss in a pool relying on that guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_553e06fe-6ef2-40e0-89ff-28d568eb1ec9?mode=deep",
+    "questions_generated": false
+  }
+]
