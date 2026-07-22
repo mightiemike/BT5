@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/callbacks/IMetricOmmModifyLiquidityCallback.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_dda00b60-24ad-41c1-9d31-25f5b20ae315?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/callbacks/IMetricOmmSwapCallback.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a6fa898c-22c8-4675-b663-c691101fd973?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/extensions/IMetricOmmExtensions.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_2291cf23-b916-48b8-9838-20aaea80002a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IExtsload.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_675b9c15-fbe4-4939-91f6-f0e0895403e1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactoryOwner.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_0a66e20f-d756-457d-b681-57a5c8c668df?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactoryPoolAdmin.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_56113f07-8ecf-4c13-9e44-6cdc38229f6d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactory.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_b4c12bbd-ef85-43a2-8177-63f4c95fa4ec?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolActions.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_fb812379-bc76-4188-a784-b187e1d4a244?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolCollectFees.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_e10f7e6c-55fb-46f2-97e0-d0d76f8248ae?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolFactoryActions.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_00ceb107-12e2-41cc-99b7-7c2af57ef206?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPool.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_0a6eeea1-a08a-4ab4-9815-c2ce41814855?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IPriceProvider/IPriceProvider.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_23a91c62-8606-4fa8-a65b-07ed79448d12?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/BinDataLibrary.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_b1498a65-8367-4fb2-bfc0-8ab8893b1e99?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/CallExtension.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d46e6aa4-fccc-4b58-9bad-1551b9b1f124?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/LiquidityLib.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_4bf4fdc1-d23f-4540-bd95-f0654ce2bc36?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/PoolActions.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_61439c81-73ff-445a-b5cf-d4efebdfe0c3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/PoolStateLibrary.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d9d1e358-bb77-44cd-8215-a5c106e9670c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/SignedMath.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_40238702-e19a-43c9-9937-75b2e49ff1dd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/Slot0Library.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_cff7ccc0-33ed-49b8-baa5-955af004272b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/SwapMath.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f89c4918-c4d3-4f1f-8bad-d31d219303b7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/ValidateExtensionsConfig.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_cfe1370f-de22-4bc7-9ed9-7efac514dd22?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPoolDeployer.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_09412b5d-8592-4fcc-9acc-341c7479d948?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPoolFactory.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_5ed56a7a-e4de-450b-8576-ce42a59879ba?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPool.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_31797887-e02b-4935-80eb-8c4bef16994c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/FactoryOperation.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f1e35864-f504-45cf-8f9e-69513c6f5102?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/FactoryStorage.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_66ec6e8f-a365-4377-9c39-1e46b0a1685b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolExtensionsConfig.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_ddac0799-4591-4605-bd52-1a9770fbae33?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolOperation.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_175a4fed-6b8c-45cc-8f11-19a6d3023dd4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolStorage.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_8e8f5984-71ac-48a8-80b7-b0977479bbc5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/Slot0.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_3072ddb0-18d1-44f4-8ecd-e793e95fc92a?mode=deep",
+    "questions_generated": false
+  }
+]
