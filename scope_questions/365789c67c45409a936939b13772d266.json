@@ -1,0 +1,97 @@
+[
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/AnchoredProviderFactory.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_0c6d9864-8087-4654-85dc-3ab33dd00710?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/interfaces/IAnchoredProviderFactory.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a523829b-e5a2-45d0-90ef-6e60e45235be?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/interfaces/IAnchorSource.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_619684ab-8f03-471c-b044-61a3f286cc4b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/interfaces/ICompressedOracleV1.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_aa99f095-ef04-4895-a4c9-524fe1341fd3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/compressed/CompressedOracle.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_1ef779d8-97f8-4d6e-832b-441dba482010?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/compressed/OracleBase.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_dfd44bcd-7528-46b0-990f-156abc2740a8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/providers/ChainlinkOracle.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f78f9b92-0e31-407d-8b29-682345c240e0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/providers/docs/en/abuse-protection-integration.md -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_9688094b-ae8c-4a1c-be61-bd7aabc819d1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/providers/docs/ru/abuse-protection-integration.md -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_dd89cb4a-a254-469a-b9cd-451d379a6bdc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/providers/OracleBase.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a9fd031c-bc12-4d2e-b780-2ca243055cdc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/providers/PythOracle.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_35ec79fb-69ba-4007-be80-823a4e08d927?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/utils/Codebook256.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_783cebc3-b5a8-4bab-8f20-fe898aefc955?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/utils/LazerConsumer.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_ebf2054c-dcbf-474e-868c-c5642e97583c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/utils/TimeMs.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_1b449531-e116-4aff-8f43-6a6f05e67c75?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/oracles/utils/U64x32.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_82921936-e01b-4fd0-af2a-6f470eea47ca?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/PriceProviderFactory.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a9575385-e9dc-4c0e-8086-d4934199d9b4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/PriceProvider.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_fad0de2e-0012-4645-9b14-90574f8dc3a1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/ProtectedPriceProviderL2.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_84929516-0630-42db-a18c-48e5987b9e6e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/ProtectedPriceProvider.sol -> Scope: High. Deposit or swap allowlist can be bypassed by router/multicall/callback/user parameter choices, breaking pool curation with fund impact.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_ef9fe22c-0b89-446f-a79f-be93d8a6a622?mode=deep",
+    "questions_generated": false
+  }
+]
