@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/callbacks/IMetricOmmModifyLiquidityCallback.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_5f8091b9-d9ac-487c-b378-ce8d8d2947ec?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/callbacks/IMetricOmmSwapCallback.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_fc71f55a-eaed-45cf-afb7-fdffbcee1e26?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/extensions/IMetricOmmExtensions.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_30a60e41-cf4b-4f08-ac78-e235e3f5a279?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IExtsload.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_2ea55066-4686-4c77-b6de-344b59992a02?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactoryOwner.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_05ee5673-84e3-4f63-87f7-8a96bf6737e0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactoryPoolAdmin.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a2878d3a-1ec2-4c1e-9fba-5d8f0c626855?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPoolFactory/IMetricOmmPoolFactory.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_6f563662-ac00-40fd-861d-a25021bc286b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolActions.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_8df6dd1e-bc42-4324-b0f7-966c6ca689db?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolCollectFees.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_9381018e-859b-4f51-87eb-5eaf582c1d79?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPoolFactoryActions.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_da05fd58-1861-44c7-920f-47e57a4569d7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IMetricOmmPool/IMetricOmmPool.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d8b7c0fb-46ea-4e16-bb6a-d875e7918eae?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/interfaces/IPriceProvider/IPriceProvider.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_56300aed-0aa9-4e9b-869a-ecf9cdc354c3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/BinDataLibrary.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d1b6cc08-9b30-4838-8de9-41ee3f56080f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/CallExtension.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f61eecfc-6250-4ef0-8580-5825515cf5e3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/LiquidityLib.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d85ba6b9-1399-4fd6-afa4-0cd954c12a81?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/PoolActions.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_589c4840-d026-4c48-b0ce-3e10cf63d31b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/PoolStateLibrary.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a111cfc7-a698-4135-9354-79d96cee0de2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/SignedMath.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_1bec2cb4-fda7-4e29-b823-6854b1e5e0de?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/Slot0Library.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_44e884dd-e7c0-4df3-81db-a5c94f0593f4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/SwapMath.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_c3554000-dea3-4d42-beac-d4fdc57ec664?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/libraries/ValidateExtensionsConfig.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_5cb4d028-1008-40e2-b473-7e7cb7c81a06?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPoolDeployer.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d265e2b5-6ba0-47e1-a5c6-e32d94b85969?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPoolFactory.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_ae2190cc-8e1f-43c9-978d-c9d46df0ca56?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/MetricOmmPool.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_7dfeddee-7a0d-4b6f-9e3e-c1dd3881dfb3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/FactoryOperation.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_e0f497ec-7ff3-445b-b225-50a705506e86?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/FactoryStorage.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_83e4a02f-6cc2-4eea-949f-8f959e7ee49b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolExtensionsConfig.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d10db6c8-44f5-40f8-84f2-e89ba0ecd49b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolOperation.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_3d582b8a-6224-498c-af20-f46bcf8d8e04?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/PoolStorage.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_dea1f55a-b2e1-40d4-87f5-a6b3c92122dc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-core/contracts/types/Slot0.sol -> Scope: High. Extension config, admin boundary, or pool identity mixup lets one pool's settings affect another pool or disables a required guard.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_0ec73284-a6f7-42ed-9a8c-a058fe4f3c39?mode=deep",
+    "questions_generated": false
+  }
+]
