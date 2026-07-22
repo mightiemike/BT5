@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: metric-core/contracts/utils/MetricReentrancyGuardTransient.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_202ea32f-7cbe-4aef-9940-4f064069c838?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/base/MetricOmmSwapRouterBase.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_73b3e769-ae5b-49db-af1d-e79b6848f031?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/base/PeripheryPayments.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_7f5c4e3e-7dfd-447d-b48b-d7776af3ae14?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/base/SelfPermit.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_df3b7cad-0697-4fa3-a6f6-02ec07951035?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/common/MetricOmmPoolStateView.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_50ac18a9-fb02-4501-90f5-9bdc2a788615?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/extensions/base/BaseMetricExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f6437c9a-f5dd-4cd2-a289-b1e8ca5e5be7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/extensions/DepositAllowlistExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_86bf02ab-8bc4-4c81-a9dd-7073e19d5dbf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/extensions/OracleValueStopLossExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_82db7a27-8d51-448a-94a3-3987199b5095?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/extensions/PriceVelocityGuardExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_c0ea2083-4040-4f5e-b875-3d410302c359?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/extensions/SwapAllowlistExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f0d8fe87-ae7e-431e-8d01-11bbb0844911?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/extensions/IDepositAllowlistExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_7e732efe-fe6e-4a42-99f1-fe70271697f5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/extensions/IOracleValueStopLossExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f8631315-d6ca-40cd-8109-4366ad867a18?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/extensions/IPriceVelocityGuardExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_6beae92b-4f5b-4b90-9178-0c6c479787b3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/extensions/ISwapAllowlistExtension.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_c6a14316-952b-4351-a473-083a3b5830c9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/external/IERC20PermitAllowed.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_b19b78be-42ca-4b2a-971a-f906ff3ea141?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/IMetricOmmPoolLiquidityAdder.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_80c0e088-0850-45f7-9b2d-1d35e4f2ec44?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/IMetricOmmSimpleRouter.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_dca51b90-df3c-48ed-90b2-e2c27a6c8e7e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/IMetricOmmSwapQuoter.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d1d1ded9-e51b-4bc1-89fe-85bf17eca825?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/IMulticall.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d7335b0b-71a4-4a1e-90b0-b21536cc5aeb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/IPeripheryPayments.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_49cfbbd1-8aba-4f9b-9133-af47e1ecd944?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/ISelfPermit.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_d736a461-ea25-40dd-a55e-9f537f6bafcf?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/interfaces/IWETH9.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_b585b5c1-ca33-4b1f-b53e-cb523570fc74?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/libraries/MetricOmmSwapInputs.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_a387c9c4-fad3-41e9-b6f8-a76526ecec72?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/libraries/MetricOmmSwapPath.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_0f5ecd66-5677-4d9b-8cca-2c4c0ce3845f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/libraries/MetricOmmSwapQuoteDecode.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_f92a285b-13ef-4b92-aec9-0d238110b8ca?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/libraries/MetricOmmSwapResults.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_781f8b55-2b91-4ac6-8299-841ac6c8d486?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/libraries/TransientCallbackPool.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_eec5c806-4a14-4c38-8c11-cc998f75d743?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/MetricOmmPoolLiquidityAdder.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_0b2a0ab3-c65d-4f30-93c4-f1392f8c3ea8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: metric-periphery/contracts/MetricOmmSimpleRouter.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_833fe1db-c249-4e36-9a28-7ec1114f821b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: smart-contracts-poc/contracts/AnchoredPriceProvider.sol -> Scope: Medium. Guard threshold, cooldown, observation, or packed slot interpretation can be manipulated by unprivileged timing/trade inputs to exceed Sherlock loss thresholds.'",
+    "url": "https://deepwiki.com/search/-generate-extension-guard-enfo_b236341b-3cf5-4a55-acd9-b1ae099f2f96?mode=deep",
+    "questions_generated": false
+  }
+]
