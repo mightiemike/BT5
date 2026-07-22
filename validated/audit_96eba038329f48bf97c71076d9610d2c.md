@@ -1,0 +1,1 @@
+I need to trace the full extension guard plumbing — specifically the `BaseMetricExtension` constructor, the three access-control modifiers, and how each production extension overrides them.
