@@ -1,0 +1,1 @@
+Looking at the extension guard and hook plumbing, I need to trace the actor identity through the swap allowlist path.
