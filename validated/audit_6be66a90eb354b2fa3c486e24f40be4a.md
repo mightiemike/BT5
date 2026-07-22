@@ -1,0 +1,1 @@
+Let me look at the gateway's `add_tx` function and the full validation flow to understand the order of checks.
