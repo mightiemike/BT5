@@ -1,0 +1,1 @@
+Looking at the extension system, allowlist guards, and hook plumbing across the codebase.
