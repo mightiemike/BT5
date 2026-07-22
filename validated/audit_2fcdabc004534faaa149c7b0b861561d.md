@@ -1,0 +1,1 @@
+Let me look at the storage serializer for `InvokeTransactionV3` and the `get_tip_resource_bounds_hash` function to complete my analysis.
