@@ -1,0 +1,205 @@
+### Title
+SwapAllowlistExtension Checks Router Address Instead of Actual Swapper, Allowing Any User to Bypass the Curated-Pool Allowlist via MetricOmmSimpleRouter — (`metric-periphery/contracts/extensions/SwapAllowlistExtension.sol`)
+
+---
+
+### Summary
+
+`SwapAllowlistExtension.beforeSwap` gates swaps by checking the `sender` argument against `allowedSwapper[pool][sender]`. The pool passes `msg.sender` of `pool.swap()` as `sender`. When `MetricOmmSimpleRouter` intermediates the swap, `msg.sender` inside the pool is the **router address**, not the actual end-user. If the pool admin allowlists the router (the only way to let legitimate users trade through the standard periphery), every non-allowlisted user can bypass the guard by routing through the router.
+
+---
+
+### Finding Description
+
+**Step 1 — Pool passes its own `msg.sender` as `sender` to the extension.**
+
+`MetricOmmPool.swap` calls `_beforeSwap(msg.sender, ...)`: [1](#0-0) 
+
+`ExtensionCalling._beforeSwap` encodes that value as the first argument to `IMetricOmmExtensions.beforeSwap`: [2](#0-1) 
+
+**Step 2 — The extension checks that forwarded `sender` against the allowlist.**
+
+```solidity
+function beforeSwap(address sender, ...) external view override returns (bytes4) {
+    if (!allowAllSwappers[msg.sender] && !allowedSwapper[msg.sender][sender]) {
+        revert IMetricOmmPoolActions.NotAllowedToSwap();
+    }
+    ...
+}
+``` [3](#0-2) 
+
+Here `msg.sender` is the pool (the extension is called by the pool), and `sender` is whoever called `pool.swap()`.
+
+**Step 3 — The router calls `pool.swap()` directly, making itself the `sender`.**
+
+`MetricOmmSimpleRouter.exactInputSingle` calls `IMetricOmmPoolActions(params.pool).swap(...)` with no mechanism to forward the original `msg.sender` to the extension: [4](#0-3) 
+
+The pool therefore passes `router_address` as `sender` to the extension. The extension evaluates `allowedSwapper[pool][router_address]`, not `allowedSwapper[pool][actual_user]`.
+
+**Step 4 — The dilemma created for the pool admin.**
+
+| Admin choice | Consequence |
+|---|---|
+| Allowlist the router | Every non-allowlisted user bypasses the guard by calling `exactInputSingle` |
+| Do not allowlist the router | Legitimate allowlisted users cannot use the standard periphery at all |
+
+There is no configuration that simultaneously enforces the allowlist and permits router-mediated swaps.
+
+---
+
+### Impact Explanation
+
+A curated pool deploying `SwapAllowlistExtension` to restrict trading to KYC-approved or otherwise vetted addresses is rendered ineffective. Any address — including those explicitly excluded from the allowlist — can execute swaps on the pool by calling `MetricOmmSimpleRouter.exactInputSingle` or `exactInput`. The pool receives and settles the swap normally; the only protection that was supposed to block the trade silently passes because it sees the router's address, which is allowlisted. This constitutes a direct admin-boundary break: the pool admin's access-control policy is bypassed by an unprivileged path through a public periphery contract.
+
+---
+
+### Likelihood Explanation
+
+The router is the primary user-facing entry point documented and expected by the protocol. Any pool admin who wants their allowlisted users to trade conveniently must allowlist the router, which is the natural and expected operational step. The bypass is therefore reachable on every production curated pool that uses the router.
+
+---
+
+### Recommendation
+
+The extension must verify the **economic actor** (the end-user), not the **transport layer** (the router). Two complementary fixes:
+
+1. **Router forwards the original caller in `extensionData`:** `MetricOmmSimpleRouter` encodes `msg.sender` into the `extensionData` it passes to the pool. `SwapAllowlistExtension.beforeSwap` decodes and checks that address instead of (or in addition to) `sender`.
+
+2. **Extension falls back to `sender` only when it is a known EOA:** If `sender` is a registered periphery contract, the extension should require the real user address to be present in `extensionData` and revert if it is absent or not allowlisted.
+
+```diff
+// SwapAllowlistExtension.beforeSwap
+function beforeSwap(address sender, address, bool, int128, uint128, uint256, uint128, uint128, bytes calldata extensionData)
+    external view override returns (bytes4)
+{
++   address swapper = sender;
++   if (extensionData.length >= 20) {
++       swapper = abi.decode(extensionData, (address));
++   }
+-   if (!allowAllSwappers[msg.sender] && !allowedSwapper[msg.sender][sender]) {
++   if (!allowAllSwappers[msg.sender] && !allowedSwapper[msg.sender][swapper]) {
+        revert IMetricOmmPoolActions.NotAllowedToSwap();
+    }
+    return IMetricOmmExtensions.beforeSwap.selector;
+}
+```
+
+```diff
+// MetricOmmSimpleRouter.exactInputSingle
+(int128 amount0Delta, int128 amount1Delta) = IMetricOmmPoolActions(params.pool)
+    .swap(
+        params.recipient,
+        params.zeroForOne,
+        MetricOmmSwapInputs.asAmountSpecifiedIn(params.amountIn),
+        priceLimitX64,
+        "",
+-       params.extensionData
++       abi.encode(msg.sender, params.extensionData)
+    );
+```
+
+---
+
+### Proof of Concept
+
+```solidity
+// Setup: pool with SwapAllowlistExtension; only `allowedUser` is allowlisted.
+// Pool admin allowlists the router so that allowedUser can trade via the router.
+vm.prank(poolAdmin);
+swapAllowlist.setAllowedToSwap(address(pool), address(router), true);
+
+// allowedUser can swap directly:
+vm.prank(allowedUser);
+pool.swap(allowedUser, true, 1e18, 0, "", "");  // passes
+
+// bannedUser cannot swap directly:
+vm.prank(bannedUser);
+vm.expectRevert(IMetricOmmPoolActions.NotAllowedToSwap.selector);
+pool.swap(bannedUser, true, 1e18, 0, "", "");   // reverts as expected
+
+// bannedUser bypasses the allowlist via the router:
+vm.prank(bannedUser);
+// Extension sees sender = router (allowlisted) → passes
+router.exactInputSingle(
+    IMetricOmmSimpleRouter.ExactInputSingleParams({
+        pool: address(pool),
+        tokenIn: token0,
+        recipient: bannedUser,
+        deadline: block.timestamp,
+        amountIn: 1e18,
+        amountOutMinimum: 0,
+        zeroForOne: true,
+        priceLimitX64: 0,
+        extensionData: ""
+    })
+);
+// bannedUser successfully swapped on a pool they were explicitly excluded from.
+```
+
+### Citations
+
+**File:** metric-core/contracts/MetricOmmPool.sol (L230-240)
+```text
+    _beforeSwap(
+      msg.sender,
+      recipient,
+      zeroForOne,
+      amountSpecified,
+      priceLimitX64,
+      packedSlot0Initial,
+      bidPriceX64,
+      askPriceX64,
+      extensionData
+    );
+```
+
+**File:** metric-core/contracts/ExtensionCalling.sol (L160-177)
+```text
+    _callExtensionsInOrder(
+      BEFORE_SWAP_ORDER,
+      abi.encodeCall(
+        IMetricOmmExtensions.beforeSwap,
+        (
+          sender,
+          recipient,
+          zeroForOne,
+          amountSpecified,
+          priceLimitX64,
+          packedSlot0Initial,
+          bidPriceX64,
+          askPriceX64,
+          extensionData
+        )
+      )
+    );
+  }
+```
+
+**File:** metric-periphery/contracts/extensions/SwapAllowlistExtension.sol (L31-41)
+```text
+  function beforeSwap(address sender, address, bool, int128, uint128, uint256, uint128, uint128, bytes calldata)
+    external
+    view
+    override
+    returns (bytes4)
+  {
+    if (!allowAllSwappers[msg.sender] && !allowedSwapper[msg.sender][sender]) {
+      revert IMetricOmmPoolActions.NotAllowedToSwap();
+    }
+    return IMetricOmmExtensions.beforeSwap.selector;
+  }
+```
+
+**File:** metric-periphery/contracts/MetricOmmSimpleRouter.sol (L71-80)
+```text
+    _setNextCallbackContext(params.pool, CALLBACK_MODE_JUST_PAY, msg.sender, params.tokenIn);
+    (int128 amount0Delta, int128 amount1Delta) = IMetricOmmPoolActions(params.pool)
+      .swap(
+        params.recipient,
+        params.zeroForOne,
+        MetricOmmSwapInputs.asAmountSpecifiedIn(params.amountIn),
+        priceLimitX64,
+        "",
+        params.extensionData
+      );
+```
