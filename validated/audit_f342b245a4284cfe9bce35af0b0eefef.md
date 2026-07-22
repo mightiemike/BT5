@@ -1,0 +1,1 @@
+Let me look at the `gas_prices_to_hash` function and `BlockHashVersion` to check for missing branches in the block hash calculation.
