@@ -1,1 +1,0 @@
-Let me look at the extension calling mechanism and how `sender` is passed to extensions.
