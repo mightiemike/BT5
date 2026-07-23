@@ -1,0 +1,1 @@
+Looking at the `SwapAllowlistExtension` and how `MetricOmmSimpleRouter` interacts with it, I can identify a clear analog to the CurveSpell approval-mismatch bug class: the guard checks one identity value but the actual operation is authorized under a different identity, creating a bypass path.

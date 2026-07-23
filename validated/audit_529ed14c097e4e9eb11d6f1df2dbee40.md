@@ -1,0 +1,1 @@
+Let me look at the pool's `addLiquidity` function and the interface definitions to understand what `sender` and `owner` represent.

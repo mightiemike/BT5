@@ -1,0 +1,1 @@
+Looking at the key invariant from the external report — a guard is bypassed because state is checked against the wrong actor — I need to trace how `sender` flows from user → router → pool → extension in the Metric OMM swap allowlist path.
