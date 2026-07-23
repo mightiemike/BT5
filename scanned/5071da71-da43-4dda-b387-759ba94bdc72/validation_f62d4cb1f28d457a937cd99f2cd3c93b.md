@@ -1,1 +1,0 @@
-Let me look at the core pool swap function and extension calling to understand what `sender` is passed to the swap allowlist hook.
