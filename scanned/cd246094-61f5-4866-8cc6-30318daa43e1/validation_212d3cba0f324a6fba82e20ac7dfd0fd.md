@@ -1,1 +1,0 @@
-Looking at the production extensions in `metric-periphery/contracts/extensions/`, I need to find an analog to the H-04 bug class: **a guard that checks the wrong binding, allowing an unauthorized actor to pass through a configured gate**.
