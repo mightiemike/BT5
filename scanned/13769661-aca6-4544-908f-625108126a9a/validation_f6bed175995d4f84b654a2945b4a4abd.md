@@ -1,1 +1,0 @@
-I need to read the pool's `swap` function to confirm what value is passed as `sender` to the extension, and also read the liquidity adder for completeness.
