@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: chain/client/src/chunk_producer.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_28104cea-8c4b-4408-ad0b-8af93b16d4b7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/client.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_458b541e-6ea4-42b8-88b8-01a7bd02b5fd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/client_actor.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_680c6ed3-58ff-486a-967d-d91e12e65efe?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/lib.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_bb574d97-9cee-45a3-9d30-779d7b523322?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/metrics.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_d5d4704a-c353-4e9d-ab00-d50f62daa386?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/pending_transaction_queue.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_85118090-31d0-45e8-b98b-a47dc6272141?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/prepare_transactions.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_a4aa52ad-b31e-4495-ae95-82d07fef00cc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/client/src/rpc_handler.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_d306032a-216f-4442-94e1-79ca05268909?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/adapter.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_ee6805d2-3427-4179-9ba6-707c10c492a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/epoch_info_aggregator.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_6ed0406e-a25f-4a94-bf35-580b5b25f232?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/epoch_sync.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_be15d8ee-4aa7-4db0-b447-841f93194844?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/genesis.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_a58329f0-cb54-405f-8168-2fbbb4655e6d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/lib.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_6e4aae19-2745-40a3-a71b-977b18e8ebe1?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/metrics.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_a69938e1-36d0-4f21-bac4-c657701aee2c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/reward_calculator.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_db97a7d7-3733-42a6-9f81-19717a6c3652?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_assignment/mod.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_c1a02f35-fc9f-42a3-8bae-b846c2fa3622?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_assignment/sticky_resharding.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_6480cb38-895d-44f2-be3c-dc17b40f320b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/shard_tracker.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_32bf6cc3-5459-4c7d-82ab-0d360cb8c043?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/epoch-manager/src/validator_selection.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_a216e104-b8e1-48a2-ab95-8e217bf84625?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc-primitives/src/errors.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_d51aedb2-08ce-4730-b96c-d62fa416cc1b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc-primitives/src/lib.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_ae065683-cc51-40c1-9133-dd7852f303c7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc-primitives/src/types/call_function.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_92d72e81-1500-4c5b-9695-995a313c80ec?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc-primitives/src/types/mod.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_f1b4fd9d-c3fa-41e0-870c-92980c9878a3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc-primitives/src/types/transactions.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_af30cda8-5797-43ba-b1b4-bec0140c022a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/client/src/lib.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_1eeea96c-be83-4f11-a5c3-7277eaa7d9f4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/call_function.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_2521c808-d4f1-45ad-b7a2-ac97e0427b45?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/api/transactions.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_946eba56-f9d2-4c50-be23-4226755bbd50?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/jsonrpc/src/lib.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_8f505034-04b3-4d71-a8a9-970a5fc8447c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/pool/src/lib.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_15d86c99-7905-4d52-a938-0a0da33afb45?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: chain/pool/src/metrics.rs -> Scope: High. An unprivileged attacker can corrupt trie, flat-storage, resharding, canonical state, or receipt routing through ordinary execution paths so valid balances, contract state, or receipts are lost, duplicated, or applied in the wrong place.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_9845ad77-0cd8-48ce-bbc1-32ccd8c56a83?mode=deep",
+    "questions_generated": false
+  }
+]
