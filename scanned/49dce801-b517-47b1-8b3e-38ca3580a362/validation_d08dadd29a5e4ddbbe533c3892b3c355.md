@@ -1,1 +1,0 @@
-Looking at the `SwapAllowlistExtension`, `MetricOmmSimpleRouter`, and the hook plumbing in `ExtensionCalling`, I can trace a concrete wrong-actor binding analog to the external report.
