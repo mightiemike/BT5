@@ -1,1 +1,0 @@
-Looking at the external bug (same `amount` used in two different decimal contexts — collateral decimals vs. 18-decimal internal accounting), I need to find an analog where a value is passed through two different contexts with mismatigned assumptions in the Metric OMM extension/hook plumbing.
