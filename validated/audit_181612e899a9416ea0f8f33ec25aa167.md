@@ -1,0 +1,1 @@
+Looking at the repository structure, I need to trace the swap allowlist guard through the router path to find the analog to the "missing component in cost calculation" bug.
