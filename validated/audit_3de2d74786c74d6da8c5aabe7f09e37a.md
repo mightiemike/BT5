@@ -1,0 +1,1 @@
+Looking at the repository, I need to trace the deposit allowlist guard through the hook plumbing to find a bypass analog.
