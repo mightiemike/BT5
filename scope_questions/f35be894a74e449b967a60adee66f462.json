@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/children.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_9dd651de-1dcf-4d61-8ac3-877a227bddf5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/encoding.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_fe1daf5a-d0f9-4f93-b0ce-203ae3a8794d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/extension.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_252c43cb-9473-42bb-8bd4-ab77a14b489e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/mod.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_6a1b53c1-1124-42ba-8f9b-54e52b8cdf2d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/value.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_af3aef04-7a14-40a6-8eae-a94119275735?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/freelist.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_21dcb6d1-f2a1-4330-8f91-6de8daa61027?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/iter.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_99218690-a1a8-481a-9820-10442e098f07?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/loading.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_5ead5749-f09f-43cd-b90e-2a0e18c0ee77?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/lookup.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_15595b80-4951-4f59-b50a-7af3f4a99a53?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/memtrie_update.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_6320a372-4e36-4ccb-a771-19a3d87ea43d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/memtries.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_0cef129f-f3aa-498b-82f1-9c49a6b0cfd7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/metrics.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_3f559c6d-d72a-4009-8925-a0e7be342e13?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/mod.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_a089f992-cc93-4236-92cd-76c1b89ed618?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/nibbles_utils.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_d35fe45a-7900-4815-8687-e5a64e5e08cd?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/node/encoding.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_b22a584e-6102-47bf-a0d4-bf68e4a4a82b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/node/mod.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_705c7652-0116-4239-b105-c2f40e230797?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/node/view.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_8202b058-2fa6-425e-b41f-54ba8cf8fe8a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/parallel_loader.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_9290402d-3c72-477f-beb3-85ffdec0b067?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mod.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_ae9c6dba-86c8-4f51-9ff4-247c398763bb?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/nibble_slice.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_4aaadc57-071d-4f72-8cb1-79092f5b4550?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/insert_delete.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_082b2e9b-675a-4a3f-9599-c7b4056c0a47?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/interface.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_fd08d1c0-7808-4c28-a63f-ec9da8f69a56?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/iter.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_1eba0e8c-282b-44b2-9f39-f303af0dd0b8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/mod.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_c120222b-17b7-439f-bb83-f576e2595a87?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/resharding.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_04c99448-b0e4-45a5-aa08-dc824dd29c9e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/squash.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_dc0ab457-5061-416a-946e-b1e4f850eeb2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/outgoing_metadata.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_550266da-4e64-4509-8ba4-d8dd87172e2c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/prefetching_trie_storage.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_e3604aa1-7c17-4257-914c-5b36ebad4a6e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/raw_node.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_5a99bb53-20f3-415e-bc47-2f02777c9926?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/receipts_column_helper.rs -> Scope: Critical. An unprivileged attacker can break contract execution flows or cross-shard receipt semantics so honest nodes execute the wrong action, wrong receiver, wrong gas or deposit accounting, or wrong refund path.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_792812be-9bff-436d-8cd1-ccfbc56e52e4?mode=deep",
+    "questions_generated": false
+  }
+]
