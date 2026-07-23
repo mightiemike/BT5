@@ -1,0 +1,1 @@
+Looking at the codebase, I need to trace the actor binding through the swap hook path to find the analog.
