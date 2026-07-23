@@ -1,1 +1,0 @@
-Looking at the repository structure, I need to trace the swap allowlist guard path through the router to find the analog to the external "guard broken by external state change" bug class.
