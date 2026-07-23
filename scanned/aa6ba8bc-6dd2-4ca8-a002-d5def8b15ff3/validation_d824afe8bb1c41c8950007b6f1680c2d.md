@@ -1,1 +1,0 @@
-I need to read the router's swap implementation and the pool's `addLiquidity` to confirm the actor binding before writing the final output.
