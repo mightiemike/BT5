@@ -1,0 +1,236 @@
+### Title
+SwapAllowlistExtension Checks Router Address as Sender, Enabling Full Allowlist Bypass via MetricOmmSimpleRouter — (`metric-periphery/contracts/extensions/SwapAllowlistExtension.sol`)
+
+---
+
+### Summary
+
+`SwapAllowlistExtension.beforeSwap()` gates swaps by checking the `sender` argument against a per-pool allowlist. The pool passes `msg.sender` of `pool.swap()` as `sender`. When a user routes through `MetricOmmSimpleRouter`, the router is `msg.sender`, so the extension checks the **router's address**, not the actual end-user's address. If the pool admin allowlists the router to enable router-mediated swaps, every unprivileged user bypasses the allowlist entirely.
+
+---
+
+### Finding Description
+
+**Step 1 — Pool passes `msg.sender` as `sender` to the hook.**
+
+`MetricOmmPool.swap()` calls `_beforeSwap` with `msg.sender` as the first argument:
+
+```solidity
+_beforeSwap(
+  msg.sender,   // ← whoever called pool.swap()
+  recipient,
+  ...
+);
+``` [1](#0-0) 
+
+`ExtensionCalling._beforeSwap()` forwards this verbatim as the `sender` argument to every configured extension:
+
+```solidity
+abi.encodeCall(
+  IMetricOmmExtensions.beforeSwap,
+  (sender, recipient, ...)
+)
+``` [2](#0-1) 
+
+**Step 2 — Extension checks `sender` against the allowlist.**
+
+`SwapAllowlistExtension.beforeSwap()` uses `msg.sender` (the pool) as the mapping key and `sender` (the direct caller of `pool.swap()`) as the identity being gated:
+
+```solidity
+if (!allowAllSwappers[msg.sender] && !allowedSwapper[msg.sender][sender]) {
+    revert IMetricOmmPoolActions.NotAllowedToSwap();
+}
+``` [3](#0-2) 
+
+**Step 3 — Router is `msg.sender` of `pool.swap()`, not the end-user.**
+
+`MetricOmmSimpleRouter.exactInputSingle()` calls `pool.swap()` directly. The pool sees `msg.sender = router`:
+
+```solidity
+(int128 amount0Delta, int128 amount1Delta) = IMetricOmmPoolActions(params.pool)
+  .swap(
+    params.recipient,
+    params.zeroForOne,
+    ...
+    params.extensionData
+  );
+``` [4](#0-3) 
+
+The same applies to `exactInput` (all hops), `exactOutputSingle`, and the recursive `exactOutput` callback — in every case the router is the direct caller of `pool.swap()`. [5](#0-4) 
+
+**Step 4 — The identity mismatch creates a forced dilemma for the pool admin.**
+
+The pool admin faces two mutually exclusive outcomes:
+
+| Admin action | Result |
+|---|---|
+| Does **not** allowlist the router | Allowlisted users cannot swap through the router (broken core flow) |
+| **Allowlists the router** | Every user — including non-allowlisted ones — bypasses the gate by routing through the router |
+
+If the admin allowlists the router (the natural action to support the supported periphery path), the check `allowedSwapper[pool][router] == true` passes for every user who routes through it, regardless of whether that user is individually allowlisted.
+
+**Step 5 — No existing guard closes this gap.**
+
+`BaseMetricExtension.onlyPool` only verifies that the caller of the extension is a registered pool — it does not verify the identity of the end-user. [6](#0-5) 
+
+The existing test suite exercises the allowlist only via direct pool calls (using `TestCaller`), never through the router, so the bypass is untested. [7](#0-6) 
+
+---
+
+### Impact Explanation
+
+A pool configured with `SwapAllowlistExtension` to restrict trading to a curated set of addresses (e.g., KYC'd users, whitelisted market makers, or protocol-controlled addresses) is fully bypassed by any unprivileged user who calls `MetricOmmSimpleRouter.exactInputSingle()` or any other router entry point, provided the router address is allowlisted. The attacker executes real swaps against the pool, extracting output tokens at oracle-derived prices, with no restriction. This is a direct loss of the curation guarantee and constitutes a broken core pool functionality / admin-boundary break under the allowed impact gate.
+
+---
+
+### Likelihood Explanation
+
+The router is the primary supported periphery path for end-users. A pool admin who deploys a curated pool and wants users to be able to use the standard router will naturally allowlist the router address. The documentation and configuration guide describe the router as the expected swap entry point, making this a foreseeable and likely admin action. The attacker requires no special privilege — any EOA can call the router.
+
+---
+
+### Recommendation
+
+The extension must gate the **economic actor** (the end-user), not the intermediary (the router). Two approaches:
+
+1. **Preferred — pass original user through `extensionData`**: Require the router to encode the original `msg.sender` into `extensionData` and have the extension decode and verify it. The pool admin allowlists user addresses, not the router.
+
+2. **Alternative — allowlist the router separately from user allowlists**: Introduce a two-tier check: if `sender` is a known router, decode the real user from `extensionData`; otherwise check `sender` directly. This preserves backward compatibility for direct pool calls.
+
+Either way, the extension must never treat the router address as the identity being gated.
+
+---
+
+### Proof of Concept
+
+```
+Setup:
+  - Deploy pool with SwapAllowlistExtension
+  - Pool admin allowlists router: setAllowedToSwap(pool, router, true)
+  - Pool admin does NOT allowlist attacker: allowedSwapper[pool][attacker] == false
+
+Attack:
+  1. attacker calls MetricOmmSimpleRouter.exactInputSingle({
+       pool: pool,
+       recipient: attacker,
+       ...
+     })
+  2. Router calls pool.swap(recipient=attacker, ...) — msg.sender = router
+  3. Pool calls _beforeSwap(sender=router, ...)
+  4. SwapAllowlistExtension checks allowedSwapper[pool][router] == true → passes
+  5. Swap executes; attacker receives output tokens
+
+Result:
+  attacker (not allowlisted) successfully swaps on a curated pool,
+  bypassing the SwapAllowlistExtension gate entirely.
+```
+
+### Citations
+
+**File:** metric-core/contracts/MetricOmmPool.sol (L230-240)
+```text
+    _beforeSwap(
+      msg.sender,
+      recipient,
+      zeroForOne,
+      amountSpecified,
+      priceLimitX64,
+      packedSlot0Initial,
+      bidPriceX64,
+      askPriceX64,
+      extensionData
+    );
+```
+
+**File:** metric-core/contracts/ExtensionCalling.sol (L160-177)
+```text
+    _callExtensionsInOrder(
+      BEFORE_SWAP_ORDER,
+      abi.encodeCall(
+        IMetricOmmExtensions.beforeSwap,
+        (
+          sender,
+          recipient,
+          zeroForOne,
+          amountSpecified,
+          priceLimitX64,
+          packedSlot0Initial,
+          bidPriceX64,
+          askPriceX64,
+          extensionData
+        )
+      )
+    );
+  }
+```
+
+**File:** metric-periphery/contracts/extensions/SwapAllowlistExtension.sol (L37-39)
+```text
+    if (!allowAllSwappers[msg.sender] && !allowedSwapper[msg.sender][sender]) {
+      revert IMetricOmmPoolActions.NotAllowedToSwap();
+    }
+```
+
+**File:** metric-periphery/contracts/MetricOmmSimpleRouter.sol (L72-80)
+```text
+    (int128 amount0Delta, int128 amount1Delta) = IMetricOmmPoolActions(params.pool)
+      .swap(
+        params.recipient,
+        params.zeroForOne,
+        MetricOmmSwapInputs.asAmountSpecifiedIn(params.amountIn),
+        priceLimitX64,
+        "",
+        params.extensionData
+      );
+```
+
+**File:** metric-periphery/contracts/MetricOmmSimpleRouter.sol (L99-118)
+```text
+    for (uint256 i = 0; i <= last; i++) {
+      address pool = params.pools[i];
+      bool zeroForOne = MetricOmmSwapPath.resolveZeroForOneBitmap(params.zeroForOneBitMap, i);
+
+      _setNextCallbackContext(pool, CALLBACK_MODE_JUST_PAY, i == 0 ? msg.sender : address(this), params.tokens[i]);
+      (int128 amount0Delta, int128 amount1Delta) = IMetricOmmPoolActions(pool)
+        .swap(
+          i == last ? params.recipient : address(this),
+          zeroForOne,
+          amount,
+          MetricOmmSwapPath.openLimit(zeroForOne),
+          "",
+          params.extensionDatas[i]
+        );
+
+      int128 amountInActual = MetricOmmSwapResults.extractAmountIn(zeroForOne, amount0Delta, amount1Delta);
+      if (amountInActual < amount) revert InvalidInputAmountAtHop(uint8(i), amountInActual, amount);
+
+      amount = MetricOmmSwapResults.extractAmountOut(zeroForOne, amount0Delta, amount1Delta);
+    }
+```
+
+**File:** metric-periphery/contracts/extensions/base/BaseMetricExtension.sol (L19-24)
+```text
+  modifier onlyPool() {
+    if (!IMetricOmmPoolFactory(FACTORY).isPool(msg.sender)) {
+      revert OnlyPool(msg.sender, FACTORY);
+    }
+    _;
+  }
+```
+
+**File:** metric-periphery/test/extensions/SwapAllowlistSubExtension.t.sol (L26-38)
+```text
+  function test_revertsWhenSwapperNotAllowed() public {
+    vm.prank(address(pool));
+    vm.expectRevert(IMetricOmmPoolActions.NotAllowedToSwap.selector);
+    extension.beforeSwap(swapper, address(0), false, 0, 0, 0, 0, 0, "");
+  }
+
+  function test_passesWhenSwapperAllowed() public {
+    vm.prank(admin);
+    extension.setAllowedToSwap(address(pool), swapper, true);
+
+    vm.prank(address(pool));
+    extension.beforeSwap(swapper, address(0), false, 0, 0, 0, 0, 0, "");
+  }
+```

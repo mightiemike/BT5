@@ -1,0 +1,186 @@
+### Title
+`SwapAllowlistExtension` checks the router's address as `sender` instead of the actual end-user, allowing allowlist bypass via `MetricOmmSimpleRouter` — (`File: metric-periphery/contracts/extensions/SwapAllowlistExtension.sol`)
+
+---
+
+### Summary
+
+`SwapAllowlistExtension.beforeSwap` gates swaps by checking `allowedSwapper[pool][sender]`, where `sender` is the address that called `pool.swap()`. When a user routes through `MetricOmmSimpleRouter`, the pool's `msg.sender` is the router contract, so the extension checks the router's allowlist status rather than the actual end-user's. A pool admin who allowlists the router (a natural configuration for a curated pool that still wants to support the standard periphery) inadvertently grants every user on-chain access to the pool, completely defeating the per-user curation the extension was deployed to enforce.
+
+---
+
+### Finding Description
+
+**Call path:**
+
+```
+User → MetricOmmSimpleRouter.exactInputSingle()
+         → pool.swap(recipient, ..., extensionData)   // msg.sender = router
+              → _beforeSwap(msg.sender=router, recipient, ...)
+                   → SwapAllowlistExtension.beforeSwap(sender=router, ...)
+                        → allowedSwapper[pool][router]  ← checked, NOT the user
+```
+
+In `MetricOmmPool.swap`, the pool passes `msg.sender` as the `sender` argument to `_beforeSwap`: [1](#0-0) 
+
+`ExtensionCalling._beforeSwap` forwards that value unchanged to every configured extension: [2](#0-1) 
+
+`SwapAllowlistExtension.beforeSwap` then checks `allowedSwapper[msg.sender][sender]`, where `msg.sender` is the pool and `sender` is whoever called `pool.swap()`: [3](#0-2) 
+
+When the user enters through `MetricOmmSimpleRouter.exactInputSingle` (or any `exact*` variant), the router is the direct caller of `pool.swap()`: [4](#0-3) 
+
+So `sender` arriving at the extension is `address(router)`, not the user's address. The extension has no visibility into the original `msg.sender` of the router call.
+
+**Two concrete failure modes arise:**
+
+1. **Allowlist bypass (high impact):** A pool admin who wants to support the standard periphery allowlists the router address (`setAllowedToSwap(pool, router, true)`). Because the extension sees `sender = router` for every router-mediated swap, any non-allowlisted user can bypass the per-user gate simply by calling `exactInputSingle` / `exactInput` / `exactOutputSingle` / `exactOutput` on the public router.
+
+2. **Broken functionality for legitimate users (medium impact):** If the admin does *not* allowlist the router, every allowlisted user who tries to swap through the router is blocked (`NotAllowedToSwap`), even though they are individually permitted. The only working path is a direct `pool.swap()` call, which requires the caller to implement `IMetricOmmSwapCallback` themselves — an unreasonable burden for ordinary EOA users.
+
+Note that `DepositAllowlistExtension` does **not** share this flaw: it ignores `sender` entirely and gates on `owner`, which the liquidity adder passes through correctly as the position owner: [5](#0-4) 
+
+---
+
+### Impact Explanation
+
+**High.** A curated pool deploying `SwapAllowlistExtension` to restrict trading to KYC'd or otherwise vetted addresses loses that guarantee entirely the moment the router is allowlisted. Any address on-chain can execute swaps against the pool's liquidity by routing through `MetricOmmSimpleRouter`. This constitutes a direct broken-core-functionality / allowlist-bypass impact: the pool's LP assets are exposed to unrestricted swap flow that the pool admin explicitly intended to prevent.
+
+---
+
+### Likelihood Explanation
+
+**High.** `MetricOmmSimpleRouter` is the canonical, documented periphery entry point for swaps. A pool admin who configures `SwapAllowlistExtension` and also wants to support standard tooling (wallets, aggregators, the protocol's own UI) will naturally allowlist the router. The bypass requires no special privileges, no flash loans, and no unusual token behavior — only a standard router call.
+
+---
+
+### Recommendation
+
+The extension must check the *economically responsible* actor, not the immediate pool caller. Two complementary fixes:
+
+**Option A — pass the original user through `extensionData`:** The router encodes `msg.sender` into `extensionData`; the extension decodes and verifies it. This requires a protocol-level convention and is fragile if the router is upgraded.
+
+**Option B — check `sender` only when it is not a known router; otherwise require the user identity in `extensionData`:** Similar fragility.
+
+**Option C (recommended) — mirror the deposit allowlist design:** Gate on the address that is economically accountable. For swaps the payer is `msg.sender` of the router call. The router should forward the original caller's address as an authenticated field (e.g., via a signed permit or a trusted forwarder pattern), and the extension should verify that field rather than the raw `sender` argument.
+
+At minimum, the `SwapAllowlistExtension` documentation must warn that allowlisting the router grants unrestricted access to all users, and the admin interface should expose a "router-aware" mode that rejects router-mediated swaps unless the user identity is separately authenticated.
+
+---
+
+### Proof of Concept
+
+```solidity
+// Setup: curated pool with SwapAllowlistExtension
+// Admin allowlists alice and the router (to support standard tooling)
+swapExt.setAllowedToSwap(pool, alice, true);
+swapExt.setAllowedToSwap(pool, address(router), true);
+
+// Bob is NOT allowlisted
+// Direct call reverts correctly:
+vm.prank(bob);
+pool.swap(...);  // ← reverts NotAllowedToSwap (sender=bob, not allowlisted)
+
+// But router-mediated call succeeds — bypass:
+vm.prank(bob);
+router.exactInputSingle(
+    IMetricOmmSimpleRouter.ExactInputSingleParams({
+        pool: pool,
+        recipient: bob,
+        ...
+    })
+);
+// ↑ pool.swap() called with msg.sender=router
+// extension checks allowedSwapper[pool][router] → true
+// Bob's swap executes despite not being allowlisted
+```
+
+The root cause is in `SwapAllowlistExtension.beforeSwap` at line 37, which checks `allowedSwapper[msg.sender][sender]` where `sender` is the router, not the user: [6](#0-5)
+
+### Citations
+
+**File:** metric-core/contracts/MetricOmmPool.sol (L230-240)
+```text
+    _beforeSwap(
+      msg.sender,
+      recipient,
+      zeroForOne,
+      amountSpecified,
+      priceLimitX64,
+      packedSlot0Initial,
+      bidPriceX64,
+      askPriceX64,
+      extensionData
+    );
+```
+
+**File:** metric-core/contracts/ExtensionCalling.sol (L160-177)
+```text
+    _callExtensionsInOrder(
+      BEFORE_SWAP_ORDER,
+      abi.encodeCall(
+        IMetricOmmExtensions.beforeSwap,
+        (
+          sender,
+          recipient,
+          zeroForOne,
+          amountSpecified,
+          priceLimitX64,
+          packedSlot0Initial,
+          bidPriceX64,
+          askPriceX64,
+          extensionData
+        )
+      )
+    );
+  }
+```
+
+**File:** metric-periphery/contracts/extensions/SwapAllowlistExtension.sol (L31-41)
+```text
+  function beforeSwap(address sender, address, bool, int128, uint128, uint256, uint128, uint128, bytes calldata)
+    external
+    view
+    override
+    returns (bytes4)
+  {
+    if (!allowAllSwappers[msg.sender] && !allowedSwapper[msg.sender][sender]) {
+      revert IMetricOmmPoolActions.NotAllowedToSwap();
+    }
+    return IMetricOmmExtensions.beforeSwap.selector;
+  }
+```
+
+**File:** metric-periphery/contracts/MetricOmmSimpleRouter.sol (L71-86)
+```text
+    _setNextCallbackContext(params.pool, CALLBACK_MODE_JUST_PAY, msg.sender, params.tokenIn);
+    (int128 amount0Delta, int128 amount1Delta) = IMetricOmmPoolActions(params.pool)
+      .swap(
+        params.recipient,
+        params.zeroForOne,
+        MetricOmmSwapInputs.asAmountSpecifiedIn(params.amountIn),
+        priceLimitX64,
+        "",
+        params.extensionData
+      );
+    int128 out = MetricOmmSwapResults.extractAmountOut(params.zeroForOne, amount0Delta, amount1Delta);
+    amountOut = MetricOmmSwapInputs.int128ToUint128(out);
+    if (amountOut < params.amountOutMinimum) revert InsufficientOutput(amountOut, params.amountOutMinimum);
+
+    _clearExpectedCallbackPool();
+  }
+```
+
+**File:** metric-periphery/contracts/extensions/DepositAllowlistExtension.sol (L32-42)
+```text
+  function beforeAddLiquidity(address, address owner, uint80, LiquidityDelta calldata, bytes calldata)
+    external
+    view
+    override
+    returns (bytes4)
+  {
+    if (!allowAllDepositors[msg.sender] && !allowedDepositor[msg.sender][owner]) {
+      revert IMetricOmmPoolActions.NotAllowedToDeposit();
+    }
+    return IMetricOmmExtensions.beforeAddLiquidity.selector;
+  }
+```
