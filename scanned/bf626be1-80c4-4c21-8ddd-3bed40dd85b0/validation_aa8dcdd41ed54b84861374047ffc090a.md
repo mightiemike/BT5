@@ -1,1 +1,0 @@
-I need to trace the full swap path through the router and into the `SwapAllowlistExtension` to find the identity mismatch.
