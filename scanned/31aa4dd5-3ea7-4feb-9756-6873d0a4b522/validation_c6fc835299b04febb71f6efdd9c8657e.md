@@ -1,1 +1,0 @@
-Let me read the pool's swap function and the liquidity adder to complete the trace.
