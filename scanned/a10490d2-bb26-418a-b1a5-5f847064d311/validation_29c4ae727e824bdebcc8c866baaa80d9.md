@@ -1,1 +1,0 @@
-Looking at the extension guard plumbing, I need to trace the exact identity that each allowlist extension checks against the actual economic actor.

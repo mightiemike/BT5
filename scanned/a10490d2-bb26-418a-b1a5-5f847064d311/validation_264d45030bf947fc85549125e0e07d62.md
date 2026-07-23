@@ -1,1 +1,0 @@
-Let me look at the full `OracleValueStopLossExtension` and the pool's `swap` function to understand the complete hook flow.
