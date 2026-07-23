@@ -1,0 +1,1 @@
+[File: 'core/store/src/db/rocksdb/snapshot.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'] [Symbol: get_state_snapshot_base_dir / format!(\

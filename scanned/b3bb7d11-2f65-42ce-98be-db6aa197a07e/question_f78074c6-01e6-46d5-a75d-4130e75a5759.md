@@ -1,0 +1,1 @@
+[File: 'core/chain-configs/src/updatable_config.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'] [Symbol: MutableConfigValue<T>: Debug / format!(\

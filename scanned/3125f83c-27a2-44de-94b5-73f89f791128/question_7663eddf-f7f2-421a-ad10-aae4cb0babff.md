@@ -1,0 +1,1 @@
+[File: 'core/crypto/src/errors.rs -> Scope: High'] [Symbol: ParseKeyError / PublicKeyHandle::from_str (full ML-DSA-65 key rejected)] Can an attacker submit a JSON-RPC `view_access_key` request with `public_key = 'ml-dsa-65:<1952-byte-bs58>'` (the full pubkey form, not the hash form), causing `PublicKeyHandle::from_str` to return `ParseKeyError::InvalidData { error_message: \

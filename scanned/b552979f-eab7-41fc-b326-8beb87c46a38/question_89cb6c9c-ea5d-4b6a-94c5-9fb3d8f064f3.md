@@ -1,0 +1,1 @@
+[File: 'core/store/src/trie/mem/iter.rs -> Scope: Critical'] [Symbol: TrieIteratorImpl::iter_step / key_nibbles.last_mut().expect (ops/iter.rs:313)] Can an attacker-controlled transaction cause the iterator to reach AtChild(i) for i != 0 when key_nibbles is empty, triggering the expect(\
