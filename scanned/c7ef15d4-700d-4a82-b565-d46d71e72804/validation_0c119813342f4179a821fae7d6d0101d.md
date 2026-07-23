@@ -1,1 +1,0 @@
-Looking at the extension system, I need to trace the actor identity through the swap allowlist hook and the liquidity adder path.
