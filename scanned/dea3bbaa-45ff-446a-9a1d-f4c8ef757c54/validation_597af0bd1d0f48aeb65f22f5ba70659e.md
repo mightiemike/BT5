@@ -1,1 +1,0 @@
-Based on the code I've gathered, let me search for the pool's swap function and how it passes the sender to extensions.

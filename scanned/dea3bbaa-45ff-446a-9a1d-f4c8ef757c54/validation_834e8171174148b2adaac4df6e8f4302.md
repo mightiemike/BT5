@@ -1,1 +1,0 @@
-Looking at the extension guard plumbing, I need to trace how `sender` flows from the router through the pool into `SwapAllowlistExtension.beforeSwap`, and whether the identity checked matches the actor the pool admin intended to gate.
