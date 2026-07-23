@@ -1,0 +1,1 @@
+Looking at the `SwapAllowlistExtension`, `MetricOmmSimpleRouter`, and `MetricOmmPool`/`ExtensionCalling` interaction, I need to trace exactly what `sender` the extension sees when a user goes through the router.
