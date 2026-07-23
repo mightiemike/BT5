@@ -1,1 +1,0 @@
-I need to trace the full call path through the extension hooks, focusing on how `sender` is bound in the swap allowlist guard and whether the router path preserves the correct actor identity.

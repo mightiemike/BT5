@@ -1,1 +1,0 @@
-I need to read the key extension files and trace the exact call path to confirm the actor-binding issue.
