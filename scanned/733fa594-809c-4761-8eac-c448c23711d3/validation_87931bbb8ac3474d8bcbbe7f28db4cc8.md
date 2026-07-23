@@ -1,1 +1,0 @@
-I need to read the full `MetricOmmSwapRouterBase.sol` and `MetricOmmPool.sol` to confirm the `sender` identity passed to extensions, and check the `_requireFactoryPool` implementation.

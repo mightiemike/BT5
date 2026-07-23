@@ -1,1 +1,0 @@
-Looking at the `SwapAllowlistExtension`, `DepositAllowlistExtension`, `ExtensionCalling`, and the router/liquidity-adder periphery contracts to trace the actor identity through the hook path.
