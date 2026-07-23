@@ -1,1 +1,0 @@
-I need to systematically search for the analog: a storage slot derivation or authorization check that misses a key parameter (like pool address), causing cross-pool contamination in the extension/guard framework.
