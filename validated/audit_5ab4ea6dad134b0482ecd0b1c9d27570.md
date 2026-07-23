@@ -1,0 +1,1 @@
+Looking at the extension hook system, I need to trace how the `SwapAllowlistExtension` and `DepositAllowlistExtension` bind the checked identity to the actual actor, and whether the router or liquidity adder can decouple them.
