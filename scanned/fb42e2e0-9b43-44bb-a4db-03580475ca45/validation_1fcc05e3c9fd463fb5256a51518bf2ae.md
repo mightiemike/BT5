@@ -1,1 +1,0 @@
-I need to trace the full extension hook path — allowlist checks, oracle guards, and watermark state updates — to find a VaderBond-class analog (state overwritten/reset, causing loss of previously earned protection or claimable value).
