@@ -1,0 +1,1 @@
+Looking at the extension framework, I need to trace the allowlist path through the router to check if the `sender` identity checked by `SwapAllowlistExtension` is the correct actor.
