@@ -1,1 +1,0 @@
-Let me read the pool's swap function to confirm what `sender` is passed to the extension hook.
