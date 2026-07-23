@@ -1,1 +1,0 @@
-Let me read the `ExtensionCalling.sol` to understand how the `sender` parameter is passed to extensions.
