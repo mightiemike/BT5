@@ -1,1 +1,0 @@
-Looking at the `DepositAllowlistExtension` and how the pool passes actor identity to extensions, there is a clear analog to the external report's "wrong identity checked" pattern.
