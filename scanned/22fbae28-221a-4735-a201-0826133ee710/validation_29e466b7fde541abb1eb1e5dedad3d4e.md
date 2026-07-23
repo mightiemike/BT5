@@ -1,1 +1,0 @@
-Looking at the extension system, I need to read the `BaseMetricExtension` and understand how the allowlist extensions validate their callers.
