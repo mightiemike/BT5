@@ -1,0 +1,119 @@
+Audit Report
+
+## Title
+`DepositAllowlistExtension.beforeAddLiquidity` checks `owner` instead of `sender`, allowing non-allowlisted depositors to bypass the deposit guard — (`metric-periphery/contracts/extensions/DepositAllowlistExtension.sol`)
+
+## Summary
+`DepositAllowlistExtension.beforeAddLiquidity` silently discards the `sender` parameter (the actual token-providing caller) and gates only on `owner` (a free caller-supplied argument). Because any caller can set `owner` to any allowlisted address, a non-allowlisted address can bypass the deposit guard entirely by nominating an allowlisted address as position owner while itself providing the tokens. This defeats the sole access-control boundary for liquidity provision in permissioned pools.
+
+## Finding Description
+`MetricOmmPool.addLiquidity` passes `msg.sender` as `sender` and the caller-supplied `owner` as two distinct arguments to the extension hook: [1](#0-0) 
+
+`ExtensionCalling._beforeAddLiquidity` encodes both and forwards them to every registered extension: [2](#0-1) 
+
+`DepositAllowlistExtension.beforeAddLiquidity` receives `sender` as its first argument but names it with a blank identifier (discarding it entirely), then checks only `owner`: [3](#0-2) 
+
+The contract's own NatSpec declares the intent is to gate by **depositor address**: [4](#0-3) 
+
+The depositor is `sender` (the token-providing caller), not `owner`. The `removeLiquidity` path correctly enforces `msg.sender == owner`: [5](#0-4) 
+
+This means the position is locked to `owner`, but the tokens that funded it came from the unchecked `sender`. The `allowedDepositor` mapping is keyed on depositor address per the management function: [6](#0-5) 
+
+Yet the check reads `allowedDepositor[msg.sender][owner]` — the wrong key — making the guard trivially bypassable.
+
+## Impact Explanation
+An attacker controlling one allowlisted address `A` and any non-allowlisted address `B` can: call `pool.addLiquidity(owner=A, …)` from `B`; the allowlist check evaluates `allowedDepositor[pool][A]` and passes; `B` provides tokens via the liquidity callback; the position is credited to `A`; `A` calls `removeLiquidity` and returns tokens to `B` off-chain. The admin-configured deposit allowlist — the sole access-control boundary for liquidity provision — is fully bypassed. For pools deployed as permissioned venues (institutional, KYC-gated, or regulatory-compliance pools), this breaks the core invariant that only approved depositors can provide liquidity. Severity: Medium — the allowlist invariant is broken and the pool's permissioned character is defeated, though no protocol-level funds are directly drained.
+
+## Likelihood Explanation
+The attacker needs only one allowlisted address under their control — a realistic precondition since the attacker can legitimately obtain allowlist approval for one address and then use arbitrarily many non-approved addresses to deposit. The bypass requires no flash loans, no oracle manipulation, and no special timing; it is a single `addLiquidity` call with a crafted `owner` argument. The attack is repeatable and unprivileged.
+
+## Recommendation
+Change the guard to check `sender` (the actual depositor) instead of `owner`:
+
+```solidity
+function beforeAddLiquidity(address sender, address, uint80, LiquidityDelta calldata, bytes calldata)
+    external view override returns (bytes4)
+{
+    if (!allowAllDepositors[msg.sender] && !allowedDepositor[msg.sender][sender]) {
+        revert IMetricOmmPoolActions.NotAllowedToDeposit();
+    }
+    return IMetricOmmExtensions.beforeAddLiquidity.selector;
+}
+```
+
+If the intent is to gate both the depositor and the position owner, both addresses should be checked. The `setAllowedToDeposit` management function and the `allowedDepositor` mapping key should remain keyed on the depositing address, consistent with the NatSpec.
+
+## Proof of Concept
+
+```solidity
+// Setup: pool has DepositAllowlistExtension; attacker controls addressA (allowlisted) and addressB (not allowlisted)
+
+// Step 1: pool admin allowlists addressA
+depositAllowlist.setAllowedToDeposit(pool, addressA, true);
+
+// Step 2: addressB (non-allowlisted) calls addLiquidity with owner = addressA
+// beforeAddLiquidity receives: sender=addressB (ignored), owner=addressA (checked → passes)
+vm.prank(addressB);
+pool.addLiquidity(
+    addressA,       // owner — allowlisted, check passes
+    salt,
+    deltas,
+    callbackData,   // addressB provides tokens here
+    extensionData
+);
+
+// Step 3: addressA removes liquidity and returns tokens to addressB off-chain
+vm.prank(addressA);
+pool.removeLiquidity(addressA, salt, deltas, extensionData);
+// addressA transfers tokens back to addressB
+
+// Result: addressB (non-allowlisted) has effectively deposited and withdrawn,
+// bypassing the DepositAllowlistExtension entirely.
+```
+
+### Citations
+
+**File:** metric-core/contracts/MetricOmmPool.sol (L191-191)
+```text
+    _beforeAddLiquidity(msg.sender, owner, salt, deltas, extensionData);
+```
+
+**File:** metric-core/contracts/MetricOmmPool.sol (L206-206)
+```text
+    if (msg.sender != owner) revert NotPositionOwner();
+```
+
+**File:** metric-core/contracts/ExtensionCalling.sol (L95-98)
+```text
+    _callExtensionsInOrder(
+      BEFORE_ADD_LIQUIDITY_ORDER,
+      abi.encodeCall(IMetricOmmExtensions.beforeAddLiquidity, (sender, owner, salt, deltas, extensionData))
+    );
+```
+
+**File:** metric-periphery/contracts/extensions/DepositAllowlistExtension.sol (L11-11)
+```text
+/// @notice Gates `addLiquidity` by depositor address, per pool.
+```
+
+**File:** metric-periphery/contracts/extensions/DepositAllowlistExtension.sol (L18-20)
+```text
+  function setAllowedToDeposit(address pool_, address depositor, bool allowed) external onlyPoolAdmin(pool_) {
+    allowedDepositor[pool_][depositor] = allowed;
+    emit AllowedToDepositSet(pool_, depositor, allowed);
+```
+
+**File:** metric-periphery/contracts/extensions/DepositAllowlistExtension.sol (L32-42)
+```text
+  function beforeAddLiquidity(address, address owner, uint80, LiquidityDelta calldata, bytes calldata)
+    external
+    view
+    override
+    returns (bytes4)
+  {
+    if (!allowAllDepositors[msg.sender] && !allowedDepositor[msg.sender][owner]) {
+      revert IMetricOmmPoolActions.NotAllowedToDeposit();
+    }
+    return IMetricOmmExtensions.beforeAddLiquidity.selector;
+  }
+```
