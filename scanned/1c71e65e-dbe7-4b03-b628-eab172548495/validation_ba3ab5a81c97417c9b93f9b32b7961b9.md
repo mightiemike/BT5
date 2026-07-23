@@ -1,1 +1,0 @@
-Looking at the `SwapAllowlistExtension` and how the pool passes `sender` to it, versus how `MetricOmmSimpleRouter` calls the pool.

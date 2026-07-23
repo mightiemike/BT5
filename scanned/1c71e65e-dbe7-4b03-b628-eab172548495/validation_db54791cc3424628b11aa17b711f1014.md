@@ -1,1 +1,0 @@
-Looking at the `SwapAllowlistExtension`, `MetricOmmPool.swap`, and `MetricOmmSimpleRouter` together to trace the `sender` binding through the hook path.
