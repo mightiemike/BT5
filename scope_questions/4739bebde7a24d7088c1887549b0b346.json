@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/crypto/src/hash_domain.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_453d1730-e023-44f1-a67c-79aff76c11e7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/key_conversion.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_c84e7248-e6c5-4f99-a779-cf11cb83cf40?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/key_file.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_ddba6c9a-f3e7-4315-b7c4-e305d7848922?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/lib.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_5a98c96b-9313-4c06-a6fa-e1d7f32a6b16?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/signature.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_8cac9453-b76c-45f7-9662-54a776580d3b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/signer.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_9b97f1dd-9d06-430b-8bfc-90664ffc95ad?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/traits.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_fc9390cc-b462-4f07-8335-9fd8ed2be687?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/util.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_7141d7c8-cd33-4b74-9904-21e301408b84?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/crypto/src/vrf.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_274b1646-caca-4f8b-abfe-8457f1377dd5?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/dyn-configs/src/lib.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_3dda06b7-87f5-4e76-a400-79231b9110c2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/dyn-configs/src/metrics.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_942a8e49-9e83-4050-9709-4423649ab369?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/external-storage/src/lib.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_f590d90a-d1a6-4b91-aab5-bb1c04246f78?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/env_filter.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_83d9f7c9-311a-450f-ab30-3cb0f6943192?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/io_tracer.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_339fda35-e3f0-488c-b5b8-fc59c9e76108?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/lib.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_df08989b-b725-44de-b27f-4458d213084c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/log_config.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_ed31ce46-b747-458c-ba2a-882b78c0c1a2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/log_counter.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_a3d089ca-5730-4c48-b5c0-d592195789f3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/metrics.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_b19df0b3-0469-4b32-97f1-7cf35e0bfad2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/opentelemetry.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_25b22021-8941-4a65-b99c-6cedeb05a997?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/reload.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_b95cc1a0-3072-4f3a-8335-18bf598a0998?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/span_wrapped_msg.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_1cb9edd8-8f0d-4724-bb23-50bf6929fbf0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/o11y/src/subscriber.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_85c2da63-5a38-4826-a120-4b7bda02720f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/parameters/src/config.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_e0f8fd81-4516-4212-ada2-b16a2a48bd09?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/parameters/src/config_store.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_c3756a06-d5a2-444e-ae01-14d5ab9d4b9d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/parameters/src/cost.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_358e5c23-7cfb-4af6-a338-14c13580bd5a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/parameters/src/lib.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_5a768b94-66cb-4eb4-93c6-411379b77a8a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/parameters/src/parameter.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_420ad26d-36ee-4100-9ea3-99e5d9f549b9?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/parameters/src/parameter_table.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_ef4e30cf-96a7-4155-affa-7a3dc267050f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/parameters/src/view.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_3ad945a8-b30c-4485-98a0-4a87bc6ab27f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/parameters/src/vm.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_013f850a-8ec6-416a-895e-852d86625593?mode=deep",
+    "questions_generated": false
+  }
+]
