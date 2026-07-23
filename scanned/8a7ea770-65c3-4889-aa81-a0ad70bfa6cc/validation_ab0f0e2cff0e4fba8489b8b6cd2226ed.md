@@ -1,1 +1,0 @@
-Looking at the extension guard plumbing, I need to trace how `sender` flows from a public swap call through the router into `SwapAllowlistExtension.beforeSwap()`.

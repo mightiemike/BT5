@@ -1,1 +1,0 @@
-Looking at the swap allowlist path, the pool's `swap()

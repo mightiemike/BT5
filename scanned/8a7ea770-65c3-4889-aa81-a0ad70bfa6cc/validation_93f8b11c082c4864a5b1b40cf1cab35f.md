@@ -1,1 +1,0 @@
-Looking at the `SwapAllowlistExtension` and how the router forwards swaps to the pool, I can trace a concrete allowlist bypass.
