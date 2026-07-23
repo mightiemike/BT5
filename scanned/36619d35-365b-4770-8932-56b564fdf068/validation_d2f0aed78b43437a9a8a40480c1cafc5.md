@@ -1,1 +1,0 @@
-Looking at the repository structure, I need to trace the swap allowlist guard through the router path to find the analog to the NounsDAO "configured list causes wrong actor to be checked" bug class.
