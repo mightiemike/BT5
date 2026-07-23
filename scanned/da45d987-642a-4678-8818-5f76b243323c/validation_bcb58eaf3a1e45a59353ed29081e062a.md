@@ -1,1 +1,0 @@
-Looking at the `SwapAllowlistExtension` and how `MetricOmmSimpleRouter` calls the pool, I can trace a concrete wrong-actor binding bug.

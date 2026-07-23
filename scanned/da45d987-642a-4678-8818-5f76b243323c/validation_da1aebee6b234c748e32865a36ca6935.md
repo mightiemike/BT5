@@ -1,1 +1,0 @@
-Looking at the extension system, I need to trace the exact actor binding through the swap allowlist path.
