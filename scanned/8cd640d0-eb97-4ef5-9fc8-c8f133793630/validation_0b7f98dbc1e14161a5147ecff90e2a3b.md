@@ -1,3 +1,0 @@
-Looking at the external report's invariant: a state-based guard (frozen flag) that should block all interactions is not checked in every relevant function, allowing a malicious actor to bypass it through an alternate path.
-
-I need to find the analog in Metric OMM: a configured guard that should block specific actors but is not applied to the actual economic actor when they route through an intermediary.
