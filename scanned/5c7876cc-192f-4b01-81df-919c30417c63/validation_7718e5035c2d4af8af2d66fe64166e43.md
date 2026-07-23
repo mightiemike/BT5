@@ -1,1 +1,0 @@
-Let me look at the allowlist extensions and the base extension for potential bypasses.
