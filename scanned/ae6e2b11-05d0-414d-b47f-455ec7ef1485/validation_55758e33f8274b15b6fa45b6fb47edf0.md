@@ -1,1 +1,0 @@
-Looking at the extension hook plumbing, specifically the `DepositAllowlistExtension`, I can identify a concrete allowlist bypass.
