@@ -1,0 +1,1 @@
+Let me look at the pool's `swap` function and how it passes `sender` to the extension, plus the `ValidateExtensionsConfig` full file.
