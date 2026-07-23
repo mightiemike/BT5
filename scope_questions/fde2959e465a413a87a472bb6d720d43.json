@@ -1,0 +1,152 @@
+[
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/children.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_92a11ecc-ea28-4610-ba69-0624e0111cde?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/encoding.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_979cd2b4-4674-4747-8485-74494f083f42?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/extension.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_14772055-aec9-4ce4-8983-7c9929098119?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/mod.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_a0415202-e5ef-4fab-bb63-c5ab52243ad0?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/flexible_data/value.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_163292f1-2c34-49c4-86b4-3c6c89542013?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/freelist.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_d70725a8-edae-4cc1-9b63-f788583a1b00?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/iter.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_b6a32233-89ad-4ee5-8b5c-63b2f55aeb7b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/loading.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_4ecebf50-8ec0-4598-9954-a04fb2e1d495?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/lookup.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_5ce4db08-b949-4ca9-b3ee-62e3ee481906?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/memtrie_update.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_94063d5a-22b0-4085-b489-599af2c524ec?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/memtries.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_abe76596-48ab-4ba4-b5ae-35283440f3b4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/metrics.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_1eac3d8a-6d21-49e4-8e34-6d2244f035f7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/mod.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_d564f72e-74ef-445f-91ed-bddbd4559668?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/nibbles_utils.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_efe4fe8e-79b7-4dd4-b8f4-9c37faa4e9c3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/node/encoding.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_22ab2753-ba20-47ee-912a-7871f720750b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/node/mod.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_2eb831cb-1535-4f39-8339-0b269be26c5b?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/node/view.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_69b19c2c-2c45-4b00-8bb5-df642d1bf70f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mem/parallel_loader.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_cb695e1f-7ef0-44eb-89ce-abcbe6cf536a?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/mod.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_be36b63c-f408-4087-bfe0-28996648e047?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/nibble_slice.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_527e1aed-5834-4672-a64c-169f701b03e4?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/insert_delete.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_563c3060-b917-450e-ad71-792accd8af8e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/interface.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_42550dfd-0111-489f-8faa-c0446587a801?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/iter.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_c7949eca-d858-4e12-9432-1df58daa7c2c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/mod.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_eaec0fd5-fec2-44ed-a329-6ce12b465548?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/resharding.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_119255cf-c334-4f44-9362-de0fe4d1fa15?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/ops/squash.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_c0b7a5bb-6e6e-4f60-826f-01f50b28dd71?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/outgoing_metadata.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_99f520e7-4701-467e-b81a-9ab1d9c5f388?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/prefetching_trie_storage.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_6813f2c9-71e2-446f-9780-fb27ff90fc5c?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/raw_node.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_323a8f17-2c35-4de3-bc5c-3e316ad59ae6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: core/store/src/trie/receipts_column_helper.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_e4d3fbf0-fa1b-4a5d-84ac-79fec1b3f9bf?mode=deep",
+    "questions_generated": false
+  }
+]
