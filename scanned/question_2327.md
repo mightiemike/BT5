@@ -1,0 +1,13 @@
+# Q2327: hash-root ambiguity in block_header::compute_hash_and_sign
+
+## Question
+Can an unprivileged attacker submit transactions whose resulting objects share equivalent logical content but different encodings that reaches `core/primitives/src/block_header.rs::compute_hash_and_sign` with control over serialized forms of actions, receipts, or blocks that remain logically equivalent and make nearcore derive a canonical hash or root from representation details rather than canonical content, breaking the invariant that canonical hashes and roots must depend only on canonical content, and leading to consensus flaws?
+
+## Target
+- File/function: `core/primitives/src/block_header.rs::compute_hash_and_sign`
+- Entrypoint: submit transactions whose resulting objects share equivalent logical content but different encodings
+- Attacker controls: serialized forms of actions, receipts, or blocks that remain logically equivalent
+- Exploit idea: derive a canonical hash or root from representation details rather than canonical content
+- Invariant to test: canonical hashes and roots must depend only on canonical content
+- Expected Immunefi impact: Consensus flaws
+- Fast validation: write a hash-consistency test across equivalent encodings and assert all canonical hashes stay identical

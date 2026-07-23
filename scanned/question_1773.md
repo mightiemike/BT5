@@ -1,0 +1,13 @@
+# Q1773: epoch-boundary stake accounting in verifier::check_storage_stake
+
+## Question
+Can an unprivileged attacker submit stake or unstake transactions near an epoch transition that reaches `runtime/runtime/src/verifier.rs::check_storage_stake` with control over stake amount, timing around the epoch boundary, and related balance-moving transactions and make nearcore apply locked and unlocked balance updates in different epoch views, breaking the invariant that staking balance, locked balance, and liquid balance must reconcile exactly across epoch transitions, and leading to balance manipulation?
+
+## Target
+- File/function: `runtime/runtime/src/verifier.rs::check_storage_stake`
+- Entrypoint: submit stake or unstake transactions near an epoch transition
+- Attacker controls: stake amount, timing around the epoch boundary, and related balance-moving transactions
+- Exploit idea: apply locked and unlocked balance updates in different epoch views
+- Invariant to test: staking balance, locked balance, and liquid balance must reconcile exactly across epoch transitions
+- Expected Immunefi impact: Balance manipulation
+- Fast validation: write an epoch-boundary staking test and assert locked and liquid balances reconcile before and after the transition

@@ -1,0 +1,13 @@
+# Q14895: stale predecessor state use in profile_data_v2::serialize
+
+## Question
+Can an unprivileged attacker submit transactions that update the same state across sequential chunks or shard updates that reaches `core/primitives/src/profile_data_v2.rs::serialize` with control over cross-chunk dependencies and repeated writes to hot accounts or contracts and make nearcore apply later work against a stale predecessor snapshot instead of the current canonical one, breaking the invariant that every accepted transition must execute against the latest canonical predecessor state, and leading to consensus flaws?
+
+## Target
+- File/function: `core/primitives/src/profile_data_v2.rs::serialize`
+- Entrypoint: submit transactions that update the same state across sequential chunks or shard updates
+- Attacker controls: cross-chunk dependencies and repeated writes to hot accounts or contracts
+- Exploit idea: apply later work against a stale predecessor snapshot instead of the current canonical one
+- Invariant to test: every accepted transition must execute against the latest canonical predecessor state
+- Expected Immunefi impact: Consensus flaws
+- Fast validation: write a sequential-chunk dependency test and assert later chunks always read the predecessor state committed by earlier ones

@@ -1,0 +1,13 @@
+# Q17933: refund authorization mismatch in signer_overlay::AccountEntry
+
+## Question
+Can an unprivileged attacker submit a transaction that deliberately triggers refund logic that reaches `chain/chain/src/runtime/signer_overlay.rs::AccountEntry` with control over deposit, receiver, callback path, and failure mode and make nearcore route a refund using stale signer or receiver context and send value to an unintended account, breaking the invariant that refunds must always return value to the exact account dictated by the executed transaction semantics, and leading to stealing or loss of funds?
+
+## Target
+- File/function: `chain/chain/src/runtime/signer_overlay.rs::AccountEntry`
+- Entrypoint: submit a transaction that deliberately triggers refund logic
+- Attacker controls: deposit, receiver, callback path, and failure mode
+- Exploit idea: route a refund using stale signer or receiver context and send value to an unintended account
+- Invariant to test: refunds must always return value to the exact account dictated by the executed transaction semantics
+- Expected Immunefi impact: Stealing or loss of funds
+- Fast validation: write a failing-call scenario with chained refunds and assert the final refund target and amount stay exact

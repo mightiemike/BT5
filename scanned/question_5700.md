@@ -1,0 +1,13 @@
+# Q5700: delegate payload normalization gap in transactions::old_timeout_format_parses_on_new_client
+
+## Question
+Can an unprivileged attacker submit a delegate action through the public submission API that reaches `chain/jsonrpc-primitives/src/types/transactions.rs::old_timeout_format_parses_on_new_client` with control over delegate body encoding, nested action order, and expiration or nonce fields and make nearcore normalize one delegate payload differently in RPC and runtime layers so the signed meaning changes, breaking the invariant that delegate payload meaning must stay identical from RPC parsing through runtime execution, and leading to cryptographic flaws?
+
+## Target
+- File/function: `chain/jsonrpc-primitives/src/types/transactions.rs::old_timeout_format_parses_on_new_client`
+- Entrypoint: submit a delegate action through the public submission API
+- Attacker controls: delegate body encoding, nested action order, and expiration or nonce fields
+- Exploit idea: normalize one delegate payload differently in RPC and runtime layers so the signed meaning changes
+- Invariant to test: delegate payload meaning must stay identical from RPC parsing through runtime execution
+- Expected Immunefi impact: Cryptographic flaws
+- Fast validation: write an end-to-end delegate submission test and assert parsed delegate fields exactly match the signed body seen by the runtime

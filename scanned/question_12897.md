@@ -1,0 +1,13 @@
+# Q12897: account or key conversion ambiguity in vrf::public_key
+
+## Question
+Can an unprivileged attacker submit transactions or contracts that reference attacker-chosen account ids or keys that reaches `core/crypto/src/vrf.rs::public_key` with control over identifiers and key material near conversion edge cases and make nearcore convert one account or key representation into another security domain without full validation, breaking the invariant that identifier and key conversions must preserve identity exactly across all security boundaries, and leading to unauthorized transaction?
+
+## Target
+- File/function: `core/crypto/src/vrf.rs::public_key`
+- Entrypoint: submit transactions or contracts that reference attacker-chosen account ids or keys
+- Attacker controls: identifiers and key material near conversion edge cases
+- Exploit idea: convert one account or key representation into another security domain without full validation
+- Invariant to test: identifier and key conversions must preserve identity exactly across all security boundaries
+- Expected Immunefi impact: Unauthorized transaction
+- Fast validation: write a conversion-edge test and assert equivalent-looking but distinct identities cannot authenticate one another

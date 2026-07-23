@@ -1,0 +1,13 @@
+# Q19742: cross-shard refund relocation in utils::validity_period_validate_is_ancestor
+
+## Question
+Can an unprivileged attacker submit a cross-shard transaction that fails after producing storage-affecting receipts that reaches `chain/chain/src/store/utils.rs::validity_period_validate_is_ancestor` with control over receipt destinations, refund amounts, and shard-boundary placement of the involved accounts and make nearcore move a refund record to the wrong shard or lose it while reconciling storage-owned receipt metadata, breaking the invariant that cross-shard refund records must be routed and reconciled exactly once to the intended account, and leading to stealing or loss of funds?
+
+## Target
+- File/function: `chain/chain/src/store/utils.rs::validity_period_validate_is_ancestor`
+- Entrypoint: submit a cross-shard transaction that fails after producing storage-affecting receipts
+- Attacker controls: receipt destinations, refund amounts, and shard-boundary placement of the involved accounts
+- Exploit idea: move a refund record to the wrong shard or lose it while reconciling storage-owned receipt metadata
+- Invariant to test: cross-shard refund records must be routed and reconciled exactly once to the intended account
+- Expected Immunefi impact: Stealing or loss of funds
+- Fast validation: write a failing cross-shard path and assert the refund metadata and final balance end up on the intended shard and account
