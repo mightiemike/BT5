@@ -1,0 +1,1 @@
+Looking at the `SwapAllowlistExtension`, `MetricOmmPool.swap`, and `MetricOmmSimpleRouter` together reveals a concrete allowlist bypass.
