@@ -1,1 +1,0 @@
-I need to examine the extension files more carefully, particularly the `SwapAllowlistExtension` and how `sender` flows through the router.

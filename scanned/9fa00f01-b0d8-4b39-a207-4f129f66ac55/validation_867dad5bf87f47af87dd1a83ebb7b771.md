@@ -1,1 +1,0 @@
-Looking at the extension guard system, I need to trace how `sender` vs `owner` are passed through the hook plumbing and what each allowlist extension actually checks.
