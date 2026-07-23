@@ -1,0 +1,117 @@
+[
+  {
+    "question": "'File Name: runtime/runtime/src/config.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_a73cda5b-c278-42ec-9428-87702cd03b7f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/congestion_control.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_6e5ff4bb-2e92-4cf6-8791-5a6b4adec33d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/contract_code.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_c5c047db-e0cd-407c-b233-052d1c389c13?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/conversions.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_411f7773-19a6-47c4-a204-c0fa60eeb7a3?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/deterministic_account_id.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_0c669995-91b3-4c06-96b8-e82dce627339?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/ext.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_8d8be53d-8497-480d-8922-48c979163ed2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/function_call.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_4e29a561-a8b2-4a1c-9ef1-07e7b454ae9d?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/global_contracts.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_69df747a-0c8a-4a40-bdd6-3ecd7f89c6d2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/lib.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_9d41fc53-f41e-4b63-ae54-6bc66ac54784?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/metrics.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_f200138c-1b8a-47e3-873b-00b28817fa44?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/pipelining.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_0066a874-161b-4a1d-8a13-15351f8ecffa?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/prefetch.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_930f01f8-eaa4-432f-b187-d931d90f9b70?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/receipt_manager.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_42765c56-8ff9-4ba0-9294-0af55d3b16c7?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/state_viewer/errors.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_6d837203-76a0-4f7b-930b-a2d99782b8bc?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/state_viewer/mod.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_19cc008a-3770-4649-9263-4acccad04d8e?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/types.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_e8b14e61-d76d-4de4-ade6-589ff76b68f2?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: runtime/runtime/src/verifier.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_04141694-0aac-421d-bdc3-a4baf7c2c89f?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: utils/config/src/lib.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_aac03b11-580c-4b9d-8407-666698d9a0c6?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: utils/near-cache/src/cell.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_291e211a-22dd-4c3a-8552-915a0047adb8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: utils/near-cache/src/lib.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_55c7be64-1def-447e-8bca-3b27d9dd4974?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: utils/near-cache/src/sync.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_b553a586-a73b-43f6-8369-ce15cf9deab8?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: utils/near-stable-hasher/src/lib.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_c7af0c55-525b-4064-9d16-a2d51bdd4167?mode=deep",
+    "questions_generated": false
+  },
+  {
+    "question": "'File Name: utils/stdx/src/lib.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'",
+    "url": "https://deepwiki.com/search/-generate-nearcore-security-qu_3066be02-96b8-4231-9876-b53f1a66b3da?mode=deep",
+    "questions_generated": false
+  }
+]
