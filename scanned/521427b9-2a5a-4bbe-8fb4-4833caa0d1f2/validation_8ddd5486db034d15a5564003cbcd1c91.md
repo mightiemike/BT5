@@ -1,1 +1,0 @@
-After reading the full extension system, pool swap flow, and all periphery extension contracts, here is my analysis:
