@@ -1,0 +1,1 @@
+Looking at the codebase, I need to trace the swap allowlist guard path through the router to find the analog to the VTVLVesting decimal-conversion misapplication.
