@@ -1,1 +1,0 @@
-Looking at the call chain from `MetricOmmSimpleRouter` → `MetricOmmPool.swap` → `ExtensionCalling._beforeSwap` → `SwapAllowlistExtension.beforeSwap`, I can trace the exact identity mismatch.
