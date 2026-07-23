@@ -1,0 +1,1 @@
+[File: 'core/o11y/src/opentelemetry.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'] [Symbol: add_opentelemetry_layer / KeyValue::new(\

@@ -1,0 +1,1 @@
+[File: 'core/time/src/serde.rs -> Scope: Critical. An unprivileged attacker can trigger a consensus flaw through ordinary user-controlled transactions, contracts, or default RPC submission paths alone, with no trusted or network-level role.'] [Symbol: serde_duration_as_std::deserialize / header_sync_stall_ban_timeout] Can attacker-controlled JSON input {\
