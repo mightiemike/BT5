@@ -1,1 +1,0 @@
-Let me read the pool's swap function to confirm the `sender` argument passed to `_beforeSwap`.
