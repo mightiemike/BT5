@@ -1,1 +1,0 @@
-Looking at the extension guard path in Metric OMM, specifically the `SwapAllowlistExtension` and how `sender` flows from the router through the pool into the extension check.
