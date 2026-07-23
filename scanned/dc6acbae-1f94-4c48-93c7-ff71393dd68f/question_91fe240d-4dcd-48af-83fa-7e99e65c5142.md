@@ -1,0 +1,1 @@
+[File: 'core/primitives/src/genesis/mod.rs -> Scope: Critical'] [Symbol: prod_genesis_block] Can an attacker-controlled chunks vector containing a non-V1 ShardChunkHeader (e.g., ShardChunkHeader::V3) passed to prod_genesis_block reach the match arm `_ => panic!(\

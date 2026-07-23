@@ -1,0 +1,1 @@
+[File: 'core/chain-configs/src/metrics.rs -> Scope: Critical'] [Symbol: MutableConfigValue<T>::new / set_metric_value called in constructor] Can an unprivileged attacker cause a node startup panic by supplying a config value whose format!(\

@@ -1,0 +1,1 @@
+[File: 'core/o11y/src/opentelemetry.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'] [Symbol: add_opentelemetry_layer / KeyValue::new(\
