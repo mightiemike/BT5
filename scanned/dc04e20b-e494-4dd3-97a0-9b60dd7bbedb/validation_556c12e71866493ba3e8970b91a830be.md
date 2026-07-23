@@ -1,1 +1,0 @@
-Looking at the extension guard system, I need to trace the `PriceVelocityGuardExtension` initialization path carefully.
