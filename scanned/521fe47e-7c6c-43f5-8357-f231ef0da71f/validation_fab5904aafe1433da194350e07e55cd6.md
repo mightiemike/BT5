@@ -1,1 +1,0 @@
-I need to read the pool's `swap` function to confirm what `sender` is passed to `_beforeSwap`, and also look at the `LiquidityAdder` to check the deposit path.
