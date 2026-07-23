@@ -1,1 +1,0 @@
-Looking at the full `_metrics` and `_clampMetric` logic in `OracleValueStopLossExtension.sol`, and the `_checkAndUpdateWatermarks` / `_applyWatermark` flow.
