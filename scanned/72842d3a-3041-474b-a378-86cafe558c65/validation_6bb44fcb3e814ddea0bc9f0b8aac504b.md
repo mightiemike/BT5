@@ -1,1 +1,0 @@
-Looking at the repository structure, I need to trace the extension guard configuration path — specifically the `OracleValueStopLossExtension` — for missing input validation analogous to the TidalFinance `addPolicy`/`setPolicy` bug.

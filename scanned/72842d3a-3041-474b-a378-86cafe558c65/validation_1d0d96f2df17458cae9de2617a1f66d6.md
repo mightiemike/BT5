@@ -1,1 +1,0 @@
-I need to read the key extension files and pool logic carefully to find a TOCTOU-analog in the hook/guard plumbing.
