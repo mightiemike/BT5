@@ -1,1 +1,0 @@
-Looking at the extension hook plumbing, the `MetricOmmPool.swap()` call path, and the router's interaction with the allowlist extension.
