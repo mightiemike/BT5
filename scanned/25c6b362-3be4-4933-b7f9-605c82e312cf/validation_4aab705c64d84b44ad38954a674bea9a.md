@@ -1,1 +1,0 @@
-Looking at the codebase, I need to trace the extension hook path — specifically how `SwapAllowlistExtension` validates the swapper identity when the pool is called through `MetricOmmSimpleRouter`.
