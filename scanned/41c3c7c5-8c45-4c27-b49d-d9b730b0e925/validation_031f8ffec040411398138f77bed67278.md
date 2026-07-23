@@ -1,1 +1,0 @@
-Let me look at the remaining extensions and the allowlist extension for the `||` vs `&&` analog.
