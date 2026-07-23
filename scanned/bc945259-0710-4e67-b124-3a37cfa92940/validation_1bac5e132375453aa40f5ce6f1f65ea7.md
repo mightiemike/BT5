@@ -1,1 +1,0 @@
-Let me read the full pool swap function and the ExtensionCalling contract to complete the trace.
