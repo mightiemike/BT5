@@ -1,1 +1,0 @@
-I need to read the extension contracts and the SwapMath library to complete the analysis before synthesizing my answer.
