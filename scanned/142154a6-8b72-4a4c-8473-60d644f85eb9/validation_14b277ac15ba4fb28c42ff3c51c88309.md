@@ -1,1 +1,0 @@
-Looking at the `SwapAllowlistExtension` and how the router passes identity to the pool's hook, I can trace a concrete analog.
