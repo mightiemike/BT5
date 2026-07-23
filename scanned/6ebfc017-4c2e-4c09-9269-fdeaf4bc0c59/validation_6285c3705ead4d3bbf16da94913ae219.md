@@ -1,1 +1,0 @@
-Looking at the `SwapAllowlistExtension` and how the router interacts with it, I need to trace the full call path carefully.
