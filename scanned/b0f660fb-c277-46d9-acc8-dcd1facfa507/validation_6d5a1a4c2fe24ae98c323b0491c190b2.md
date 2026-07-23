@@ -1,1 +1,0 @@
-Let me look at the pool's `addLiquidity` function and the `MetricOmmPoolLiquidityAdder` to confirm the `sender` vs `owner` semantics.
