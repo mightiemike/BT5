@@ -1,1 +1,0 @@
-I need to trace the full swap path through the allowlist extension, the router, and the pool to find the analog.
