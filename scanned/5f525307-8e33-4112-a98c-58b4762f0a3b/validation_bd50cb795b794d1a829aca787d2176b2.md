@@ -1,1 +1,0 @@
-I need to trace the full hook/guard path for deposits and swaps to find an analog to the ERC721 reentrancy/check-bypass pattern.

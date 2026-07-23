@@ -1,1 +1,0 @@
-Let me look at the extensions and hook paths more carefully.
