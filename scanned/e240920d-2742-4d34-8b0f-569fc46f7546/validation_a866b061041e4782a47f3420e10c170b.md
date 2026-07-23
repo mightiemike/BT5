@@ -1,1 +1,0 @@
-Looking at the codebase, I need to trace the swap allowlist guard through the router path to find an analog to the GMX "destination market appears multiple times" accounting bypass — specifically, a guard that is misapplied because the wrong identity is checked.
