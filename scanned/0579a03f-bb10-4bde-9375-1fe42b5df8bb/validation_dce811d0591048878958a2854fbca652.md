@@ -1,1 +1,0 @@
-Looking at the extension guard plumbing, I need to trace the `beforeAddLiquidity` hook through the pool → extension call chain and compare what address is checked against the allowlist versus what address is the actual depositor.
