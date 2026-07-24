@@ -1,1 +1,0 @@
-[File: 'File Name: core/o11y/src/log_counter.rs -> Scope: Critical. An unprivileged attacker can trigger an unauthorized transaction, balance manipulation, fee payment bypass, or transaction manipulation through broken access-key, nonce, signature, delegate-action, or receipt validation.'] [Symbol: LogCounter::default (line 80-85: LOG_COUNTER.with_label_values(&[\
