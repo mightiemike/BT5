@@ -1,1 +1,0 @@
-[File: 'chain/jsonrpc-primitives/src/types/mod.rs -> Scope: High. An unprivileged attacker can trigger a non-network-level denial of service through transactions, contract execution, or default RPC submission, materially stalling execution or block processing without requiring a hardfork to fix.'] [Symbol: RpcError::new_internal_or_handler_error (error_struct[\
