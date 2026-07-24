@@ -1,1 +1,0 @@
-[File: 'core/async/src/futures.rs -> Scope: Critical. An unprivileged attacker can cause stealing or loss of funds by making nearcore accept or apply an invalid transaction, receipt, state transition, contract execution result, or shard state update.'] [Symbol: StdThreadAsyncComputationSpawner::spawn_boxed / expect(\
