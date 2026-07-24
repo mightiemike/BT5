@@ -1,1 +1,0 @@
-[File: 'core/o11y/src/span_wrapped_msg.rs -> Scope: Critical'] [Symbol: SpanWrapped::from (debug_span! never entered)] Can an attacker submit a transaction that traverses the full actor message path under a state where distributed tracing is enabled and the node is processing receipts, traversing From<T>::from() -> debug_span!(\
