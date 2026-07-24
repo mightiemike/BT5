@@ -1,1 +1,0 @@
-[File: 'core/primitives-core/src/gas.rs -> Scope: Critical'] [Symbol: Gas (serde::Serialize emits u64 number, serde::Deserialize via NearGas accepts string or number)] Can an attacker submit a JSON string value (e.g. '\
